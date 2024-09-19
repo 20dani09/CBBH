@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Injection/SQL.md",
+                "file": "SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Injection/SQL.md",
+                "file": "SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Injection/SQL.md",
+                "file": "SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Injection/SQL.md"
+                "file": "SQL Injection.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
+    "SQL Injection/SQL.md",
+    "SQL Injection.md",
     "SQL Injection",
-    "Welcome.md",
-    "SQL Injection/SQL.md"
+    "Welcome.md"
   ]
 }
