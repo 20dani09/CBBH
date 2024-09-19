@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "SQL Injection/SQL.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9e6628050afa489a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8cf1f067661fd5de",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "SQL Injection/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "SQL Injection/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "SQL Injection/SQL.md"
               }
             }
           }
@@ -152,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,6 +149,8 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
-    "Welcome.md"
+    "SQL Injection",
+    "Welcome.md",
+    "SQL Injection/SQL.md"
   ]
 }
