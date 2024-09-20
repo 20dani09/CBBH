@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Injection.md",
+                "file": "1 - Web Requests/2 - HTTPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Injection.md",
+                "file": "1 - Web Requests/2 - HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Injection.md",
+                "file": "1 - Web Requests/2 - HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Injection.md"
+                "file": "1 - Web Requests/2 - HTTPS.md"
               }
             }
           }
@@ -149,8 +149,16 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
-    "SQL Injection/SQL.md",
+    "images/Pasted image 20240920055622.png",
+    "1 - Web Requests/1 - HTTP.md",
+    "1 - Web Requests/2 - HTTPS.md",
+    "1 - Web Requests/Untitled",
+    "images",
+    "images/Pasted image 20240920054915.png",
+    "images/Pasted image 20240920054847.png",
     "SQL Injection.md",
+    "1 - Web Requests",
+    "SQL Injection/SQL.md",
     "SQL Injection",
     "Welcome.md"
   ]
