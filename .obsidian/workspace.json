@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Web Requests/2 - HTTPS.md",
+                "file": "1 - Web Requests/3 - HTTP Requests and Responses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Web Requests/2 - HTTPS.md",
+                "file": "1 - Web Requests/3 - HTTP Requests and Responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Web Requests/2 - HTTPS.md",
+                "file": "1 - Web Requests/3 - HTTP Requests and Responses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Web Requests/2 - HTTPS.md"
+                "file": "1 - Web Requests/3 - HTTP Requests and Responses.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
-    "images/Pasted image 20240920055622.png",
     "1 - Web Requests/1 - HTTP.md",
     "1 - Web Requests/2 - HTTPS.md",
+    "1 - Web Requests/3 - HTTP Requests and Responses.md",
+    "images/Pasted image 20240920060145.png",
+    "images/Pasted image 20240920060131.png",
+    "images/Pasted image 20240920055622.png",
     "1 - Web Requests/Untitled",
     "images",
     "images/Pasted image 20240920054915.png",
