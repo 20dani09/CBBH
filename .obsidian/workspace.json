@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Web Requests/HTTP Fundamentals/4 - HTTP Headers.md",
+                "file": "1 - Web Requests/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Web Requests/HTTP Fundamentals/4 - HTTP Headers.md",
+                "file": "1 - Web Requests/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Web Requests/HTTP Fundamentals/4 - HTTP Headers.md",
+                "file": "1 - Web Requests/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Web Requests/HTTP Fundamentals/4 - HTTP Headers.md"
+                "file": "1 - Web Requests/test.md"
               }
             }
           }
@@ -138,21 +138,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84840cfe5784a350",
+  "active": "a0356687735c3221",
   "lastOpenFiles": [
+    "1 - Web Requests/HTTP Fundamentals/4 - HTTP Headers.md",
+    "1 - Web Requests/test.md",
     "1 - Web Requests/HTTP Methods",
     "1 - Web Requests/HTTP Fundamentals",
     "1 - Web Requests/HTTP Fundamentals/3 - HTTP Requests and Responses.md",
-    "1 - Web Requests/HTTP Fundamentals/4 - HTTP Headers.md",
     "1 - Web Requests/HTTP Fundamentals/1 - HTTP.md",
     "1 - Web Requests/HTTP Fundamentals/2 - HTTPS.md",
     "images/Pasted image 20240920060145.png",
