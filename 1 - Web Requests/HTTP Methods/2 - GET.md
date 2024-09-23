@@ -21,3 +21,7 @@ curl -H 'Authorization: Basic YWRtaW46YWRtaW4=' http://<SERVER_IP>:<PORT>/
 curl 'http://<SERVER_IP>:<PORT>/search.php?search=le' -H 'Authorization: Basic YWRtaW46YWRtaW4='
 ```
 
+```bash
+curl 'http://83.136.253.59:44745/search.php?search=flag' -H 'Authorization: Basic YWRtaW46YWRtaW4='
+```
+
