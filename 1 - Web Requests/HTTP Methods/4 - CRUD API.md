@@ -29,3 +29,11 @@ The HTTP `PATCH` method may also be used to update API entries instead of `PUT`.
 curl -X PUT http://<SERVER_IP>:<PORT>/api.php/city/london -d '{"city_name":"New_HTB_City", "country_name":"HTB"}' -H 'Content-Type: application/json'
 ```
 
+## Delete
+
+```bash
+curl -X DELETE http://<SERVER_IP>:<PORT>/api.php/city/New_HTB_City
+```
+
+
+
