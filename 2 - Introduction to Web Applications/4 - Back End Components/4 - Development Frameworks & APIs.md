@@ -39,3 +39,7 @@ soap:encodingStyle="http://www.w3.org/soap/soap-encoding">
 
 The `REST` ([Representational State Transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)) standard shares data through the URL path 'i.e. `search/users/1`', and usually returns the output in `JSON` format 'i.e. userid `1`'.
 
+```bash
+curl http://83.136.254.47:35777/index.php?id=1
+```
+

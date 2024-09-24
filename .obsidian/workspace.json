@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md",
+                "file": "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md",
+                "file": "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md",
+                "file": "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md"
+                "file": "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
-    "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
+    "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/1 - Common Web Vulnerabilities.md",
+    "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md",
     "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md",
+    "2 - Introduction to Web Applications/5 - Back End Vulnerabilities",
+    "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
     "images/Pasted image 20240924170234.png",
     "images/Pasted image 20240924170151.png",
     "2 - Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md",
@@ -191,9 +194,6 @@
     "1 - Web Requests/HTTP Fundamentals",
     "1 - Web Requests/HTTP Fundamentals/3 - HTTP Requests and Responses.md",
     "images",
-    "SQL Injection.md",
-    "1 - Web Requests",
-    "SQL Injection/SQL.md",
-    "Welcome.md"
+    "SQL Injection.md"
   ]
 }
