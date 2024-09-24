@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
+                "file": "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
+                "file": "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
+                "file": "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md"
+                "file": "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
+    "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
+    "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md",
     "images/Pasted image 20240924170234.png",
     "images/Pasted image 20240924170151.png",
     "2 - Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md",
-    "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
     "images/Pasted image 20240924170017.png",
     "2 - Introduction to Web Applications/4 - Back End Components/1 - Back End Servers.md",
     "images/Pasted image 20240924165759.png",
@@ -175,7 +176,6 @@
     "images/Pasted image 20240924131818.png",
     "images/Pasted image 20240924131804.png",
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications/1 - Introduction.md",
-    "images/Pasted image 20240924131509.png",
     "1 - Web Requests/HTTP Methods/4 - CRUD API.md",
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications",
     "2 - Introduction to Web Applications",

@@ -45,9 +45,23 @@ $sql = "CREATE DATABASE database1";
 $conn->query($sql)
 ```
 
-
+Connect to our new database, and start using the `MySQL` database through `MySQL` syntax
 ```php
 $conn = new mysqli("localhost", "user", "pass", "database1");
 $query = "select * from table_1";
 $result = $conn->query($query);
+```
+
+Web applications usually use user-input when retrieving data. For example, when a user uses the search function to search for other users, their search input is passed to the web application, which uses the input to search within the database(s).
+```php
+$searchInput =  $_POST['findUser'];
+$query = "select * from users where name like '%$searchInput%'";
+$result = $conn->query($query);
+```
+
+Finally, the web application sends the result back to the user:
+```php
+while($row = $result->fetch_assoc() ){
+	echo $row["name"]."<br>";
+}
 ```
