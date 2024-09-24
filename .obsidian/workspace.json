@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/4 - CSRF.md",
+                "file": "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/4 - CSRF.md",
+                "file": "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/4 - CSRF.md",
+                "file": "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/4 - CSRF.md"
+                "file": "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md"
               }
             }
           }
@@ -149,12 +149,20 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
-    "2 - Introduction to Web Applications/Front End Vulnerabilities/3 - XSS.md",
-    "2 - Introduction to Web Applications/Front End Vulnerabilities/4 - CSRF.md",
-    "2 - Introduction to Web Applications/Front End Vulnerabilities/2 - HTML Injection.md",
-    "2 - Introduction to Web Applications/Front End Vulnerabilities/1 - Sensitive Data Exposure.md",
+    "images/Pasted image 20240924170234.png",
+    "images/Pasted image 20240924170151.png",
+    "2 - Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md",
+    "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
+    "images/Pasted image 20240924170017.png",
+    "2 - Introduction to Web Applications/4 - Back End Components/1 - Back End Servers.md",
+    "images/Pasted image 20240924165759.png",
+    "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/4 - CSRF.md",
+    "2 - Introduction to Web Applications/4 - Back End Components",
+    "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/3 - XSS.md",
+    "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/2 - HTML Injection.md",
+    "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/1 - Sensitive Data Exposure.md",
     "2 - Introduction to Web Applications/2 - Front End Components/3 - Javascript.md",
-    "2 - Introduction to Web Applications/Front End Vulnerabilities",
+    "2 - Introduction to Web Applications/3 - Front End Vulnerabilities",
     "2 - Introduction to Web Applications/2 - Front End Components/2 - CSS.md",
     "2 - Introduction to Web Applications/2 - Front End Components/1 - HTML.md",
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications/3 - Front End vs Back End.md",
@@ -182,14 +190,10 @@
     "1 - Web Requests/HTTP Methods",
     "1 - Web Requests/HTTP Fundamentals",
     "1 - Web Requests/HTTP Fundamentals/3 - HTTP Requests and Responses.md",
-    "images/Pasted image 20240920060145.png",
-    "images/Pasted image 20240920060131.png",
-    "images/Pasted image 20240920055622.png",
     "images",
     "SQL Injection.md",
     "1 - Web Requests",
     "SQL Injection/SQL.md",
-    "SQL Injection",
     "Welcome.md"
   ]
 }
