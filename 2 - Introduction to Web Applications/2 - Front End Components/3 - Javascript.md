@@ -11,3 +11,15 @@ While `HTML` and `CSS` are mainly in charge of how a web page looks, `JavaScript
 </script>
 ```
 
+```javascript
+document.getElementById("button1").innerHTML = "Changed Text!";
+```
+
+Some of the most common front end `JavaScript` frameworks are:
+
+- [Angular](https://www.w3schools.com/angular/angular_intro.asp)
+- [React](https://www.w3schools.com/react/react_intro.asp)
+- [Vue](https://www.w3schools.com/whatis/whatis_vue.asp)
+- [jQuery](https://www.w3schools.com/jquery/)
+
+
