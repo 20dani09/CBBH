@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Web Requests/HTTP Methods/4 - CRUD API.md",
+                "file": "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Web Requests/HTTP Methods/4 - CRUD API.md",
+                "file": "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Web Requests/HTTP Methods/4 - CRUD API.md",
+                "file": "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Web Requests/HTTP Methods/4 - CRUD API.md"
+                "file": "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md"
               }
             }
           }
@@ -149,8 +149,17 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
-    "1 - Web Requests/HTTP Methods/3 - POST.md",
+    "images/Pasted image 20240924131859.png",
+    "images/Pasted image 20240924131845.png",
+    "images/Pasted image 20240924131818.png",
+    "images/Pasted image 20240924131804.png",
+    "2 - Introduction to Web Applications/1 - Introduction to Web Applications/1 - Introduction.md",
+    "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md",
+    "images/Pasted image 20240924131509.png",
     "1 - Web Requests/HTTP Methods/4 - CRUD API.md",
+    "2 - Introduction to Web Applications/1 - Introduction to Web Applications",
+    "2 - Introduction to Web Applications",
+    "1 - Web Requests/HTTP Methods/3 - POST.md",
     "1 - Web Requests/HTTP Methods/1 - HTTP Methods and Codes.md",
     "1 - Web Requests/HTTP Methods/2 - GET.md",
     "1 - Web Requests/HTTP Fundamentals/4 - HTTP Headers.md",
