@@ -50,3 +50,16 @@ The components of a web application are divided into three different layers (AKA
 |`Presentation Layer`|Consists of UI process components that enable communication with the application and the system. These can be accessed by the client via the web browser and are returned in the form of HTML, JavaScript, and CSS.|
 |`Application Layer`|This layer ensures that all client requests (web requests) are correctly processed. Various criteria are checked, such as authorization, privileges, and data passed on to the client.|
 |`Data Layer`|The data layer works closely with the application layer to determine exactly where the required data is stored and can be accessed.|
+## Microservices
+
+Microservices are independent components within a web application, each designed for a specific task, such as registration, search, payments, etc. These components communicate with each other and the client in a stateless manner, as data is stored separately. Microservices are part of service-oriented architecture (SOA) and can be written in different programming languages. Benefits include agility, flexible scaling, easy deployment, reusable code, and resilience.
+
+## Serverless Architecture
+
+Serverless architecture, offered by cloud providers like AWS and GCP, allows applications to run without managing servers, streamlining development and deployment processes.
+
+## Architecture Security
+
+In web application security, architectural design flaws, such as improper Role-Based Access Control (RBAC), can lead to vulnerabilities. Security must be prioritized during the development lifecycle, and penetration tests are essential to identify such issues.
+
+

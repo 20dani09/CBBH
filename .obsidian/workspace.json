@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md",
+                "file": "2 - Introduction to Web Applications/2 - Front End Components/3 - Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md",
+                "file": "2 - Introduction to Web Applications/2 - Front End Components/3 - Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md",
+                "file": "2 - Introduction to Web Applications/2 - Front End Components/3 - Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md"
+                "file": "2 - Introduction to Web Applications/2 - Front End Components/3 - Javascript.md"
               }
             }
           }
@@ -149,12 +149,19 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
+    "2 - Introduction to Web Applications/2 - Front End Components/2 - CSS.md",
+    "2 - Introduction to Web Applications/2 - Front End Components/3 - Javascript.md",
+    "2 - Introduction to Web Applications/2 - Front End Components/1 - HTML.md",
+    "2 - Introduction to Web Applications/1 - Introduction to Web Applications/3 - Front End vs Back End.md",
+    "2 - Introduction to Web Applications/2 - Front End Components",
+    "images/Pasted image 20240924132345.png",
+    "images/Pasted image 20240924132322.png",
+    "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md",
     "images/Pasted image 20240924131859.png",
     "images/Pasted image 20240924131845.png",
     "images/Pasted image 20240924131818.png",
     "images/Pasted image 20240924131804.png",
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications/1 - Introduction.md",
-    "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md",
     "images/Pasted image 20240924131509.png",
     "1 - Web Requests/HTTP Methods/4 - CRUD API.md",
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications",
@@ -174,8 +181,6 @@
     "images/Pasted image 20240920060131.png",
     "images/Pasted image 20240920055622.png",
     "images",
-    "images/Pasted image 20240920054915.png",
-    "images/Pasted image 20240920054847.png",
     "SQL Injection.md",
     "1 - Web Requests",
     "SQL Injection/SQL.md",
