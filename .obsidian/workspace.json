@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/3 - XSS.md",
+                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/4 - CSRF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/3 - XSS.md",
+                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/4 - CSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/3 - XSS.md",
+                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/4 - CSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/3 - XSS.md"
+                "file": "2 - Introduction to Web Applications/Front End Vulnerabilities/4 - CSRF.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
-    "2 - Introduction to Web Applications/Front End Vulnerabilities/2 - HTML Injection.md",
     "2 - Introduction to Web Applications/Front End Vulnerabilities/3 - XSS.md",
+    "2 - Introduction to Web Applications/Front End Vulnerabilities/4 - CSRF.md",
+    "2 - Introduction to Web Applications/Front End Vulnerabilities/2 - HTML Injection.md",
     "2 - Introduction to Web Applications/Front End Vulnerabilities/1 - Sensitive Data Exposure.md",
     "2 - Introduction to Web Applications/2 - Front End Components/3 - Javascript.md",
     "2 - Introduction to Web Applications/Front End Vulnerabilities",
