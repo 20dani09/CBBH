@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Using Web Proxies/4 - Intruder.md",
+                "file": "3 - Using Web Proxies/5 - Scanner.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Using Web Proxies/4 - Intruder.md",
+                "file": "3 - Using Web Proxies/5 - Scanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Using Web Proxies/4 - Intruder.md",
+                "file": "3 - Using Web Proxies/5 - Scanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Using Web Proxies/4 - Intruder.md"
+                "file": "3 - Using Web Proxies/5 - Scanner.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
+    "images/Pasted image 20240925133254.png",
+    "3 - Using Web Proxies/4 - Intruder.md",
+    "3 - Using Web Proxies/5 - Scanner.md",
     "images/Pasted image 20240925132609.png",
     "images/Pasted image 20240925132514.png",
     "images/Pasted image 20240925131922.png",
@@ -157,7 +160,6 @@
     "images/Pasted image 20240925130620.png",
     "images/Pasted image 20240925130423.png",
     "3 - Using Web Proxies/3 - Proxychains.md",
-    "3 - Using Web Proxies/4 - Intruder.md",
     "3 - Using Web Proxies/2 - Encoding - Decoding.md",
     "images/Pasted image 20240925124701.png",
     "3 - Using Web Proxies/1 - Web Requests.md",
@@ -170,7 +172,6 @@
     "images/Pasted image 20240924170234.png",
     "images/Pasted image 20240924170151.png",
     "2 - Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md",
-    "images/Pasted image 20240924170017.png",
     "2 - Introduction to Web Applications/4 - Back End Components/1 - Back End Servers.md",
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/4 - CSRF.md",
     "2 - Introduction to Web Applications/4 - Back End Components",
@@ -191,7 +192,6 @@
     "1 - Web Requests/HTTP Methods/3 - POST.md",
     "1 - Web Requests/HTTP Methods/1 - HTTP Methods and Codes.md",
     "1 - Web Requests/HTTP Methods/2 - GET.md",
-    "1 - Web Requests/HTTP Fundamentals/4 - HTTP Headers.md",
     "1 - Web Requests/HTTP Methods",
     "1 - Web Requests/HTTP Methods",
     "1 - Web Requests/HTTP Fundamentals"
