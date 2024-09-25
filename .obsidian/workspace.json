@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Information Gathering/3 - DNS.md",
+                "file": "4 - Information Gathering/5 - Zone Transfers.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Information Gathering/3 - DNS.md",
+                "file": "4 - Information Gathering/5 - Zone Transfers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Information Gathering/3 - DNS.md",
+                "file": "4 - Information Gathering/5 - Zone Transfers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Information Gathering/3 - DNS.md"
+                "file": "4 - Information Gathering/5 - Zone Transfers.md"
               }
             }
           }
@@ -162,17 +162,17 @@
   },
   "active": "9475f006901d7b1c",
   "lastOpenFiles": [
+    "4 - Information Gathering/4 - Subdomains.md",
+    "4 - Information Gathering/3 - DNS.md",
     "images/Pasted image 20240925180140.png",
     "images/Pasted image 20240925180027.png",
     "images/Pasted image 20240925175627.png",
     "4 - Information Gathering/9 - Search Engine Discovery.md",
-    "4 - Information Gathering/3 - DNS.md",
     "4 - Information Gathering/8 - Web Crawling.md",
     "4 - Information Gathering/10 - Web Archives.md",
     "4 - Information Gathering/7 - Certificate Transparency (CT) Logs.md",
     "4 - Information Gathering/1 - Introduction.md",
     "4 - Information Gathering/2 - WHOIS.md",
-    "4 - Information Gathering/4 - Subdomains.md",
     "4 - Information Gathering/6 - Virtual Hosts.md",
     "4 - Information Gathering/5 - Zone Transfers.md",
     "images/Pasted image 20240925174605.png",
@@ -187,7 +187,6 @@
     "images/Pasted image 20240925135308.png",
     "3 - Using Web Proxies/5 - Scanner.md",
     "images/Pasted image 20240925134739.png",
-    "images/Pasted image 20240925134531.png",
     "3 - Using Web Proxies/4 - Intruder.md",
     "3 - Using Web Proxies/3 - Proxychains.md",
     "3 - Using Web Proxies/2 - Encoding - Decoding.md",

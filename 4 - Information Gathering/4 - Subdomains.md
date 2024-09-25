@@ -22,6 +22,7 @@ To use `dnsenum` for subdomain brute-forcing, you'll typically provide it with t
 For example, the following command would attempt to brute-force subdomains of `example.com` using a wordlist named `subdomains.txt`:
 
 ```bash
-dnsenum example.com -f subdomains.txt
+dnsenum --enum inlanefreight.com -f /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt -r
 ```
+
 
