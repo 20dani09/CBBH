@@ -26,6 +26,13 @@ DNS servers store various types of records, each serving a specific purpose:
 
 > Which domain is returned when querying the PTR record for 134.209.24.248?
 
+![[Pasted image 20240925180027.png]]
+
+> What is the full domain returned when you query the mail records for facebook.com?
+
+![[Pasted image 20240925180140.png]]
+
+
 
 
 
