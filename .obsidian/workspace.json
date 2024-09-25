@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Using Web Proxies/6 - Skills Assesment.md",
+                "file": "4 - Information Gathering/3 - DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Using Web Proxies/6 - Skills Assesment.md",
+                "file": "4 - Information Gathering/3 - DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Using Web Proxies/6 - Skills Assesment.md",
+                "file": "4 - Information Gathering/3 - DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Using Web Proxies/6 - Skills Assesment.md"
+                "file": "4 - Information Gathering/3 - DNS.md"
               }
             }
           }
@@ -149,20 +149,25 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
+    "4 - Information Gathering/2 - WHOIS.md",
+    "4 - Information Gathering/3 - DNS.md",
+    "images/Pasted image 20240925174605.png",
+    "images/Pasted image 20240925174335.png",
+    "4 - Information Gathering/1 - Introduction.md",
+    "4 - Information Gathering/1 - Introduction",
+    "4 - Information Gathering/2 - WHOIS",
+    "3 - Using Web Proxies/6 - Skills Assesment.md",
+    "4 - Information Gathering",
     "images/Pasted image 20240925141911.png",
     "images/Pasted image 20240925141625.png",
     "images/Pasted image 20240925140558.png",
     "images/Pasted image 20240925135308.png",
     "3 - Using Web Proxies/5 - Scanner.md",
-    "3 - Using Web Proxies/6 - Skills Assesment.md",
     "images/Pasted image 20240925134739.png",
     "images/Pasted image 20240925134531.png",
     "images/Pasted image 20240925133254.png",
     "3 - Using Web Proxies/4 - Intruder.md",
     "images/Pasted image 20240925132609.png",
-    "images/Pasted image 20240925132514.png",
-    "images/Pasted image 20240925131922.png",
-    "images/Pasted image 20240925131902.png",
     "3 - Using Web Proxies/3 - Proxychains.md",
     "3 - Using Web Proxies/2 - Encoding - Decoding.md",
     "3 - Using Web Proxies/1 - Web Requests.md",
@@ -189,11 +194,6 @@
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications/1 - Introduction.md",
     "1 - Web Requests/HTTP Methods/4 - CRUD API.md",
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications",
-    "2 - Introduction to Web Applications",
-    "1 - Web Requests/HTTP Methods/3 - POST.md",
-    "1 - Web Requests/HTTP Methods/1 - HTTP Methods and Codes.md",
-    "1 - Web Requests/HTTP Methods",
-    "1 - Web Requests/HTTP Methods",
-    "1 - Web Requests/HTTP Fundamentals"
+    "2 - Introduction to Web Applications"
   ]
 }
