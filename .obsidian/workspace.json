@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Using Web Proxies/1 - Intercepting Web Requests.md",
+                "file": "3 - Using Web Proxies/2 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Using Web Proxies/1 - Intercepting Web Requests.md",
+                "file": "3 - Using Web Proxies/2 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Using Web Proxies/1 - Intercepting Web Requests.md",
+                "file": "3 - Using Web Proxies/2 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Using Web Proxies/1 - Intercepting Web Requests.md"
+                "file": "3 - Using Web Proxies/2 -.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
-    "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md",
     "3 - Using Web Proxies/1 - Intercepting Web Requests.md",
+    "3 - Using Web Proxies/2 -.md",
+    "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md",
     "3 - Using Web Proxies",
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/1 - Common Web Vulnerabilities.md",
     "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md",
@@ -193,7 +194,6 @@
     "1 - Web Requests/test.md",
     "1 - Web Requests/HTTP Fundamentals/1 - HTTP.md",
     "1 - Web Requests/HTTP Methods",
-    "1 - Web Requests/HTTP Fundamentals",
-    "1 - Web Requests/HTTP Fundamentals/3 - HTTP Requests and Responses.md"
+    "1 - Web Requests/HTTP Fundamentals"
   ]
 }
