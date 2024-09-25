@@ -24,3 +24,7 @@ ___
 /usr/share/seclists/Usernames/top-usernames-shortlist.txt
 ```
 
+
+![[Pasted image 20240925132514.png]]
+
+![[Pasted image 20240925132609.png]]
