@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9475f006901d7b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Information Gathering/3 - DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,13 +160,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0356687735c3221",
+  "active": "9475f006901d7b1c",
   "lastOpenFiles": [
-    "4 - Information Gathering/2 - WHOIS.md",
+    "images/Pasted image 20240925175627.png",
+    "4 - Information Gathering/9 - Search Engine Discovery.md",
     "4 - Information Gathering/3 - DNS.md",
+    "4 - Information Gathering/8 - Web Crawling.md",
+    "4 - Information Gathering/10 - Web Archives.md",
+    "4 - Information Gathering/7 - Certificate Transparency (CT) Logs.md",
+    "4 - Information Gathering/1 - Introduction.md",
+    "4 - Information Gathering/2 - WHOIS.md",
+    "4 - Information Gathering/4 - Subdomains.md",
+    "4 - Information Gathering/6 - Virtual Hosts.md",
+    "4 - Information Gathering/5 - Zone Transfers.md",
     "images/Pasted image 20240925174605.png",
     "images/Pasted image 20240925174335.png",
-    "4 - Information Gathering/1 - Introduction.md",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
     "3 - Using Web Proxies/6 - Skills Assesment.md",
@@ -183,16 +204,8 @@
     "2 - Introduction to Web Applications/4 - Back End Components",
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/3 - XSS.md",
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/2 - HTML Injection.md",
-    "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/1 - Sensitive Data Exposure.md",
-    "2 - Introduction to Web Applications/2 - Front End Components/3 - Javascript.md",
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities",
-    "2 - Introduction to Web Applications/2 - Front End Components/2 - CSS.md",
-    "2 - Introduction to Web Applications/2 - Front End Components/1 - HTML.md",
-    "2 - Introduction to Web Applications/1 - Introduction to Web Applications/3 - Front End vs Back End.md",
     "2 - Introduction to Web Applications/2 - Front End Components",
-    "2 - Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md",
-    "2 - Introduction to Web Applications/1 - Introduction to Web Applications/1 - Introduction.md",
-    "1 - Web Requests/HTTP Methods/4 - CRUD API.md",
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications",
     "2 - Introduction to Web Applications"
   ]
