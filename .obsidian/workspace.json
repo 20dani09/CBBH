@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Using Web Proxies/2 -.md",
+                "file": "3 - Using Web Proxies/3 - Proxychains.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Using Web Proxies/2 -.md",
+                "file": "3 - Using Web Proxies/3 - Proxychains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Using Web Proxies/2 -.md",
+                "file": "3 - Using Web Proxies/3 - Proxychains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Using Web Proxies/2 -.md"
+                "file": "3 - Using Web Proxies/3 - Proxychains.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "a0356687735c3221",
   "lastOpenFiles": [
-    "3 - Using Web Proxies/1 - Intercepting Web Requests.md",
-    "3 - Using Web Proxies/2 -.md",
+    "3 - Using Web Proxies/2 - Encoding - Decoding.md",
+    "3 - Using Web Proxies/3 - Proxychains.md",
+    "images/Pasted image 20240925124701.png",
+    "3 - Using Web Proxies/1 - Web Requests.md",
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md",
     "3 - Using Web Proxies",
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/1 - Common Web Vulnerabilities.md",
@@ -180,7 +182,6 @@
     "images/Pasted image 20240924131859.png",
     "images/Pasted image 20240924131845.png",
     "images/Pasted image 20240924131818.png",
-    "images/Pasted image 20240924131804.png",
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications/1 - Introduction.md",
     "1 - Web Requests/HTTP Methods/4 - CRUD API.md",
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications",
@@ -192,7 +193,6 @@
     "1 - Web Requests/HTTP Methods",
     "1 - Web Requests/HTTP Fundamentals/2 - HTTPS.md",
     "1 - Web Requests/test.md",
-    "1 - Web Requests/HTTP Fundamentals/1 - HTTP.md",
     "1 - Web Requests/HTTP Methods",
     "1 - Web Requests/HTTP Fundamentals"
   ]
