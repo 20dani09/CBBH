@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Information Gathering/9 - Web Crawling.md",
+                "file": "4 - Information Gathering/11 - Web Archives.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Information Gathering/9 - Web Crawling.md",
+                "file": "4 - Information Gathering/11 - Web Archives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Information Gathering/9 - Web Crawling.md",
+                "file": "4 - Information Gathering/11 - Web Archives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Information Gathering/9 - Web Crawling.md"
+                "file": "4 - Information Gathering/11 - Web Archives.md"
               }
             }
           }
@@ -174,12 +174,15 @@
   },
   "active": "7433e81313abbcfd",
   "lastOpenFiles": [
+    "4 - Information Gathering/10 - Search Engine Discovery.md",
+    "4 - Information Gathering/9 - Web Crawling.md",
+    "images/Pasted image 20240926150311.png",
+    "images/Pasted image 20240926150255.png",
+    "images/Pasted image 20240926150202.png",
     "images/Pasted image 20240926144659.png",
     "4 - Information Gathering/6 - Virtual Hosts.md",
     "4 - Information Gathering/8 - Fingerprinting.md",
-    "4 - Information Gathering/9 - Web Crawling.md",
     "4 - Information Gathering/11 - Web Archives.md",
-    "4 - Information Gathering/10 - Search Engine Discovery.md",
     "images/Pasted image 20240926135929.png",
     "images/Pasted image 20240926135907.png",
     "images/Pasted image 20240926135722.png",
@@ -189,12 +192,8 @@
     "images/Pasted image 20240926135013.png",
     "images/Pasted image 20240926134929.png",
     "4 - Information Gathering/5 - Zone Transfers.md",
-    "images/Pasted image 20240925184612.png",
-    "images/Pasted image 20240925184531.png",
-    "images/Pasted image 20240925184319.png",
     "4 - Information Gathering/4 - Subdomains.md",
     "4 - Information Gathering/3 - DNS.md",
-    "images/Pasted image 20240925180140.png",
     "4 - Information Gathering/2 - WHOIS.md",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",

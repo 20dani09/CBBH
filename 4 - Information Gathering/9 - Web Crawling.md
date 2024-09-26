@@ -52,3 +52,11 @@ To deactivate the virtual environment, simply run:
 deactivate
 ```
 
+
+![[Pasted image 20240926150202.png]]
+
+![[Pasted image 20240926150255.png]]
+
+![[Pasted image 20240926150311.png]]
+
+
