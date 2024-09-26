@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Information Gathering/8 - Fingerprinting.md",
+                "file": "4 - Information Gathering/9 - Web Crawling.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Information Gathering/8 - Fingerprinting.md",
+                "file": "4 - Information Gathering/9 - Web Crawling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Information Gathering/8 - Fingerprinting.md",
+                "file": "4 - Information Gathering/9 - Web Crawling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Information Gathering/8 - Fingerprinting.md"
+                "file": "4 - Information Gathering/9 - Web Crawling.md"
               }
             }
           }
@@ -174,8 +174,14 @@
   },
   "active": "7433e81313abbcfd",
   "lastOpenFiles": [
-    "4 - Information Gathering/11 - Web Crawling.md",
+    "4 - Information Gathering/11 - Web Archives.md",
+    "4 - Information Gathering/10 - Search Engine Discovery.md",
+    "4 - Information Gathering/9 - Web Crawling.md",
     "4 - Information Gathering/8 - Fingerprinting.md",
+    "images/Pasted image 20240926135929.png",
+    "images/Pasted image 20240926135907.png",
+    "images/Pasted image 20240926135722.png",
+    "images/Pasted image 20240926135645.png",
     "4 - Information Gathering/1 - Introduction.md",
     "4 - Information Gathering/7 - Certificate Transparency (CT) Logs.md",
     "4 - Information Gathering/6 - Virtual Hosts.md",
@@ -188,13 +194,7 @@
     "4 - Information Gathering/4 - Subdomains.md",
     "4 - Information Gathering/3 - DNS.md",
     "images/Pasted image 20240925180140.png",
-    "images/Pasted image 20240925180027.png",
-    "images/Pasted image 20240925175627.png",
-    "4 - Information Gathering/9 - Search Engine Discovery.md",
-    "4 - Information Gathering/10 - Web Archives.md",
     "4 - Information Gathering/2 - WHOIS.md",
-    "images/Pasted image 20240925174605.png",
-    "images/Pasted image 20240925174335.png",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
     "3 - Using Web Proxies/6 - Skills Assesment.md",
@@ -215,7 +215,6 @@
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/4 - CSRF.md",
     "2 - Introduction to Web Applications/4 - Back End Components",
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/3 - XSS.md",
-    "2 - Introduction to Web Applications/3 - Front End Vulnerabilities/2 - HTML Injection.md",
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities",
     "2 - Introduction to Web Applications/2 - Front End Components",
     "2 - Introduction to Web Applications/1 - Introduction to Web Applications",

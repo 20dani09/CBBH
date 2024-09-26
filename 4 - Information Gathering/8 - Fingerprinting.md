@@ -14,4 +14,31 @@ ___
 curl -I inlanefreight.com
 ```
 
-# W
+# Wafw00f
+
+```bash
+wafw00f inlanefreight.com
+```
+
+# Nikto
+
+```bash
+nikto -h inlanefreight.com -Tuning b
+```
+
+> Determine the Apache version running on app.inlanefreight.local on the target system. (Format: 0.0.0)
+
+![[Pasted image 20240926135645.png]]
+
+> Which CMS is used on app.inlanefreight.local on the target system? Respond with the name only, e.g., WordPress.
+
+![[Pasted image 20240926135722.png]]
+
+> On which operating system is the dev.inlanefreight.local webserver running in the target system? Respond with the name only, e.g., Debian.
+
+![[Pasted image 20240926135907.png]]
+
+![[Pasted image 20240926135929.png]]
+
+
+
