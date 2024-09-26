@@ -31,3 +31,24 @@ jq -r '.[] | select(.file != null) | .file' example_data.json | sort -u
 
 This command uses `jq` to extract links, `awk` to isolate file extensions, `sort` to order them, and `uniq -c` to count their occurrences. By scrutinizing the extracted data, you can identify patterns, anomalies, or sensitive files that might be of interest for further investigation.
 
+> After spidering inlanefreight.com, identify the location where future reports will be stored. Respond with the full domain, e.g., files.inlanefreight.com.
+
+#### Use a Virtual Environment
+
+You can create an isolated Python environment where you can install packages like `scrapy` without affecting the system:
+
+```bash
+python3 -m venv ~/myvenv
+source ~/myvenv/bin/activate
+pip install scrapy
+python3 ReconSpider.py http://inlanefreight.com
+```
+
+![[Pasted image 20240926144659.png]]
+
+To deactivate the virtual environment, simply run:
+
+```bash
+deactivate
+```
+
