@@ -12,3 +12,12 @@ gobuster vhost -u http://192.0.2.1 -w hostnames.txt
 ```
 
 In this example, `-u` specifies the target IP address, and `-w` specifies the wordlist file. Gobuster will then systematically try each hostname in the wordlist and report any that results in a valid response from the web server.
+
+```bash
+gobuster vhost -u http://inlanefreight.htb:52938/ -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt --append-domain
+```
+
+![[Pasted image 20240926135013.png]]
+
+
+
