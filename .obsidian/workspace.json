@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Information Gathering/9 - Web Crawling.md",
+                "file": "4 - Information Gathering/6 - Virtual Hosts.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Information Gathering/9 - Web Crawling.md",
+                "file": "4 - Information Gathering/6 - Virtual Hosts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Information Gathering/9 - Web Crawling.md",
+                "file": "4 - Information Gathering/6 - Virtual Hosts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Information Gathering/9 - Web Crawling.md"
+                "file": "4 - Information Gathering/6 - Virtual Hosts.md"
               }
             }
           }
@@ -174,10 +174,10 @@
   },
   "active": "7433e81313abbcfd",
   "lastOpenFiles": [
+    "4 - Information Gathering/8 - Fingerprinting.md",
+    "4 - Information Gathering/9 - Web Crawling.md",
     "4 - Information Gathering/11 - Web Archives.md",
     "4 - Information Gathering/10 - Search Engine Discovery.md",
-    "4 - Information Gathering/9 - Web Crawling.md",
-    "4 - Information Gathering/8 - Fingerprinting.md",
     "images/Pasted image 20240926135929.png",
     "images/Pasted image 20240926135907.png",
     "images/Pasted image 20240926135722.png",
