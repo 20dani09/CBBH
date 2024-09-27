@@ -50,3 +50,6 @@ ffuf -w /usr/share/seclists/Usernames/xato-net-10-million-usernames.txt -u http:
 ```bash
 curl -X POST -H 'Content-Type: application/x-www-form-urlencoded' http://faculty.academy.htb:36410/courses/linux-security.php7 -d 'username=harry'
 ```
+
+![[Pasted image 20240927144017.png]]
+
