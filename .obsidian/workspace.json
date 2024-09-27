@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5e1d73737c77b303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - FFUF/1 - Basic Fuzzing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0ea51806f8502062",
             "type": "leaf",
             "state": {
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - FFUF/2 - Domain Fuzzing.md",
+                "file": "5 - FFUF/4 - Skills Assesment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - FFUF/2 - Domain Fuzzing.md",
+                "file": "5 - FFUF/4 - Skills Assesment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - FFUF/2 - Domain Fuzzing.md"
+                "file": "5 - FFUF/4 - Skills Assesment.md"
               }
             }
           }
@@ -160,14 +171,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ea51806f8502062",
+  "active": "7433e81313abbcfd",
   "lastOpenFiles": [
+    "5 - FFUF/1 - Basic Fuzzing.md",
     "5 - FFUF/4 - Skills Assesment.md",
+    "images/Pasted image 20240927140239.png",
+    "images/Pasted image 20240927140045.png",
     "5 - FFUF/2 - Domain Fuzzing.md",
     "images/Pasted image 20240927133629.png",
     "5 - FFUF/3 - Parameter.md",
     "images/Pasted image 20240927122612.png",
-    "5 - FFUF/1 - Basic Fuzzing.md",
     "4 - Information Gathering/14 - Skills Assessment.md",
     "5 - FFUF",
     "images/Pasted image 20240926190935.png",
@@ -177,14 +190,12 @@
     "images/Pasted image 20240926184858.png",
     "4 - Information Gathering/6 - Virtual Hosts.md",
     "images/Pasted image 20240926184026.png",
-    "images/Pasted image 20240926183811.png",
     "4 - Information Gathering/2 - WHOIS.md",
     "4 - Information Gathering/1 - Introduction.md",
     "4 - Information Gathering/12 - Automating Recon.md",
     "4 - Information Gathering/11 - Web Archives.md",
     "4 - Information Gathering/10 - Search Engine Discovery.md",
     "4 - Information Gathering/9 - Web Crawling.md",
-    "images/Pasted image 20240926150311.png",
     "4 - Information Gathering/8 - Fingerprinting.md",
     "4 - Information Gathering/7 - Certificate Transparency (CT) Logs.md",
     "4 - Information Gathering/5 - Zone Transfers.md",
