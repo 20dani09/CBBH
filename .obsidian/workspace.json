@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - FFUF/4 - Skills Assesment.md",
+                "file": "5 - Ffuf/4 - Skills Assesment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2647f7217a719d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Javascript Deobfuscation/1 - JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - FFUF/3 - Parameter.md",
+                "file": "5 - Ffuf/3 - Parameter.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - FFUF/2 - Domain Fuzzing.md",
+                "file": "5 - Ffuf/2 - Domain Fuzzing.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - FFUF/1 - Basic Fuzzing.md",
+                "file": "5 - Ffuf/1 - Basic Fuzzing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - FFUF/4 - Skills Assesment.md",
+                "file": "6 - Javascript Deobfuscation/1 - JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - FFUF/4 - Skills Assesment.md",
+                "file": "6 - Javascript Deobfuscation/1 - JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - FFUF/4 - Skills Assesment.md"
+                "file": "6 - Javascript Deobfuscation/1 - JS.md"
               }
             }
           }
@@ -183,25 +196,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7433e81313abbcfd",
+  "active": "2647f7217a719d09",
   "lastOpenFiles": [
+    "6 - Javascript Deobfuscation",
+    "5 - Ffuf/4 - Skills Assesment.md",
+    "6 - Javascript Deobfuscation/1 - JS.md",
     "images/Pasted image 20240927144017.png",
     "images/Pasted image 20240927143922.png",
     "images/Pasted image 20240927143849.png",
-    "5 - FFUF/4 - Skills Assesment.md",
-    "5 - FFUF/3 - Parameter.md",
+    "5 - Ffuf/3 - Parameter.md",
     "images/Pasted image 20240927142407.png",
     "images/Pasted image 20240927141922.png",
     "images/Pasted image 20240927141612.png",
-    "5 - FFUF/1 - Basic Fuzzing.md",
-    "5 - FFUF/2 - Domain Fuzzing.md",
+    "5 - Ffuf/1 - Basic Fuzzing.md",
+    "5 - Ffuf/2 - Domain Fuzzing.md",
     "images/Pasted image 20240927141007.png",
     "images/Pasted image 20240927140239.png",
     "images/Pasted image 20240927140045.png",
     "images/Pasted image 20240927133629.png",
-    "images/Pasted image 20240927122612.png",
     "4 - Information Gathering/14 - Skills Assessment.md",
-    "5 - FFUF",
+    "5 - Ffuf",
     "4 - Information Gathering/6 - Virtual Hosts.md",
     "4 - Information Gathering/2 - WHOIS.md",
     "4 - Information Gathering/1 - Introduction.md",
@@ -225,7 +239,6 @@
     "3 - Using Web Proxies/1 - Web Requests.md",
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md",
     "3 - Using Web Proxies",
-    "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/1 - Common Web Vulnerabilities.md",
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities",
     "2 - Introduction to Web Applications/4 - Back End Components",
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities",
