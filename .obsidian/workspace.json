@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - XSS/XSS.md",
+                "file": "7 - XSS/2 - Phishing.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 - XSS/XSS.md",
+                "file": "7 - XSS/2 - Phishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 - XSS/XSS.md",
+                "file": "7 - XSS/2 - Phishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 - XSS/XSS.md"
+                "file": "7 - XSS/2 - Phishing.md"
               }
             }
           }
@@ -198,12 +198,13 @@
   },
   "active": "2647f7217a719d09",
   "lastOpenFiles": [
+    "7 - XSS/1 - XSS.md",
+    "7 - XSS/2 - Phishing.md",
     "images/Pasted image 20240927175051.png",
     "images/Pasted image 20240927172636.png",
     "images/Pasted image 20240927172607.png",
     "images/Pasted image 20240927172309.png",
     "6 - Javascript Deobfuscation/2 - Skills Assessment.md",
-    "7 - XSS/XSS.md",
     "7 - XSS",
     "images/Pasted image 20240927170517.png",
     "images/Pasted image 20240927170222.png",
@@ -215,7 +216,6 @@
     "images/Pasted image 20240927143922.png",
     "images/Pasted image 20240927143849.png",
     "5 - Ffuf/3 - Parameter.md",
-    "images/Pasted image 20240927142407.png",
     "5 - Ffuf/1 - Basic Fuzzing.md",
     "5 - Ffuf/2 - Domain Fuzzing.md",
     "4 - Information Gathering/14 - Skills Assessment.md",
