@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - FFUF/3 - Parameter.md",
+                "file": "5 - FFUF/4 - Skills Assesment.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - FFUF/3 - Parameter.md",
+                "file": "5 - FFUF/4 - Skills Assesment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - FFUF/3 - Parameter.md",
+                "file": "5 - FFUF/4 - Skills Assesment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - FFUF/3 - Parameter.md"
+                "file": "5 - FFUF/4 - Skills Assesment.md"
               }
             }
           }
@@ -186,8 +186,10 @@
   },
   "active": "7433e81313abbcfd",
   "lastOpenFiles": [
-    "5 - FFUF/2 - Domain Fuzzing.md",
+    "images/Pasted image 20240927133629.png",
     "5 - FFUF/3 - Parameter.md",
+    "5 - FFUF/4 - Skills Assesment.md",
+    "5 - FFUF/2 - Domain Fuzzing.md",
     "images/Pasted image 20240927122612.png",
     "5 - FFUF/1 - Basic Fuzzing.md",
     "4 - Information Gathering/14 - Skills Assessment.md",
@@ -225,9 +227,7 @@
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md",
     "3 - Using Web Proxies",
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities/1 - Common Web Vulnerabilities.md",
-    "2 - Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md",
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities",
-    "2 - Introduction to Web Applications/4 - Back End Components/3 - Databases.md",
     "2 - Introduction to Web Applications/4 - Back End Components",
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities",
     "2 - Introduction to Web Applications/2 - Front End Components",
