@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Javascript Deobfuscation/1 - JS.md",
+                "file": "6 - Javascript Deobfuscation/2 - Skills Assessment.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Javascript Deobfuscation/1 - JS.md",
+                "file": "6 - Javascript Deobfuscation/2 - Skills Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Javascript Deobfuscation/1 - JS.md",
+                "file": "6 - Javascript Deobfuscation/2 - Skills Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Javascript Deobfuscation/1 - JS.md"
+                "file": "6 - Javascript Deobfuscation/2 - Skills Assessment.md"
               }
             }
           }
@@ -198,9 +198,11 @@
   },
   "active": "2647f7217a719d09",
   "lastOpenFiles": [
+    "6 - Javascript Deobfuscation/1 - JS.md",
+    "6 - Javascript Deobfuscation/2 - Skills Assessment.md",
+    "images/Pasted image 20240927165928.png",
     "6 - Javascript Deobfuscation",
     "5 - Ffuf/4 - Skills Assesment.md",
-    "6 - Javascript Deobfuscation/1 - JS.md",
     "images/Pasted image 20240927144017.png",
     "images/Pasted image 20240927143922.png",
     "images/Pasted image 20240927143849.png",
@@ -213,7 +215,6 @@
     "images/Pasted image 20240927141007.png",
     "images/Pasted image 20240927140239.png",
     "images/Pasted image 20240927140045.png",
-    "images/Pasted image 20240927133629.png",
     "4 - Information Gathering/14 - Skills Assessment.md",
     "5 - Ffuf",
     "4 - Information Gathering/6 - Virtual Hosts.md",
@@ -242,7 +243,6 @@
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities",
     "2 - Introduction to Web Applications/4 - Back End Components",
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities",
-    "2 - Introduction to Web Applications/2 - Front End Components",
-    "2 - Introduction to Web Applications/1 - Introduction to Web Applications"
+    "2 - Introduction to Web Applications/2 - Front End Components"
   ]
 }
