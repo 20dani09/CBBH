@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Information Gathering/14 - Skills Assessment.md",
+                "file": "5 - FFUF/1 - Basic Fuzzing.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Information Gathering/14 - Skills Assessment.md",
+                "file": "5 - FFUF/1 - Basic Fuzzing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Information Gathering/14 - Skills Assessment.md",
+                "file": "5 - FFUF/1 - Basic Fuzzing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Information Gathering/14 - Skills Assessment.md"
+                "file": "5 - FFUF/1 - Basic Fuzzing.md"
               }
             }
           }
@@ -186,13 +186,15 @@
   },
   "active": "7433e81313abbcfd",
   "lastOpenFiles": [
+    "4 - Information Gathering/14 - Skills Assessment.md",
+    "5 - FFUF/1 - Basic Fuzzing.md",
+    "5 - FFUF",
     "images/Pasted image 20240926190935.png",
     "images/Pasted image 20240926190202.png",
     "images/Pasted image 20240926185907.png",
     "images/Pasted image 20240926185150.png",
     "images/Pasted image 20240926184858.png",
     "4 - Information Gathering/6 - Virtual Hosts.md",
-    "4 - Information Gathering/14 - Skills Assessment.md",
     "images/Pasted image 20240926184026.png",
     "images/Pasted image 20240926183811.png",
     "4 - Information Gathering/2 - WHOIS.md",
@@ -204,7 +206,6 @@
     "images/Pasted image 20240926150311.png",
     "images/Pasted image 20240926150255.png",
     "images/Pasted image 20240926150202.png",
-    "images/Pasted image 20240926144659.png",
     "4 - Information Gathering/8 - Fingerprinting.md",
     "4 - Information Gathering/7 - Certificate Transparency (CT) Logs.md",
     "4 - Information Gathering/5 - Zone Transfers.md",
@@ -230,7 +231,6 @@
     "2 - Introduction to Web Applications/4 - Back End Components",
     "2 - Introduction to Web Applications/3 - Front End Vulnerabilities",
     "2 - Introduction to Web Applications/2 - Front End Components",
-    "2 - Introduction to Web Applications/1 - Introduction to Web Applications",
-    "2 - Introduction to Web Applications"
+    "2 - Introduction to Web Applications/1 - Introduction to Web Applications"
   ]
 }
