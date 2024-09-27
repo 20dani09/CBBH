@@ -34,8 +34,19 @@ ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ 
 ```
 
 ```bash
-ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ -u http://faculty.academy.htb:36410/courses/linux-security.php7?FUZZ=key -X POST -d 'FUZZ=key' -H 'Content-Type: application/x-www-form-urlencoded' -fs 774
+ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ -u http://faculty.academy.htb:36410/courses/linux-security.php7 -X POST -d 'FUZZ=key' -H 'Content-Type: application/x-www-form-urlencoded' -fs 774
 ```
 
 ![[Pasted image 20240927141922.png]]
 
+# Username fuzzing
+
+```bash
+ffuf -w /usr/share/seclists/Usernames/top-usernames-shortlist.txt:FUZZ -u http://faculty.academy.htb:36410/courses/linux-security.php7 -X POST -d 'username=FUZZ' -H 'Content-Type: application/x-www-form-urlencoded' -fs 774
+```
+
+![[Pasted image 20240927142407.png]]
+
+```bash
+curl -X POST -H 'Content-Type: application/x-www-form-urlencoded' http://faculty.academy.htb:36410/courses/linux-security.php7 -d 'username=administrator'
+```
