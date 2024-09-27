@@ -42,11 +42,11 @@ ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ 
 # Username fuzzing
 
 ```bash
-ffuf -w /usr/share/seclists/Usernames/top-usernames-shortlist.txt:FUZZ -u http://faculty.academy.htb:36410/courses/linux-security.php7 -X POST -d 'username=FUZZ' -H 'Content-Type: application/x-www-form-urlencoded' -fs 774
+ffuf -w /usr/share/seclists/Usernames/xato-net-10-million-usernames.txt -u http://faculty.academy.htb:36410/courses/linux-security.php7 -X POST -d 'username=FUZZ' -H 'Content-Type: application/x-www-form-urlencoded' -fs 781
 ```
 
-![[Pasted image 20240927142407.png]]
+![[Pasted image 20240927143922.png]]
 
 ```bash
-curl -X POST -H 'Content-Type: application/x-www-form-urlencoded' http://faculty.academy.htb:36410/courses/linux-security.php7 -d 'username=administrator'
+curl -X POST -H 'Content-Type: application/x-www-form-urlencoded' http://faculty.academy.htb:36410/courses/linux-security.php7 -d 'username=harry'
 ```
