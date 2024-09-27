@@ -1,20 +1,25 @@
 ___
 
-# Directory fuzzing
+# Directory 
 
 ```bash
 ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://83.136.255.217:55982/FUZZ
 ```
 
-# Extension fuzzing
+# Extension 
 
 ```bash
 ffuf -w /usr/share/seclists/Discovery/Web-Content/web-extensions.txt:FUZZ -u http://83.136.255.217:55982/blog/indexFUZZ
 ```
 
-# Page fuzzing
+# Page 
 
 ```bash
 ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://83.136.255.217:55982/blog/FUZZ.php
 ```
 
+# Recursive 
+
+```bash
+ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://83.136.255.217:55982/FUZZ -recursion -recursion-depth 1 -e .php -v
+```
