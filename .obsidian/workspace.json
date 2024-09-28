@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9 - SQLmap/1 - SQLmap.md",
+                "file": "9 - SQLmap/3 - Skills Assessment.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 - SQLmap/1 - SQLmap.md",
+                "file": "9 - SQLmap/3 - Skills Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9 - SQLmap/1 - SQLmap.md",
+                "file": "9 - SQLmap/3 - Skills Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9 - SQLmap/1 - SQLmap.md"
+                "file": "9 - SQLmap/3 - Skills Assessment.md"
               }
             }
           }
@@ -186,8 +186,10 @@
   },
   "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
-    "8 - SQLi/1 - SQLi.md",
+    "9 - SQLmap/2 - OS Explotation.md",
+    "9 - SQLmap/3 - Skills Assessment.md",
     "9 - SQLmap/1 - SQLmap.md",
+    "8 - SQLi/1 - SQLi.md",
     "8 - SQLi/4 - Skills Assessment.md",
     "9 - SQLmap",
     "8 - SQLi/3 - Writing Files.md",
@@ -225,8 +227,6 @@
     "4 - Information Gathering/10 - Search Engine Discovery.md",
     "4 - Information Gathering/9 - Web Crawling.md",
     "4 - Information Gathering/8 - Fingerprinting.md",
-    "4 - Information Gathering/7 - Certificate Transparency (CT) Logs.md",
-    "4 - Information Gathering/5 - Zone Transfers.md",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
     "4 - Information Gathering",
