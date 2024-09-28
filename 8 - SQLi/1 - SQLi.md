@@ -13,4 +13,11 @@ tom' or '1'='1
 
 ## Comments
 
+```bash
+'or id=5)#
+```
+
+
+# Union
+
 
