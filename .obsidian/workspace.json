@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - SQLi/4 - Skills Assessment.md",
+                "file": "8 - SQLi/3 - Writing Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,10 +186,13 @@
   },
   "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
-    "8 - SQLi/1 - SQLi.md",
-    "8 - SQLi/4 - Skills Assessment.md",
-    "8 - SQLi/2 - Reading Files.md",
     "8 - SQLi/3 - Writing Files.md",
+    "8 - SQLi/4 - Skills Assessment.md",
+    "images/Pasted image 20240928132821.png",
+    "images/Pasted image 20240928132722.png",
+    "8 - SQLi/2 - Reading Files.md",
+    "8 - SQLi/1 - SQLi.md",
+    "images/Pasted image 20240928132338.png",
     "images/Pasted image 20240928131523.png",
     "images/Pasted image 20240928131305.png",
     "5 - Ffuf/3 - Parameter.md",
@@ -198,11 +201,8 @@
     "images/Pasted image 20240928130056.png",
     "images/Pasted image 20240928125855.png",
     "images/Pasted image 20240928125812.png",
-    "images/Pasted image 20240928125529.png",
-    "images/Pasted image 20240928125412.png",
     "7 - XSS/4 - Skills Assessment.md",
     "8 - SQLi",
-    "images/Pasted image 20240928120925.png",
     "7 - XSS/3 - Session Hijacking.md",
     "5 - Ffuf/4 - Skills Assesment.md",
     "7 - XSS/2 - Phishing.md",
@@ -225,7 +225,6 @@
     "4 - Information Gathering/8 - Fingerprinting.md",
     "4 - Information Gathering/7 - Certificate Transparency (CT) Logs.md",
     "4 - Information Gathering/5 - Zone Transfers.md",
-    "4 - Information Gathering/4 - Subdomains.md",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
     "4 - Information Gathering",
