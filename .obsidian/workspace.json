@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - SQLi/4 - Skills Assessment.md",
+                "file": "9 - SQLmap/1 - SQLmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - SQLi/4 - Skills Assessment.md",
+                "file": "9 - SQLmap/1 - SQLmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - SQLi/4 - Skills Assessment.md",
+                "file": "9 - SQLmap/1 - SQLmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - SQLi/4 - Skills Assessment.md"
+                "file": "9 - SQLmap/1 - SQLmap.md"
               }
             }
           }
@@ -186,12 +186,14 @@
   },
   "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
-    "8 - SQLi/3 - Writing Files.md",
+    "8 - SQLi/1 - SQLi.md",
+    "9 - SQLmap/1 - SQLmap.md",
     "8 - SQLi/4 - Skills Assessment.md",
+    "9 - SQLmap",
+    "8 - SQLi/3 - Writing Files.md",
     "images/Pasted image 20240928132821.png",
     "images/Pasted image 20240928132722.png",
     "8 - SQLi/2 - Reading Files.md",
-    "8 - SQLi/1 - SQLi.md",
     "images/Pasted image 20240928132338.png",
     "images/Pasted image 20240928131523.png",
     "images/Pasted image 20240928131305.png",
@@ -229,7 +231,6 @@
     "4 - Information Gathering/2 - WHOIS",
     "4 - Information Gathering",
     "3 - Using Web Proxies",
-    "2 - Introduction to Web Applications/5 - Back End Vulnerabilities",
-    "2 - Introduction to Web Applications/4 - Back End Components"
+    "2 - Introduction to Web Applications/5 - Back End Vulnerabilities"
   ]
 }
