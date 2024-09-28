@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - XSS/4 - Skills Assessment.md",
+                "file": "8 - SQLi/1 - SQLi.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 - XSS/4 - Skills Assessment.md",
+                "file": "8 - SQLi/1 - SQLi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 - XSS/4 - Skills Assessment.md",
+                "file": "8 - SQLi/1 - SQLi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 - XSS/4 - Skills Assessment.md"
+                "file": "8 - SQLi/1 - SQLi.md"
               }
             }
           }
@@ -198,9 +198,11 @@
   },
   "active": "2647f7217a719d09",
   "lastOpenFiles": [
+    "7 - XSS/4 - Skills Assessment.md",
+    "8 - SQLi/1 - SQLi.md",
+    "8 - SQLi",
     "images/Pasted image 20240928120925.png",
     "7 - XSS/3 - Session Hijacking.md",
-    "7 - XSS/4 - Skills Assessment.md",
     "images/Pasted image 20240928120807.png",
     "images/Pasted image 20240928120748.png",
     "5 - Ffuf/4 - Skills Assesment.md",
@@ -213,7 +215,6 @@
     "images/Pasted image 20240927175051.png",
     "images/Pasted image 20240927172636.png",
     "images/Pasted image 20240927172607.png",
-    "images/Pasted image 20240927172309.png",
     "6 - Javascript Deobfuscation/2 - Skills Assessment.md",
     "7 - XSS",
     "6 - Javascript Deobfuscation/1 - JS.md",
@@ -242,7 +243,6 @@
     "3 - Using Web Proxies/5 - Scanner.md",
     "3 - Using Web Proxies",
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities",
-    "2 - Introduction to Web Applications/4 - Back End Components",
-    "2 - Introduction to Web Applications/3 - Front End Vulnerabilities"
+    "2 - Introduction to Web Applications/4 - Back End Components"
   ]
 }
