@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7433e81313abbcfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - XSS/3 - Session Hijacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2647f7217a719d09",
             "type": "leaf",
             "state": {
@@ -32,36 +20,12 @@
             }
           },
           {
-            "id": "45ddf07d2dcff53c",
+            "id": "0fca8fd9fa645662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Ffuf/3 - Parameter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41295841a9b25e9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Ffuf/2 - Domain Fuzzing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "858ce6582a3e65a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Ffuf/1 - Basic Fuzzing.md",
+                "file": "8 - SQLi/3 - Writing Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - SQLi/2 - Reading Files.md",
+                "file": "8 - SQLi/3 - Writing Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - SQLi/2 - Reading Files.md",
+                "file": "8 - SQLi/3 - Writing Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - SQLi/2 - Reading Files.md"
+                "file": "8 - SQLi/3 - Writing Files.md"
               }
             }
           }
@@ -196,10 +160,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2647f7217a719d09",
+  "active": "0fca8fd9fa645662",
   "lastOpenFiles": [
-    "8 - SQLi/1 - SQLi.md",
+    "5 - Ffuf/3 - Parameter.md",
+    "8 - SQLi/3 - Writing Files.md",
     "8 - SQLi/2 - Reading Files.md",
+    "8 - SQLi/1 - SQLi.md",
+    "images/Pasted image 20240928130438.png",
+    "images/Pasted image 20240928130408.png",
     "images/Pasted image 20240928130056.png",
     "images/Pasted image 20240928125855.png",
     "images/Pasted image 20240928125812.png",
@@ -212,15 +180,12 @@
     "images/Pasted image 20240928120807.png",
     "images/Pasted image 20240928120748.png",
     "5 - Ffuf/4 - Skills Assesment.md",
-    "images/Pasted image 20240928120156.png",
-    "images/Pasted image 20240928120027.png",
     "7 - XSS/2 - Phishing.md",
     "7 - XSS/1 - XSS.md",
     "6 - Javascript Deobfuscation/2 - Skills Assessment.md",
     "7 - XSS",
     "6 - Javascript Deobfuscation/1 - JS.md",
     "6 - Javascript Deobfuscation",
-    "5 - Ffuf/3 - Parameter.md",
     "5 - Ffuf/1 - Basic Fuzzing.md",
     "5 - Ffuf/2 - Domain Fuzzing.md",
     "4 - Information Gathering/14 - Skills Assessment.md",
@@ -239,7 +204,6 @@
     "4 - Information Gathering/3 - DNS.md",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
-    "3 - Using Web Proxies/6 - Skills Assesment.md",
     "4 - Information Gathering",
     "3 - Using Web Proxies",
     "2 - Introduction to Web Applications/5 - Back End Vulnerabilities",
