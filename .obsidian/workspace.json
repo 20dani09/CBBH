@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - SQLi/3 - Writing Files.md",
+                "file": "8 - SQLi/4 - Skills Assessment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b7d4d37ce39914b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 - SQLi/4 - Skills Assessment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1ac7d933ebb1d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 - SQLi/1 - SQLi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - SQLi/3 - Writing Files.md",
+                "file": "8 - SQLi/4 - Skills Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - SQLi/3 - Writing Files.md",
+                "file": "8 - SQLi/4 - Skills Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - SQLi/3 - Writing Files.md"
+                "file": "8 - SQLi/4 - Skills Assessment.md"
               }
             }
           }
@@ -160,12 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fca8fd9fa645662",
+  "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
-    "5 - Ffuf/3 - Parameter.md",
-    "8 - SQLi/3 - Writing Files.md",
-    "8 - SQLi/2 - Reading Files.md",
     "8 - SQLi/1 - SQLi.md",
+    "8 - SQLi/4 - Skills Assessment.md",
+    "8 - SQLi/2 - Reading Files.md",
+    "8 - SQLi/3 - Writing Files.md",
+    "images/Pasted image 20240928131523.png",
+    "images/Pasted image 20240928131305.png",
+    "5 - Ffuf/3 - Parameter.md",
     "images/Pasted image 20240928130438.png",
     "images/Pasted image 20240928130408.png",
     "images/Pasted image 20240928130056.png",
@@ -177,8 +204,6 @@
     "8 - SQLi",
     "images/Pasted image 20240928120925.png",
     "7 - XSS/3 - Session Hijacking.md",
-    "images/Pasted image 20240928120807.png",
-    "images/Pasted image 20240928120748.png",
     "5 - Ffuf/4 - Skills Assesment.md",
     "7 - XSS/2 - Phishing.md",
     "7 - XSS/1 - XSS.md",
@@ -201,7 +226,6 @@
     "4 - Information Gathering/7 - Certificate Transparency (CT) Logs.md",
     "4 - Information Gathering/5 - Zone Transfers.md",
     "4 - Information Gathering/4 - Subdomains.md",
-    "4 - Information Gathering/3 - DNS.md",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
     "4 - Information Gathering",
