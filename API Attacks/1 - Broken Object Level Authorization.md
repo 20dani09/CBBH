@@ -62,3 +62,4 @@ curl -X 'GET' 'http://94.237.53.113:38585/api/v1/supplier-companies/yearly-repor
 }
 ```
 
+![[Pasted image 20240929200616.png]]
