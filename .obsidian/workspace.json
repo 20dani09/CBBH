@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Attacks/2 - Broken Authentication.md",
+                "file": "API Attacks/3 - Broken Object Property Level Authorization.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Attacks/2 - Broken Authentication.md",
+                "file": "API Attacks/3 - Broken Object Property Level Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Attacks/2 - Broken Authentication.md",
+                "file": "API Attacks/3 - Broken Object Property Level Authorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Attacks/2 - Broken Authentication.md"
+                "file": "API Attacks/3 - Broken Object Property Level Authorization.md"
               }
             }
           }
@@ -174,9 +174,10 @@
   },
   "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
+    "API Attacks/2 - Broken Authentication.md",
+    "API Attacks/3 - Broken Object Property Level Authorization.md",
     "images/Pasted image 20240930183703.png",
     "API Attacks/1 - Broken Object Level Authorization.md",
-    "API Attacks/2 - Broken Authentication.md",
     "images/Pasted image 20240929200616.png",
     "9 - SQLmap/3 - Skills Assessment.md",
     "API Attacks",
@@ -196,7 +197,6 @@
     "images/Pasted image 20240928131305.png",
     "5 - Ffuf/3 - Parameter.md",
     "images/Pasted image 20240928130438.png",
-    "images/Pasted image 20240928130408.png",
     "7 - XSS/4 - Skills Assessment.md",
     "8 - SQLi",
     "7 - XSS/3 - Session Hijacking.md",
