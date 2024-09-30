@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Attacks/1 - Broken Object Level Authorization.md",
+                "file": "API Attacks/2 - Broken Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Attacks/1 - Broken Object Level Authorization.md",
+                "file": "API Attacks/2 - Broken Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Attacks/1 - Broken Object Level Authorization.md",
+                "file": "API Attacks/2 - Broken Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Attacks/1 - Broken Object Level Authorization.md"
+                "file": "API Attacks/2 - Broken Authentication.md"
               }
             }
           }
@@ -174,9 +174,11 @@
   },
   "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
+    "images/Pasted image 20240930183703.png",
+    "API Attacks/1 - Broken Object Level Authorization.md",
+    "API Attacks/2 - Broken Authentication.md",
     "images/Pasted image 20240929200616.png",
     "9 - SQLmap/3 - Skills Assessment.md",
-    "API Attacks/1 - Broken Object Level Authorization.md",
     "API Attacks",
     "9 - SQLmap/1 - SQLmap.md",
     "8 - SQLi/3 - Writing Files.md",
@@ -195,7 +197,6 @@
     "5 - Ffuf/3 - Parameter.md",
     "images/Pasted image 20240928130438.png",
     "images/Pasted image 20240928130408.png",
-    "images/Pasted image 20240928130056.png",
     "7 - XSS/4 - Skills Assessment.md",
     "8 - SQLi",
     "7 - XSS/3 - Session Hijacking.md",
@@ -215,7 +216,6 @@
     "4 - Information Gathering/1 - Introduction.md",
     "4 - Information Gathering/12 - Automating Recon.md",
     "4 - Information Gathering/11 - Web Archives.md",
-    "4 - Information Gathering/10 - Search Engine Discovery.md",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
     "4 - Information Gathering",
