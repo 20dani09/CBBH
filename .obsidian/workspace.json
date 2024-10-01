@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Attacks/4 - Unrestricted Resource Consuption.md",
+                "file": "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Attacks/4 - Unrestricted Resource Consuption.md",
+                "file": "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Attacks/4 - Unrestricted Resource Consuption.md",
+                "file": "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Attacks/4 - Unrestricted Resource Consuption.md"
+                "file": "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md"
               }
             }
           }
@@ -174,11 +174,12 @@
   },
   "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
+    "images/Pasted image 20241001213955.png",
+    "API Attacks/4 - Unrestricted Resource Consuption.md",
     "API Attacks/5 - Broken Function Level Authorization.md",
     "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
     "images/Pasted image 20241001194859.png",
     "images/Pasted image 20241001194701.png",
-    "API Attacks/4 - Unrestricted Resource Consuption.md",
     "API Attacks/3 - Broken Object Property Level Authorization.md",
     "API Attacks/2 - Broken Authentication.md",
     "images/Pasted image 20240930183703.png",
@@ -215,7 +216,6 @@
     "4 - Information Gathering/14 - Skills Assessment.md",
     "5 - Ffuf",
     "4 - Information Gathering/6 - Virtual Hosts.md",
-    "4 - Information Gathering/2 - WHOIS.md",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
     "4 - Information Gathering",
