@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Attacks/5 - Broken Function Level Authorization.md",
+                "file": "API Attacks/4 - Unrestricted Resource Consuption.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Attacks/5 - Broken Function Level Authorization.md",
+                "file": "API Attacks/4 - Unrestricted Resource Consuption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Attacks/5 - Broken Function Level Authorization.md",
+                "file": "API Attacks/4 - Unrestricted Resource Consuption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Attacks/5 - Broken Function Level Authorization.md"
+                "file": "API Attacks/4 - Unrestricted Resource Consuption.md"
               }
             }
           }
@@ -174,10 +174,11 @@
   },
   "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
+    "API Attacks/5 - Broken Function Level Authorization.md",
+    "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
     "images/Pasted image 20241001194859.png",
     "images/Pasted image 20241001194701.png",
     "API Attacks/4 - Unrestricted Resource Consuption.md",
-    "API Attacks/5 - Broken Function Level Authorization.md",
     "API Attacks/3 - Broken Object Property Level Authorization.md",
     "API Attacks/2 - Broken Authentication.md",
     "images/Pasted image 20240930183703.png",
@@ -198,7 +199,6 @@
     "images/Pasted image 20240928132722.png",
     "images/Pasted image 20240928132338.png",
     "images/Pasted image 20240928131523.png",
-    "images/Pasted image 20240928131305.png",
     "5 - Ffuf/3 - Parameter.md",
     "7 - XSS/4 - Skills Assessment.md",
     "8 - SQLi",
