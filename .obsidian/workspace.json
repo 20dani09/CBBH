@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Attacks/3 - Broken Object Property Level Authorization.md",
+                "file": "API Attacks/4 - Unrestricted Resource Consuption.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Attacks/3 - Broken Object Property Level Authorization.md",
+                "file": "API Attacks/4 - Unrestricted Resource Consuption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Attacks/3 - Broken Object Property Level Authorization.md",
+                "file": "API Attacks/4 - Unrestricted Resource Consuption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Attacks/3 - Broken Object Property Level Authorization.md"
+                "file": "API Attacks/4 - Unrestricted Resource Consuption.md"
               }
             }
           }
@@ -174,8 +174,9 @@
   },
   "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
-    "API Attacks/2 - Broken Authentication.md",
     "API Attacks/3 - Broken Object Property Level Authorization.md",
+    "API Attacks/4 - Unrestricted Resource Consuption.md",
+    "API Attacks/2 - Broken Authentication.md",
     "images/Pasted image 20240930183703.png",
     "API Attacks/1 - Broken Object Level Authorization.md",
     "images/Pasted image 20240929200616.png",
@@ -215,7 +216,6 @@
     "4 - Information Gathering/2 - WHOIS.md",
     "4 - Information Gathering/1 - Introduction.md",
     "4 - Information Gathering/12 - Automating Recon.md",
-    "4 - Information Gathering/11 - Web Archives.md",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
     "4 - Information Gathering",
