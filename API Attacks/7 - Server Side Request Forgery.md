@@ -20,4 +20,10 @@ ____
 }
 ```
 
+#### /api/v1/products/current-user
+Creates a new Product using the Supplier ID of the currently authenticated Supplier
+Role(s) required: **Products_CreateByCurrentUser**
+
+
+
 
