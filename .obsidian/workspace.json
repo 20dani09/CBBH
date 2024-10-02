@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Attacks/10 - Unsafe Consumption of APIs.md",
+                "file": "API Attacks/Skills Assessment.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Attacks/10 - Unsafe Consumption of APIs.md",
+                "file": "API Attacks/Skills Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Attacks/10 - Unsafe Consumption of APIs.md",
+                "file": "API Attacks/Skills Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Attacks/10 - Unsafe Consumption of APIs.md"
+                "file": "API Attacks/Skills Assessment.md"
               }
             }
           }
@@ -174,8 +174,10 @@
   },
   "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
-    "API Attacks/9 - Improper Inventory Management.md",
     "API Attacks/10 - Unsafe Consumption of APIs.md",
+    "API Attacks/Skills Assessment.md",
+    "images/Pasted image 20241002192224.png",
+    "API Attacks/9 - Improper Inventory Management.md",
     "images/Pasted image 20241002191534.png",
     "images/Pasted image 20241002191501.png",
     "API Attacks/8 - Security Misconfiguration.md",
@@ -188,7 +190,6 @@
     "images/Pasted image 20241002183717.png",
     "images/Pasted image 20241002183413.png",
     "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
-    "images/Pasted image 20241001213955.png",
     "API Attacks/4 - Unrestricted Resource Consuption.md",
     "API Attacks/5 - Broken Function Level Authorization.md",
     "API Attacks/3 - Broken Object Property Level Authorization.md",
@@ -214,7 +215,6 @@
     "7 - XSS",
     "6 - Javascript Deobfuscation/1 - JS.md",
     "6 - Javascript Deobfuscation",
-    "5 - Ffuf/1 - Basic Fuzzing.md",
     "5 - Ffuf",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
