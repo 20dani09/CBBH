@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Attacks/7 - Server Side Request Forgery.md",
+                "file": "API Attacks/8 - Security Misconfiguration.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Attacks/7 - Server Side Request Forgery.md",
+                "file": "API Attacks/8 - Security Misconfiguration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Attacks/7 - Server Side Request Forgery.md",
+                "file": "API Attacks/8 - Security Misconfiguration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Attacks/7 - Server Side Request Forgery.md"
+                "file": "API Attacks/8 - Security Misconfiguration.md"
               }
             }
           }
@@ -174,8 +174,13 @@
   },
   "active": "0b7d4d37ce39914b",
   "lastOpenFiles": [
-    "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
     "API Attacks/7 - Server Side Request Forgery.md",
+    "API Attacks/8 - Security Misconfiguration.md",
+    "images/Pasted image 20241002183643.png",
+    "images/Pasted image 20241002183732.png",
+    "images/Pasted image 20241002183717.png",
+    "images/Pasted image 20241002183413.png",
+    "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
     "images/Pasted image 20241001213955.png",
     "API Attacks/4 - Unrestricted Resource Consuption.md",
     "API Attacks/5 - Broken Function Level Authorization.md",
@@ -193,13 +198,9 @@
     "8 - SQLi/2 - Reading Files.md",
     "8 - SQLi/1 - SQLi.md",
     "images/Pasted image 20240928195102.png",
-    "images/Pasted image 20240928195054.png",
     "9 - SQLmap/2 - OS Explotation.md",
     "8 - SQLi/4 - Skills Assessment.md",
     "9 - SQLmap",
-    "images/Pasted image 20240928132821.png",
-    "images/Pasted image 20240928132722.png",
-    "images/Pasted image 20240928132338.png",
     "5 - Ffuf/3 - Parameter.md",
     "7 - XSS/4 - Skills Assessment.md",
     "8 - SQLi",
@@ -215,7 +216,6 @@
     "5 - Ffuf/2 - Domain Fuzzing.md",
     "4 - Information Gathering/14 - Skills Assessment.md",
     "5 - Ffuf",
-    "4 - Information Gathering/6 - Virtual Hosts.md",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
     "4 - Information Gathering",
