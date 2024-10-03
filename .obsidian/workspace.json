@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
+                "file": "10- Command Injections/1 - Explotation.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
+                "file": "10- Command Injections/1 - Explotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
+                "file": "10- Command Injections/1 - Explotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md"
+                "file": "10- Command Injections/1 - Explotation.md"
               }
             }
           }
@@ -186,10 +186,13 @@
   },
   "active": "e689c974ded78b7d",
   "lastOpenFiles": [
+    "images/Pasted image 20241003121851.png",
+    "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
+    "10- Command Injections/1 - Explotation.md",
+    "10- Command Injections",
     "images/Pasted image 20241003110412.png",
     "images/Pasted image 20241003110343.png",
     "images/Pasted image 20241003110317.png",
-    "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
     "Attacking GraphQL/1 - Information Disclosure.md",
     "images/Pasted image 20241003105606.png",
     "images/Pasted image 20241003105447.png",
@@ -203,7 +206,6 @@
     "images/Pasted image 20241002191534.png",
     "images/Pasted image 20241002191501.png",
     "API Attacks/8 - Security Misconfiguration.md",
-    "images/Pasted image 20241002191215.png",
     "API Attacks/7 - Server Side Request Forgery.md",
     "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
     "API Attacks/4 - Unrestricted Resource Consuption.md",
@@ -225,12 +227,10 @@
     "8 - SQLi",
     "7 - XSS/3 - Session Hijacking.md",
     "5 - Ffuf/4 - Skills Assesment.md",
-    "7 - XSS/2 - Phishing.md",
     "7 - XSS",
     "6 - Javascript Deobfuscation",
     "5 - Ffuf",
     "4 - Information Gathering/1 - Introduction",
-    "4 - Information Gathering/2 - WHOIS",
-    "4 - Information Gathering"
+    "4 - Information Gathering/2 - WHOIS"
   ]
 }
