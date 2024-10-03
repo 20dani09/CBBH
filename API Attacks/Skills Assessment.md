@@ -1,19 +1,33 @@
 ___
 
-```json
-{
-  "supplier": {
-    "id": "73ff2040-8d86-4932-bd3f-6441d648dcca",
-    "companyID": "f9e58492-b594-4d82-a4de-16e4f230fce1",
-    "name": "Mason Alexander",
-    "email": "M.Alexander1650@globalsolutions.com",
-    "securityQuestion": "What is your favorite color?",
-    "professionalCVPDFFileURI": "SupplierDidNotUploadYet"
-  }
-}
+# Customer
+**Suppliers_GetAll**
+securityQuestion": "What is your favorite color?"
+
+
+```txt
+P.Howard1536@globalsolutions.com
+L.Walker1872@globalsolutions.com
+T.Harris1814@globalsolutions.com
+B.Rogers1535@globalsolutions.com
+M.Alexander1650@globalsolutions.com
 ```
+
+
 #### /api/v2/authentication/suppliers/passwords/resets/security-question-answers
 
+![[Pasted image 20241003104105.png]]
+
+```json
+{
+  "SupplierEmail": "B.Rogers1535@globalsolutions.com",
+  "SecurityQuestionAnswer": "Rust",
+  "NewPassword": "danidani"
+}
+```
+
+
+# Suplier
 
 
 
