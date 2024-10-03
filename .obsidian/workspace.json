@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10- Command Injections/3 - Skills Assessment.md",
+                "file": "11 - File Upload/1 - File Upload.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10- Command Injections/3 - Skills Assessment.md",
+                "file": "11 - File Upload/1 - File Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10- Command Injections/3 - Skills Assessment.md",
+                "file": "11 - File Upload/1 - File Upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10- Command Injections/3 - Skills Assessment.md"
+                "file": "11 - File Upload/1 - File Upload.md"
               }
             }
           }
@@ -186,9 +186,11 @@
   },
   "active": "e689c974ded78b7d",
   "lastOpenFiles": [
+    "10- Command Injections/3 - Skills Assessment.md",
+    "11 - File Upload/1 - File Upload.md",
+    "11 - File Upload",
     "10- Command Injections/1 - Explotation.md",
     "9 - SQLmap/1 - SQLmap.md",
-    "10- Command Injections/3 - Skills Assessment.md",
     "8 - SQLi/2 - Reading Files.md",
     "10- Command Injections/2 - Filter Evasion.md",
     "images/Pasted image 20241003121851.png",
@@ -226,11 +228,9 @@
     "5 - Ffuf/3 - Parameter.md",
     "7 - XSS/4 - Skills Assessment.md",
     "8 - SQLi",
-    "7 - XSS/3 - Session Hijacking.md",
     "7 - XSS",
     "6 - Javascript Deobfuscation",
     "5 - Ffuf",
-    "4 - Information Gathering/1 - Introduction",
-    "4 - Information Gathering/2 - WHOIS"
+    "4 - Information Gathering/1 - Introduction"
   ]
 }
