@@ -29,9 +29,30 @@ M.Alexander1650@globalsolutions.com
 
 # Suplier
 
+#### POST /api/v2/suppliers/current-user/cv
 
+```json
+{
+  "successStatus": true,
+  "fileURI": "file:///app/wwwroot/SupplierCVs/file-sample_150kB.pdf",
+  "fileSize": 358443
+}
+```
 
+#### /api/v2/suppliers/current-user
 
+Use this endpoint to update the currently authenticated Supplier.
 
+```json
+{
+  "SecurityQuestion": "test",
+  "SecurityQuestionAnswer": "test",
+  "ProfessionalCVPDFFileURI": "file:///flag.txt",
+  "PhoneNumber": "test",
+  "Password": "test"
+}
+```
 
+#### GET /api/v2/suppliers/current-user/cv 
 
+![[Pasted image 20241003104545.png]]

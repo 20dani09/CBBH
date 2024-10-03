@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "e689c974ded78b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attacking GraphQL/1 - Information Disclosure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1662acd924275c6e",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Attacks/Skills Assessment.md",
+                "file": "Attacking GraphQL/1 - Information Disclosure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Attacks/Skills Assessment.md",
+                "file": "Attacking GraphQL/1 - Information Disclosure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Attacks/Skills Assessment.md"
+                "file": "Attacking GraphQL/1 - Information Disclosure.md"
               }
             }
           }
@@ -172,11 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b7d4d37ce39914b",
+  "active": "e689c974ded78b7d",
   "lastOpenFiles": [
+    "Attacking GraphQL",
+    "API Attacks/Skills Assessment.md",
+    "Attacking GraphQL/1 - Information Disclosure.md",
+    "images/Pasted image 20241003104545.png",
     "images/Pasted image 20241003104105.png",
     "API Attacks/10 - Unsafe Consumption of APIs.md",
-    "API Attacks/Skills Assessment.md",
     "images/Pasted image 20241002192224.png",
     "API Attacks/9 - Improper Inventory Management.md",
     "images/Pasted image 20241002191534.png",
@@ -188,8 +203,6 @@
     "API Attacks/7 - Server Side Request Forgery.md",
     "images/Pasted image 20241002183643.png",
     "images/Pasted image 20241002183732.png",
-    "images/Pasted image 20241002183717.png",
-    "images/Pasted image 20241002183413.png",
     "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
     "API Attacks/4 - Unrestricted Resource Consuption.md",
     "API Attacks/5 - Broken Function Level Authorization.md",
@@ -212,7 +225,6 @@
     "5 - Ffuf/4 - Skills Assesment.md",
     "7 - XSS/2 - Phishing.md",
     "7 - XSS/1 - XSS.md",
-    "6 - Javascript Deobfuscation/2 - Skills Assessment.md",
     "7 - XSS",
     "6 - Javascript Deobfuscation",
     "5 - Ffuf",
