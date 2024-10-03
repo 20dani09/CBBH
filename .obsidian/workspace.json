@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attacking GraphQL/1 - Information Disclosure.md",
+                "file": "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attacking GraphQL/1 - Information Disclosure.md",
+                "file": "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attacking GraphQL/1 - Information Disclosure.md",
+                "file": "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attacking GraphQL/1 - Information Disclosure.md"
+                "file": "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md"
               }
             }
           }
@@ -186,9 +186,12 @@
   },
   "active": "e689c974ded78b7d",
   "lastOpenFiles": [
+    "Attacking GraphQL/1 - Information Disclosure.md",
+    "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
+    "images/Pasted image 20241003105606.png",
+    "images/Pasted image 20241003105447.png",
     "Attacking GraphQL",
     "API Attacks/Skills Assessment.md",
-    "Attacking GraphQL/1 - Information Disclosure.md",
     "images/Pasted image 20241003104545.png",
     "images/Pasted image 20241003104105.png",
     "API Attacks/10 - Unsafe Consumption of APIs.md",
@@ -201,8 +204,6 @@
     "images/Pasted image 20241002191159.png",
     "images/Pasted image 20241002185744.png",
     "API Attacks/7 - Server Side Request Forgery.md",
-    "images/Pasted image 20241002183643.png",
-    "images/Pasted image 20241002183732.png",
     "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
     "API Attacks/4 - Unrestricted Resource Consuption.md",
     "API Attacks/5 - Broken Function Level Authorization.md",
@@ -230,7 +231,6 @@
     "5 - Ffuf",
     "4 - Information Gathering/1 - Introduction",
     "4 - Information Gathering/2 - WHOIS",
-    "4 - Information Gathering",
-    "3 - Using Web Proxies"
+    "4 - Information Gathering"
   ]
 }

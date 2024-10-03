@@ -7,5 +7,9 @@ In Repeater, right-click anywhere within the **Request** panel of the message ed
 
 **GraphQL > Save GraphQL queries to site map**
 
+![[Pasted image 20241003105447.png]]
+
+![[Pasted image 20241003105606.png]]
+
 
 
