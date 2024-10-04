@@ -17,6 +17,8 @@ hydra -l basic-auth-user -P /usr/share/seclists/Passwords/2023-200_most_used_pas
 
 ![[Pasted image 20241004131840.png]]
 
+![[Pasted image 20241004132934.png]]
+
 
 
 
