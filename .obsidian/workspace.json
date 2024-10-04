@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 - Server-Side Attacks/2 - SSTI.md",
+                "file": "12 - Server-Side Attacks/4 - XSLT Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 - Server-Side Attacks/2 - SSTI.md",
+                "file": "12 - Server-Side Attacks/4 - XSLT Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 - Server-Side Attacks/2 - SSTI.md",
+                "file": "12 - Server-Side Attacks/4 - XSLT Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 - Server-Side Attacks/2 - SSTI.md"
+                "file": "12 - Server-Side Attacks/4 - XSLT Injection.md"
               }
             }
           }
@@ -186,9 +186,11 @@
   },
   "active": "e689c974ded78b7d",
   "lastOpenFiles": [
+    "12 - Server-Side Attacks/3 - SSI.md",
+    "12 - Server-Side Attacks/4 - XSLT Injection.md",
+    "12 - Server-Side Attacks/2 - SSTI.md",
     "images/Pasted image 20241004110914.png",
     "12 - Server-Side Attacks/1 - SSRF.md",
-    "12 - Server-Side Attacks/2 - SSTI.md",
     "images/Pasted image 20241004105211.png",
     "images/Pasted image 20241004104444.png",
     "11 - File Upload/2 - File Upload.md",
@@ -212,7 +214,6 @@
     "Attacking GraphQL",
     "API Attacks/Skills Assessment.md",
     "images/Pasted image 20241003104545.png",
-    "images/Pasted image 20241003104105.png",
     "API Attacks/10 - Unsafe Consumption of APIs.md",
     "API Attacks/9 - Improper Inventory Management.md",
     "API Attacks/8 - Security Misconfiguration.md",
@@ -226,7 +227,6 @@
     "9 - SQLmap/3 - Skills Assessment.md",
     "API Attacks",
     "8 - SQLi/3 - Writing Files.md",
-    "8 - SQLi/1 - SQLi.md",
     "9 - SQLmap",
     "8 - SQLi",
     "7 - XSS",
