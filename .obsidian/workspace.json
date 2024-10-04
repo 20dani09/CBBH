@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2647f7217a719d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8 - SQLi/2 - Reading Files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b7d4d37ce39914b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "API Attacks/Skills Assessment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e689c974ded78b7d",
             "type": "leaf",
             "state": {
@@ -44,19 +20,18 @@
             }
           },
           {
-            "id": "1662acd924275c6e",
+            "id": "14d6e1c4ff61de3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10- Command Injections/1 - Explotation.md",
+                "file": "12 - Server-Side Attacks/2 - SSTI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +161,14 @@
   },
   "active": "e689c974ded78b7d",
   "lastOpenFiles": [
-    "12 - Server-Side Attacks/4 - XSLT Injection.md",
+    "12 - Server-Side Attacks/2 - SSTI.md",
     "12 - Server-Side Attacks/5 - Skills Assessment.md",
     "12 - Server-Side Attacks/3 - SSI.md",
-    "12 - Server-Side Attacks/2 - SSTI.md",
+    "API Attacks/11 - Skills Assessment.md",
+    "8 - SQLi/2 - Reading Files.md",
+    "images/Pasted image 20241004123022.png",
+    "images/Pasted image 20241004123012.png",
+    "12 - Server-Side Attacks/4 - XSLT Injection.md",
     "images/Pasted image 20241004110914.png",
     "12 - Server-Side Attacks/1 - SSRF.md",
     "images/Pasted image 20241004105211.png",
@@ -201,7 +180,6 @@
     "11 - File Upload",
     "10- Command Injections/1 - Explotation.md",
     "9 - SQLmap/1 - SQLmap.md",
-    "8 - SQLi/2 - Reading Files.md",
     "10- Command Injections/2 - Filter Evasion.md",
     "images/Pasted image 20241003121851.png",
     "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
@@ -211,10 +189,7 @@
     "images/Pasted image 20241003110317.png",
     "Attacking GraphQL/1 - Information Disclosure.md",
     "images/Pasted image 20241003105606.png",
-    "images/Pasted image 20241003105447.png",
     "Attacking GraphQL",
-    "API Attacks/Skills Assessment.md",
-    "images/Pasted image 20241003104545.png",
     "API Attacks/10 - Unsafe Consumption of APIs.md",
     "API Attacks/9 - Improper Inventory Management.md",
     "API Attacks/8 - Security Misconfiguration.md",
@@ -225,7 +200,6 @@
     "API Attacks/3 - Broken Object Property Level Authorization.md",
     "API Attacks/2 - Broken Authentication.md",
     "API Attacks/1 - Broken Object Level Authorization.md",
-    "9 - SQLmap/3 - Skills Assessment.md",
     "API Attacks",
     "9 - SQLmap",
     "8 - SQLi",
