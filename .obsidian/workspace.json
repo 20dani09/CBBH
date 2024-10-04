@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 - Server-Side Attacks/5 - Skills Assessment.md",
+                "file": "13 - Login Brute Forcing/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 - Server-Side Attacks/5 - Skills Assessment.md",
+                "file": "13 - Login Brute Forcing/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 - Server-Side Attacks/5 - Skills Assessment.md",
+                "file": "13 - Login Brute Forcing/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 - Server-Side Attacks/5 - Skills Assessment.md"
+                "file": "13 - Login Brute Forcing/Untitled.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "e689c974ded78b7d",
   "lastOpenFiles": [
-    "12 - Server-Side Attacks/2 - SSTI.md",
     "12 - Server-Side Attacks/5 - Skills Assessment.md",
+    "13 - Login Brute Forcing/Untitled.md",
+    "13 - Login Brute Forcing",
+    "12 - Server-Side Attacks/2 - SSTI.md",
     "12 - Server-Side Attacks/3 - SSI.md",
     "API Attacks/11 - Skills Assessment.md",
     "8 - SQLi/2 - Reading Files.md",
@@ -204,7 +206,6 @@
     "9 - SQLmap",
     "8 - SQLi",
     "7 - XSS",
-    "6 - Javascript Deobfuscation",
-    "5 - Ffuf"
+    "6 - Javascript Deobfuscation"
   ]
 }
