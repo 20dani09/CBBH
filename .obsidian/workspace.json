@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 - Broken Authentication/1 - Brute-Force Attacks.md",
+                "file": "14 - Broken Authentication/Authentication Bypass.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 - Broken Authentication/1 - Brute-Force Attacks.md",
+                "file": "14 - Broken Authentication/Authentication Bypass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14 - Broken Authentication/1 - Brute-Force Attacks.md",
+                "file": "14 - Broken Authentication/Authentication Bypass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14 - Broken Authentication/1 - Brute-Force Attacks.md"
+                "file": "14 - Broken Authentication/Authentication Bypass.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "a6943d126e96d0e0",
   "lastOpenFiles": [
-    "13 - Login Brute Forcing/1 - Brute Force Attacks.md",
     "14 - Broken Authentication/1 - Brute-Force Attacks.md",
+    "14 - Broken Authentication/Authentication Bypass.md",
+    "13 - Login Brute Forcing/1 - Brute Force Attacks.md",
     "13 - Login Brute Forcing/3 - Custom Wordlists.md",
     "14 - Broken Authentication",
     "images/Pasted image 20241004152202.png",
@@ -190,7 +191,6 @@
     "API Attacks/8 - Security Misconfiguration.md",
     "API Attacks/7 - Server Side Request Forgery.md",
     "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
-    "API Attacks/4 - Unrestricted Resource Consuption.md",
     "API Attacks",
     "9 - SQLmap",
     "8 - SQLi",
