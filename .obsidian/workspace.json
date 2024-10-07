@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 - Broken Authentication/Authentication Bypass.md",
+                "file": "14 - Broken Authentication/2 - Authentication Bypass.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 - Broken Authentication/Authentication Bypass.md",
+                "file": "14 - Broken Authentication/2 - Authentication Bypass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14 - Broken Authentication/Authentication Bypass.md",
+                "file": "14 - Broken Authentication/2 - Authentication Bypass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14 - Broken Authentication/Authentication Bypass.md"
+                "file": "14 - Broken Authentication/2 - Authentication Bypass.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "a6943d126e96d0e0",
   "lastOpenFiles": [
+    "images/Pasted image 20241007183158.png",
+    "images/Pasted image 20241007183120.png",
+    "14 - Broken Authentication/2 - Authentication Bypass.md",
+    "images/Pasted image 20241007183017.png",
+    "images/Pasted image 20241007182941.png",
     "14 - Broken Authentication/1 - Brute-Force Attacks.md",
-    "14 - Broken Authentication/Authentication Bypass.md",
     "13 - Login Brute Forcing/1 - Brute Force Attacks.md",
     "13 - Login Brute Forcing/3 - Custom Wordlists.md",
     "14 - Broken Authentication",
@@ -163,9 +167,6 @@
     "images/Pasted image 20241004134542.png",
     "images/Pasted image 20241004132934.png",
     "images/Pasted image 20241004131840.png",
-    "images/Pasted image 20241004131808.png",
-    "images/Pasted image 20241004131415.png",
-    "images/Pasted image 20241004131402.png",
     "12 - Server-Side Attacks/5 - Skills Assessment.md",
     "13 - Login Brute Forcing",
     "12 - Server-Side Attacks/2 - SSTI.md",
@@ -190,7 +191,6 @@
     "API Attacks/9 - Improper Inventory Management.md",
     "API Attacks/8 - Security Misconfiguration.md",
     "API Attacks/7 - Server Side Request Forgery.md",
-    "API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md",
     "API Attacks",
     "9 - SQLmap",
     "8 - SQLi",
