@@ -15,3 +15,5 @@ Afterward, forward the request by clicking on `Forward`. Since we intercepted th
 
 # Authentication Bypass via Parameter Modification
 
+![[Pasted image 20241007184247.png]]
+
