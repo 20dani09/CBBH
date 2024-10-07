@@ -11,8 +11,12 @@
             "id": "a6943d126e96d0e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "14 - Broken Authentication/1 - Brute-Force Attacks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -143,15 +147,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84840cfe5784a350",
+  "active": "a6943d126e96d0e0",
   "lastOpenFiles": [
-    "13 - Login Brute Forcing/3 - Custom Wordlists.md",
+    "13 - Login Brute Forcing/1 - Brute Force Attacks.md",
     "14 - Broken Authentication/1 - Brute-Force Attacks.md",
+    "13 - Login Brute Forcing/3 - Custom Wordlists.md",
     "14 - Broken Authentication",
     "images/Pasted image 20241004152202.png",
     "13 - Login Brute Forcing/4 - Skills Assessment.md",
     "13 - Login Brute Forcing/2 - Hydra.md",
-    "13 - Login Brute Forcing/1 - Brute Force Attacks.md",
     "images/Pasted image 20241004150612.png",
     "images/Pasted image 20241004134809.png",
     "images/Pasted image 20241004134603.png",
