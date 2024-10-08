@@ -186,6 +186,7 @@
   },
   "active": "a03839f18e359890",
   "lastOpenFiles": [
+    "images/Pasted image 20241008193221.png",
     "15- Web Attacks",
     "14- Broken Authentication/4 - Skills Assessment.md",
     "15- Web Attacks/1 - HTTP Verb Tampering.md",
@@ -230,7 +231,6 @@
     "API Attacks/10 - Unsafe Consumption of APIs.md",
     "API Attacks",
     "9- SQLmap",
-    "8- SQLi",
-    "7- XSS"
+    "8- SQLi"
   ]
 }
