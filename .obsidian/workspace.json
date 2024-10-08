@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 - Broken Authentication/1 - Brute-Force Attacks.md",
+                "file": "14- Broken Authentication/1 - Brute-Force Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 - Broken Authentication/4 - Skills Assessment.md",
+                "file": "14- Broken Authentication/4 - Skills Assessment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a03839f18e359890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15- Web Attacks/1 - HTTP Verb Tampering.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 - Broken Authentication/1 - Brute-Force Attacks.md",
+                "file": "14- Broken Authentication/1 - Brute-Force Attacks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 - Broken Authentication/4 - Skills Assessment.md",
+                "file": "15- Web Attacks/1 - HTTP Verb Tampering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14 - Broken Authentication/4 - Skills Assessment.md",
+                "file": "15- Web Attacks/1 - HTTP Verb Tampering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14 - Broken Authentication/4 - Skills Assessment.md"
+                "file": "15- Web Attacks/1 - HTTP Verb Tampering.md"
               }
             }
           }
@@ -172,13 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39f95ae9a926d6c7",
+  "active": "a03839f18e359890",
   "lastOpenFiles": [
+    "15- Web Attacks",
+    "14- Broken Authentication/4 - Skills Assessment.md",
+    "15- Web Attacks/1 - HTTP Verb Tampering.md",
     "images/Pasted image 20241008183808.png",
-    "14 - Broken Authentication/1 - Brute-Force Attacks.md",
-    "14 - Broken Authentication/2 - Authentication Bypass.md",
-    "14 - Broken Authentication/4 - Skills Assessment.md",
-    "14 - Broken Authentication/3 - Session Tokens.md",
+    "14- Broken Authentication/1 - Brute-Force Attacks.md",
+    "14- Broken Authentication/2 - Authentication Bypass.md",
+    "14- Broken Authentication/3 - Session Tokens.md",
     "images/Pasted image 20241008181809.png",
     "images/Pasted image 20241008181705.png",
     "images/Pasted image 20241007184802.png",
@@ -187,38 +201,36 @@
     "images/Pasted image 20241007183120.png",
     "images/Pasted image 20241007183017.png",
     "images/Pasted image 20241007182941.png",
-    "13 - Login Brute Forcing/1 - Brute Force Attacks.md",
-    "13 - Login Brute Forcing/3 - Custom Wordlists.md",
-    "14 - Broken Authentication",
+    "13- Login Brute Forcing/1 - Brute Force Attacks.md",
+    "13- Login Brute Forcing/3 - Custom Wordlists.md",
+    "14- Broken Authentication",
     "images/Pasted image 20241004152202.png",
-    "13 - Login Brute Forcing/4 - Skills Assessment.md",
-    "13 - Login Brute Forcing/2 - Hydra.md",
-    "images/Pasted image 20241004150612.png",
-    "12 - Server-Side Attacks/5 - Skills Assessment.md",
-    "13 - Login Brute Forcing",
-    "12 - Server-Side Attacks/2 - SSTI.md",
-    "12 - Server-Side Attacks/3 - SSI.md",
+    "13- Login Brute Forcing/4 - Skills Assessment.md",
+    "13- Login Brute Forcing/2 - Hydra.md",
+    "12- Server-Side Attacks/5 - Skills Assessment.md",
+    "13- Login Brute Forcing",
+    "12- Server-Side Attacks/2 - SSTI.md",
+    "12- Server-Side Attacks/3 - SSI.md",
     "API Attacks/11 - Skills Assessment.md",
-    "8 - SQLi/2 - Reading Files.md",
-    "12 - Server-Side Attacks/4 - XSLT Injection.md",
-    "12 - Server-Side Attacks/1 - SSRF.md",
-    "11 - File Upload/2 - File Upload.md",
-    "12 - Server-Side Attacks",
-    "11 - File Upload/1 - File Upload.md",
+    "8- SQLi/2 - Reading Files.md",
+    "12- Server-Side Attacks/4 - XSLT Injection.md",
+    "12- Server-Side Attacks/1 - SSRF.md",
+    "11- File Upload/2 - File Upload.md",
+    "12- Server-Side Attacks",
+    "11- File Upload/1 - File Upload.md",
     "10- Command Injections/3 - Skills Assessment.md",
-    "11 - File Upload",
+    "11- File Upload",
     "10- Command Injections/1 - Explotation.md",
-    "9 - SQLmap/1 - SQLmap.md",
+    "9- SQLmap/1 - SQLmap.md",
     "10- Command Injections/2 - Filter Evasion.md",
     "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
     "10- Command Injections",
     "Attacking GraphQL/1 - Information Disclosure.md",
     "Attacking GraphQL",
     "API Attacks/10 - Unsafe Consumption of APIs.md",
-    "API Attacks/9 - Improper Inventory Management.md",
     "API Attacks",
-    "9 - SQLmap",
-    "8 - SQLi",
-    "7 - XSS"
+    "9- SQLmap",
+    "8- SQLi",
+    "7- XSS"
   ]
 }
