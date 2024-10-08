@@ -17,3 +17,5 @@ Afterward, forward the request by clicking on `Forward`. Since we intercepted th
 
 ![[Pasted image 20241007184247.png]]
 
+![[Pasted image 20241007184802.png]]
+
