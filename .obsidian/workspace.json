@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1cab73134633bd83",
+        "id": "4a204288bd4145cd",
         "type": "tabs",
         "children": [
           {
-            "id": "a6943d126e96d0e0",
+            "id": "c39b5fe35c4a7d4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14- Broken Authentication/1 - Brute-Force Attacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39f95ae9a926d6c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14- Broken Authentication/4 - Skills Assessment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a03839f18e359890",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15- Web Attacks/1 - HTTP Verb Tampering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1fd6fdc7a741d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14- Broken Authentication/1 - Brute-Force Attacks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15- Web Attacks/1 - HTTP Verb Tampering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15- Web Attacks/1 - HTTP Verb Tampering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "15- Web Attacks/1 - HTTP Verb Tampering.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,14 +139,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a03839f18e359890",
+  "active": "c39b5fe35c4a7d4d",
   "lastOpenFiles": [
-    "images/Pasted image 20241008193221.png",
-    "15- Web Attacks",
+    "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "14- Broken Authentication/4 - Skills Assessment.md",
     "15- Web Attacks/1 - HTTP Verb Tampering.md",
+    "images/Pasted image 20241008193221.png",
+    "15- Web Attacks",
     "images/Pasted image 20241008183808.png",
-    "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "14- Broken Authentication/2 - Authentication Bypass.md",
     "14- Broken Authentication/3 - Session Tokens.md",
     "images/Pasted image 20241008181809.png",
@@ -205,7 +160,6 @@
     "13- Login Brute Forcing/1 - Brute Force Attacks.md",
     "13- Login Brute Forcing/3 - Custom Wordlists.md",
     "14- Broken Authentication",
-    "images/Pasted image 20241004152202.png",
     "13- Login Brute Forcing/4 - Skills Assessment.md",
     "13- Login Brute Forcing/2 - Hydra.md",
     "12- Server-Side Attacks/5 - Skills Assessment.md",
