@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15- Web Attacks/Untitled.md",
+                "file": "15- Web Attacks/2 - IDOR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15- Web Attacks/Untitled.md",
+                "file": "15- Web Attacks/2 - IDOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15- Web Attacks/Untitled.md",
+                "file": "15- Web Attacks/2 - IDOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15- Web Attacks/Untitled.md"
+                "file": "15- Web Attacks/2 - IDOR.md"
               }
             }
           }
@@ -150,7 +150,9 @@
   "active": "c39b5fe35c4a7d4d",
   "lastOpenFiles": [
     "15- Web Attacks/1 - HTTP Verb Tampering.md",
-    "15- Web Attacks/Untitled.md",
+    "images/Pasted image 20241009182913.png",
+    "images/Pasted image 20241009182804.png",
+    "15- Web Attacks/2 - IDOR.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "14- Broken Authentication/4 - Skills Assessment.md",
     "images/Pasted image 20241008193221.png",
@@ -164,8 +166,6 @@
     "images/Pasted image 20241007184247.png",
     "images/Pasted image 20241007183158.png",
     "images/Pasted image 20241007183120.png",
-    "images/Pasted image 20241007183017.png",
-    "images/Pasted image 20241007182941.png",
     "13- Login Brute Forcing/1 - Brute Force Attacks.md",
     "13- Login Brute Forcing/3 - Custom Wordlists.md",
     "14- Broken Authentication",
@@ -191,7 +191,6 @@
     "10- Command Injections",
     "Attacking GraphQL/1 - Information Disclosure.md",
     "Attacking GraphQL",
-    "API Attacks/10 - Unsafe Consumption of APIs.md",
     "API Attacks",
     "9- SQLmap",
     "8- SQLi"
