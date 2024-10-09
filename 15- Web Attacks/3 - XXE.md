@@ -69,6 +69,7 @@ python3 -m http.server 8000
 <email>&joined;</email> <!-- reference the &joined; entity to print the file content -->
 ```
 
+![[Pasted image 20241009203307.png]]
 # Error Based XXE
 
 First, we will host a DTD file that contains the following payload:
