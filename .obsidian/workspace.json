@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15- Web Attacks/2 - IDOR.md",
+                "file": "15- Web Attacks/3 - XXE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15- Web Attacks/2 - IDOR.md",
+                "file": "15- Web Attacks/3 - XXE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15- Web Attacks/2 - IDOR.md",
+                "file": "15- Web Attacks/3 - XXE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15- Web Attacks/2 - IDOR.md"
+                "file": "15- Web Attacks/3 - XXE.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "c39b5fe35c4a7d4d",
   "lastOpenFiles": [
+    "15- Web Attacks/2 - IDOR.md",
+    "15- Web Attacks/3 - XXE.md",
+    "images/Pasted image 20241009185945.png",
+    "images/Pasted image 20241009185527.png",
     "images/Pasted image 20241009184635.png",
     "images/Pasted image 20241009184607.png",
     "images/Pasted image 20241009184432.png",
@@ -157,16 +161,12 @@
     "15- Web Attacks/1 - HTTP Verb Tampering.md",
     "images/Pasted image 20241009182913.png",
     "images/Pasted image 20241009182804.png",
-    "15- Web Attacks/2 - IDOR.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "14- Broken Authentication/4 - Skills Assessment.md",
     "images/Pasted image 20241008193221.png",
     "15- Web Attacks",
-    "images/Pasted image 20241008183808.png",
     "14- Broken Authentication/2 - Authentication Bypass.md",
     "14- Broken Authentication/3 - Session Tokens.md",
-    "images/Pasted image 20241008181809.png",
-    "images/Pasted image 20241008181705.png",
     "13- Login Brute Forcing/1 - Brute Force Attacks.md",
     "13- Login Brute Forcing/3 - Custom Wordlists.md",
     "14- Broken Authentication",

@@ -21,4 +21,11 @@ echo "MQ==" | base64 -d
 
 # Insecure APIs
 
+![[Pasted image 20241009185527.png]]
 
+```json
+{"uid":"10","uuid":"bfd92386a1b48076792e68b596846499","role":"staff_admin","full_name":"admin","email":"admin@employees.htb","about":"Never gonna give you up, Never gonna let you down"}
+```
+
+We can modify other users' details
+![[Pasted image 20241009185945.png]]
