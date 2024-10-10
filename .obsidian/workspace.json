@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md",
+                "file": "15- Web Attacks/4 - Skills Assessment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md",
+                "file": "15- Web Attacks/4 - Skills Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md",
+                "file": "15- Web Attacks/4 - Skills Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md"
+                "file": "15- Web Attacks/4 - Skills Assessment.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "c39b5fe35c4a7d4d",
   "lastOpenFiles": [
+    "images/Pasted image 20241010101222.png",
+    "images/Pasted image 20241010100416.png",
+    "15- Web Attacks/3 - XXE.md",
+    "15- Web Attacks/4 - Skills Assessment.md",
     "images/Pasted image 20241009203307.png",
     "15- Web Attacks/2 - IDOR.md",
-    "15- Web Attacks/3 - XXE.md",
     "images/Pasted image 20241009185945.png",
     "images/Pasted image 20241009185527.png",
     "images/Pasted image 20241009184635.png",
@@ -161,10 +164,8 @@
     "images/Pasted image 20241009183717.png",
     "15- Web Attacks/1 - HTTP Verb Tampering.md",
     "images/Pasted image 20241009182913.png",
-    "images/Pasted image 20241009182804.png",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "14- Broken Authentication/4 - Skills Assessment.md",
-    "images/Pasted image 20241008193221.png",
     "15- Web Attacks",
     "14- Broken Authentication/2 - Authentication Bypass.md",
     "14- Broken Authentication/3 - Session Tokens.md",
@@ -189,7 +190,6 @@
     "10- Command Injections/1 - Explotation.md",
     "9- SQLmap/1 - SQLmap.md",
     "10- Command Injections/2 - Filter Evasion.md",
-    "Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md",
     "10- Command Injections",
     "Attacking GraphQL",
     "API Attacks",
