@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md",
+                "file": "16- File Inclusion/2 - File Disclosure.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md",
+                "file": "16- File Inclusion/2 - File Disclosure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md",
+                "file": "16- File Inclusion/2 - File Disclosure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md"
+                "file": "16- File Inclusion/2 - File Disclosure.md"
               }
             }
           }
@@ -161,10 +161,13 @@
   },
   "active": "c39b5fe35c4a7d4d",
   "lastOpenFiles": [
+    "16- File Inclusion/1 - Functions.md",
+    "16- File Inclusion/2 - File Disclosure.md",
+    "15- Web Attacks/3 - XXE.md",
+    "16- File Inclusion",
     "15- Web Attacks/4 - Skills Assessment.md",
     "images/Pasted image 20241010103514.png",
     "images/Pasted image 20241010103454.png",
-    "15- Web Attacks/3 - XXE.md",
     "images/Pasted image 20241010103108.png",
     "15- Web Attacks/2 - IDOR.md",
     "images/Pasted image 20241010102349.png",
@@ -200,11 +203,9 @@
     "11- File Upload",
     "10- Command Injections/1 - Explotation.md",
     "9- SQLmap/1 - SQLmap.md",
-    "10- Command Injections/2 - Filter Evasion.md",
     "10- Command Injections",
     "Attacking GraphQL",
     "API Attacks",
-    "9- SQLmap",
-    "8- SQLi"
+    "9- SQLmap"
   ]
 }
