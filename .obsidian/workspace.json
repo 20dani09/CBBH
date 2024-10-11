@@ -13,25 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16- File Inclusion/Untitled.md",
+                "file": "16- File Inclusion/4 - Skills Assessment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b4821df05fe7bb2",
+            "id": "081b32157d5440e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15- Web Attacks/4 - Skills Assessment.md",
+                "file": "16- File Inclusion/3 - RCE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8fda5a9acc8cb2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16- File Inclusion/3 - RCE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "16- File Inclusion/Untitled.md",
+                "file": "16- File Inclusion/3 - RCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "16- File Inclusion/Untitled.md",
+                "file": "16- File Inclusion/3 - RCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "16- File Inclusion/Untitled.md"
+                "file": "16- File Inclusion/3 - RCE.md"
               }
             }
           }
@@ -159,16 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c39b5fe35c4a7d4d",
+  "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
-    "16- File Inclusion/3 - RCE.md",
-    "16- File Inclusion/Untitled.md",
     "16- File Inclusion/2 - File Disclosure.md",
+    "16- File Inclusion/3 - RCE.md",
+    "16- File Inclusion/4 - Skills Assessment.md",
+    "15- Web Attacks/4 - Skills Assessment.md",
     "16- File Inclusion/1 - Functions.md",
     "images/Pasted image 20241010133640.png",
     "15- Web Attacks/3 - XXE.md",
     "16- File Inclusion",
-    "15- Web Attacks/4 - Skills Assessment.md",
     "images/Pasted image 20241010103514.png",
     "images/Pasted image 20241010103454.png",
     "images/Pasted image 20241010103108.png",
