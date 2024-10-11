@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16- File Inclusion/4 - Skills Assessment.md",
+                "file": "17-Session Security/2 - Session Fixation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "16- File Inclusion/4 - Skills Assessment.md",
+                "file": "17-Session Security/2 - Session Fixation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "16- File Inclusion/4 - Skills Assessment.md",
+                "file": "17-Session Security/2 - Session Fixation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "16- File Inclusion/4 - Skills Assessment.md"
+                "file": "17-Session Security/2 - Session Fixation.md"
               }
             }
           }
@@ -161,14 +161,19 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
+    "images/Pasted image 20241011172218.png",
+    "17-Session Security/1 - Session Hijacking.md",
+    "17-Session Security/2 - Session Fixation.md",
+    "images/Pasted image 20241011171812.png",
+    "16- File Inclusion/4 - Skills Assessment.md",
+    "16- File Inclusion/3 - RCE.md",
+    "16- File Inclusion/2 - File Disclosure.md",
+    "16- File Inclusion/1 - Functions.md",
+    "17-Session Security",
     "images/Pasted image 20241011133107.png",
     "images/Pasted image 20241011132046.png",
     "images/Pasted image 20241011131524.png",
-    "16- File Inclusion/3 - RCE.md",
-    "16- File Inclusion/4 - Skills Assessment.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
-    "16- File Inclusion/2 - File Disclosure.md",
-    "16- File Inclusion/1 - Functions.md",
     "15- Web Attacks/4 - Skills Assessment.md",
     "images/Pasted image 20241010133640.png",
     "15- Web Attacks/3 - XXE.md",
@@ -179,8 +184,6 @@
     "15- Web Attacks/2 - IDOR.md",
     "images/Pasted image 20241010102349.png",
     "images/Pasted image 20241010102301.png",
-    "images/Pasted image 20241010101222.png",
-    "images/Pasted image 20241010100416.png",
     "15- Web Attacks/1 - HTTP Verb Tampering.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "14- Broken Authentication/4 - Skills Assessment.md",
@@ -199,13 +202,10 @@
     "API Attacks/11 - Skills Assessment.md",
     "8- SQLi/2 - Reading Files.md",
     "12- Server-Side Attacks/4 - XSLT Injection.md",
-    "12- Server-Side Attacks/1 - SSRF.md",
-    "11- File Upload/2 - File Upload.md",
     "12- Server-Side Attacks",
     "11- File Upload",
     "10- Command Injections",
     "Attacking GraphQL",
-    "API Attacks",
-    "9- SQLmap"
+    "API Attacks"
   ]
 }
