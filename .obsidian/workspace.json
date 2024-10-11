@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16- File Inclusion/3 - RCE.md",
+                "file": "16- File Inclusion/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "16- File Inclusion/3 - RCE.md",
+                "file": "16- File Inclusion/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "16- File Inclusion/3 - RCE.md",
+                "file": "16- File Inclusion/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "16- File Inclusion/3 - RCE.md"
+                "file": "16- File Inclusion/Untitled.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "c39b5fe35c4a7d4d",
   "lastOpenFiles": [
-    "16- File Inclusion/1 - Functions.md",
     "16- File Inclusion/3 - RCE.md",
+    "16- File Inclusion/Untitled.md",
     "16- File Inclusion/2 - File Disclosure.md",
+    "16- File Inclusion/1 - Functions.md",
     "images/Pasted image 20241010133640.png",
     "15- Web Attacks/3 - XXE.md",
     "16- File Inclusion",
@@ -202,7 +203,6 @@
     "11- File Upload/1 - File Upload.md",
     "10- Command Injections/3 - Skills Assessment.md",
     "11- File Upload",
-    "10- Command Injections/1 - Explotation.md",
     "10- Command Injections",
     "Attacking GraphQL",
     "API Attacks",
