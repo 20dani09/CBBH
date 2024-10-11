@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17-Session Security/2 - Session Fixation.md",
+                "file": "17-Session Security/3 - XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17-Session Security/2 - Session Fixation.md",
+                "file": "17-Session Security/3 - XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17-Session Security/2 - Session Fixation.md",
+                "file": "17-Session Security/3 - XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17-Session Security/2 - Session Fixation.md"
+                "file": "17-Session Security/3 - XSS.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
+    "17-Session Security/2 - Session Fixation.md",
+    "17-Session Security/3 - XSS.md",
+    "17-Session Security/3- Obtaining Session Identifiers without User Interaction.md",
     "images/Pasted image 20241011172218.png",
     "17-Session Security/1 - Session Hijacking.md",
-    "17-Session Security/2 - Session Fixation.md",
     "images/Pasted image 20241011171812.png",
     "16- File Inclusion/4 - Skills Assessment.md",
     "16- File Inclusion/3 - RCE.md",
@@ -183,7 +185,6 @@
     "images/Pasted image 20241010103108.png",
     "15- Web Attacks/2 - IDOR.md",
     "images/Pasted image 20241010102349.png",
-    "images/Pasted image 20241010102301.png",
     "15- Web Attacks/1 - HTTP Verb Tampering.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "14- Broken Authentication/4 - Skills Assessment.md",
@@ -201,7 +202,6 @@
     "12- Server-Side Attacks/3 - SSI.md",
     "API Attacks/11 - Skills Assessment.md",
     "8- SQLi/2 - Reading Files.md",
-    "12- Server-Side Attacks/4 - XSLT Injection.md",
     "12- Server-Side Attacks",
     "11- File Upload",
     "10- Command Injections",
