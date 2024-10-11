@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md",
+                "file": "16- File Inclusion/4 - Skills Assessment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md",
+                "file": "16- File Inclusion/4 - Skills Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md",
+                "file": "16- File Inclusion/4 - Skills Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md"
+                "file": "16- File Inclusion/4 - Skills Assessment.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
+    "5- Ffuf/1 - Basic Fuzzing.md",
     "16- File Inclusion/2 - File Disclosure.md",
     "16- File Inclusion/1 - Functions.md",
     "16- File Inclusion/4 - Skills Assessment.md",
@@ -189,7 +190,6 @@
     "11- File Upload/2 - File Upload.md",
     "12- Server-Side Attacks",
     "11- File Upload/1 - File Upload.md",
-    "10- Command Injections/3 - Skills Assessment.md",
     "11- File Upload",
     "10- Command Injections",
     "Attacking GraphQL",
