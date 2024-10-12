@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17-Session Security/4 - CSRF or XSRF.md",
+                "file": "17-Session Security/5 - XSS & CSRF chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17-Session Security/4 - CSRF or XSRF.md",
+                "file": "17-Session Security/5 - XSS & CSRF chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17-Session Security/4 - CSRF or XSRF.md",
+                "file": "17-Session Security/5 - XSS & CSRF chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17-Session Security/4 - CSRF or XSRF.md"
+                "file": "17-Session Security/5 - XSS & CSRF chain.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
+    "17-Session Security/4 - CSRF.md",
+    "17-Session Security/5 - XSS & CSRF chain.md",
+    "images/Pasted image 20241012110926.png",
+    "images/Pasted image 20241012110824.png",
     "images/Pasted image 20241012104931.png",
     "17-Session Security/3 - XSS.md",
-    "17-Session Security/4 - CSRF or XSRF.md",
     "images/Pasted image 20241012104359.png",
     "images/Pasted image 20241012104332.png",
     "images/Pasted image 20241012104336.png",
@@ -179,13 +182,10 @@
     "17-Session Security",
     "images/Pasted image 20241011133107.png",
     "images/Pasted image 20241011132046.png",
-    "images/Pasted image 20241011131524.png",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "15- Web Attacks/4 - Skills Assessment.md",
-    "images/Pasted image 20241010133640.png",
     "15- Web Attacks/3 - XXE.md",
     "16- File Inclusion",
-    "images/Pasted image 20241010103514.png",
     "15- Web Attacks/2 - IDOR.md",
     "15- Web Attacks/1 - HTTP Verb Tampering.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",

