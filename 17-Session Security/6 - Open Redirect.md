@@ -7,3 +7,6 @@ http://oredirect.htb.net/?redirect_uri=/complete.html&token=p37kas9hq3766j5m8ee7
 ```bash
 http://oredirect.htb.net/?redirect_uri=http://10.10.15.5&token=p37kas9hq3766j5m8ee7k6t75r
 ```
+
+![[Pasted image 20241012112815.png]]
+

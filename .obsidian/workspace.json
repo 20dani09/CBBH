@@ -161,6 +161,7 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
+    "images/Pasted image 20241012112815.png",
     "17-Session Security/5 - XSS & CSRF chain.md",
     "17-Session Security/6 - Open Redirect.md",
     "17-Session Security/4 - CSRF.md",
@@ -201,7 +202,6 @@
     "13- Login Brute Forcing/2 - Hydra.md",
     "12- Server-Side Attacks/5 - Skills Assessment.md",
     "13- Login Brute Forcing",
-    "12- Server-Side Attacks/2 - SSTI.md",
     "12- Server-Side Attacks",
     "11- File Upload",
     "10- Command Injections",
