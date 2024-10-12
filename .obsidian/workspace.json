@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "65eb3b50f84261d7",
+            "id": "a9d7fa85ed29bb85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16- File Inclusion/3 - RCE.md",
+                "file": "17-Session Security/4 - CSRF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1893901e0d69e6f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17-Session Security/5 - XSS & CSRF chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,11 +173,13 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
-    "17-Session Security/6 - Open Redirect.md",
-    "17-Session Security/7 - Skills Assessment.md",
-    "images/Pasted image 20241012112815.png",
     "17-Session Security/5 - XSS & CSRF chain.md",
     "17-Session Security/4 - CSRF.md",
+    "17-Session Security/7 - Skills Assessment.md",
+    "images/Pasted image 20241012114829.png",
+    "16- File Inclusion/3 - RCE.md",
+    "17-Session Security/6 - Open Redirect.md",
+    "images/Pasted image 20241012112815.png",
     "images/Pasted image 20241012110926.png",
     "images/Pasted image 20241012110824.png",
     "images/Pasted image 20241012104931.png",
@@ -179,11 +193,9 @@
     "17-Session Security/1 - Session Hijacking.md",
     "images/Pasted image 20241011171812.png",
     "16- File Inclusion/4 - Skills Assessment.md",
-    "16- File Inclusion/3 - RCE.md",
     "16- File Inclusion/2 - File Disclosure.md",
     "16- File Inclusion/1 - Functions.md",
     "17-Session Security",
-    "images/Pasted image 20241011133107.png",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "15- Web Attacks/4 - Skills Assessment.md",
     "15- Web Attacks/3 - XXE.md",
@@ -200,7 +212,6 @@
     "14- Broken Authentication",
     "13- Login Brute Forcing/4 - Skills Assessment.md",
     "13- Login Brute Forcing/2 - Hydra.md",
-    "12- Server-Side Attacks/5 - Skills Assessment.md",
     "13- Login Brute Forcing",
     "12- Server-Side Attacks",
     "11- File Upload",
