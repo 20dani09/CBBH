@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17-Session Security/6 - Open Redirect.md",
+                "file": "17-Session Security/7 - Skills Assessment.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17-Session Security/6 - Open Redirect.md",
+                "file": "17-Session Security/7 - Skills Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17-Session Security/6 - Open Redirect.md",
+                "file": "17-Session Security/7 - Skills Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17-Session Security/6 - Open Redirect.md"
+                "file": "17-Session Security/7 - Skills Assessment.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
+    "17-Session Security/6 - Open Redirect.md",
+    "17-Session Security/7 - Skills Assessment.md",
     "images/Pasted image 20241012112815.png",
     "17-Session Security/5 - XSS & CSRF chain.md",
-    "17-Session Security/6 - Open Redirect.md",
     "17-Session Security/4 - CSRF.md",
     "images/Pasted image 20241012110926.png",
     "images/Pasted image 20241012110824.png",
@@ -183,7 +184,6 @@
     "16- File Inclusion/1 - Functions.md",
     "17-Session Security",
     "images/Pasted image 20241011133107.png",
-    "images/Pasted image 20241011132046.png",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "15- Web Attacks/4 - Skills Assessment.md",
     "15- Web Attacks/3 - XXE.md",
