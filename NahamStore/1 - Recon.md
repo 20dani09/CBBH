@@ -6,3 +6,11 @@ ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -
 
 ![[Pasted image 20241012124444.png]]
 
+```
+www.nahamstore.thm shop.nahamstore.thm marketing.nahamstore.thm stock.nahamstore.thm
+```
+
+```bash
+feroxbuster -u http://nahamstore.thm -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt -x php -f
+```
+

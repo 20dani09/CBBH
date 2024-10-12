@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86c326f4dde272eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -162,9 +174,10 @@
   },
   "active": "78ba0ec9c6149149",
   "lastOpenFiles": [
+    "5- Ffuf/1 - Basic Fuzzing.md",
+    "NahamStore/1 - Recon.md",
     "images/Pasted image 20241012124444.png",
     "5- Ffuf/2 - Domain Fuzzing.md",
-    "NahamStore/1 - Recon.md",
     "17-Session Security/7 - Skills Assessment.md",
     "NahamStore",
     "images/Pasted image 20241012120426.png",
@@ -181,7 +194,6 @@
     "images/Pasted image 20241012110824.png",
     "images/Pasted image 20241012104931.png",
     "17-Session Security/3 - XSS.md",
-    "images/Pasted image 20241012104359.png",
     "17-Session Security/2 - Session Fixation.md",
     "17-Session Security/3- Obtaining Session Identifiers without User Interaction.md",
     "17-Session Security/1 - Session Hijacking.md",
@@ -189,7 +201,6 @@
     "16- File Inclusion/2 - File Disclosure.md",
     "16- File Inclusion/1 - Functions.md",
     "17-Session Security",
-    "5- Ffuf/1 - Basic Fuzzing.md",
     "15- Web Attacks/4 - Skills Assessment.md",
     "15- Web Attacks/3 - XXE.md",
     "16- File Inclusion",
