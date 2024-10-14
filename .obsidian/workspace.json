@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18- Web Service & API Attacks/2 - Command Injection.md",
+                "file": "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e337b8d9cc8f6edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18- Web Service & API Attacks/1 - WSDL.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18- Web Service & API Attacks/2 - Command Injection.md",
+                "file": "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18- Web Service & API Attacks/2 - Command Injection.md",
+                "file": "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18- Web Service & API Attacks/2 - Command Injection.md"
+                "file": "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md"
               }
             }
           }
@@ -161,10 +173,11 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
-    "images/Pasted image 20241014184714.png",
-    "18- Web Service & API Attacks/1 - WSDL.md",
-    "18- Web Service & API Attacks/2 - Command Injection.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
+    "18- Web Service & API Attacks/1 - WSDL.md",
+    "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
+    "18- Web Service & API Attacks/2 - Command Injection.md",
+    "images/Pasted image 20241014184714.png",
     "17-Session Security/7 - Skills Assessment.md",
     "18- Web Service & API Attacks",
     "5- Ffuf/2 - Domain Fuzzing.md",
@@ -184,7 +197,6 @@
     "16- File Inclusion/3 - RCE.md",
     "17-Session Security/6 - Open Redirect.md",
     "images/Pasted image 20241012112815.png",
-    "images/Pasted image 20241012110926.png",
     "17-Session Security/3 - XSS.md",
     "17-Session Security/2 - Session Fixation.md",
     "17-Session Security/3- Obtaining Session Identifiers without User Interaction.md",
