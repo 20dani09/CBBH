@@ -9,5 +9,9 @@ curl http://10.129.202.133:3002/wsdl
 The response is empty. 
 
 ```bash
-ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt -u  http://10.129.202.133:3002/wsdl -fs 0 -mc 200
+ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt -u  http://10.129.202.133:3002/wsdl -fs 0 
 `````
+
+```bash
+curl http://10.129.202.133:3002/wsdl?wsdl
+```
