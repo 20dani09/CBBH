@@ -23,3 +23,16 @@ curl http://10.129.202.133:3002/wsdl?wsdl
 <soap:operation soapAction="ExecuteCommand" style="document"/>
 ```
 
+```xml
+<s:element name="ExecuteCommandRequest">
+<s:complexType>
+<s:sequence>
+<s:element minOccurs="1" maxOccurs="1" name="cmd" type="s:string"/>
+</s:sequence>
+</s:complexType>
+</s:element>
+```
+
+
+
+
