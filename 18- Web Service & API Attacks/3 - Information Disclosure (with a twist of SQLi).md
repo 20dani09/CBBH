@@ -18,3 +18,8 @@ curl http://10.129.202.133:3003/?id=1
 
 ![[Pasted image 20241014190816.png]]
 
+```bash
+curl http://10.129.202.133:3003/?id=1+or+1=1
+```
+
+![[Pasted image 20241014190952.png]]
