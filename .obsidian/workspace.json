@@ -173,6 +173,7 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
+    "images/Pasted image 20241014190816.png",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "18- Web Service & API Attacks/1 - WSDL.md",
     "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
@@ -213,7 +214,6 @@
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "14- Broken Authentication/4 - Skills Assessment.md",
     "15- Web Attacks",
-    "14- Broken Authentication/2 - Authentication Bypass.md",
     "14- Broken Authentication",
     "13- Login Brute Forcing",
     "12- Server-Side Attacks",
