@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
+                "file": "18- Web Service & API Attacks/4 - File Upload.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
+                "file": "18- Web Service & API Attacks/4 - File Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
+                "file": "18- Web Service & API Attacks/4 - File Upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md"
+                "file": "18- Web Service & API Attacks/4 - File Upload.md"
               }
             }
           }
@@ -173,11 +173,13 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
+    "images/Pasted image 20241014192444.png",
+    "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
+    "18- Web Service & API Attacks/4 - File Upload.md",
     "images/Pasted image 20241014190952.png",
     "images/Pasted image 20241014190816.png",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "18- Web Service & API Attacks/1 - WSDL.md",
-    "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
     "18- Web Service & API Attacks/2 - Command Injection.md",
     "images/Pasted image 20241014184714.png",
     "17-Session Security/7 - Skills Assessment.md",
@@ -195,7 +197,6 @@
     "images/Pasted image 20241012115742.png",
     "17-Session Security/5 - XSS & CSRF chain.md",
     "17-Session Security/4 - CSRF.md",
-    "images/Pasted image 20241012114829.png",
     "16- File Inclusion/3 - RCE.md",
     "17-Session Security/6 - Open Redirect.md",
     "17-Session Security/3 - XSS.md",
@@ -212,7 +213,6 @@
     "15- Web Attacks/2 - IDOR.md",
     "15- Web Attacks/1 - HTTP Verb Tampering.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
-    "14- Broken Authentication/4 - Skills Assessment.md",
     "15- Web Attacks",
     "14- Broken Authentication",
     "13- Login Brute Forcing",
