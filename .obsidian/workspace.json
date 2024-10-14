@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Ffuf/2 - Domain Fuzzing.md",
+                "file": "18- Web Service & API Attacks/1 - WSDL.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5- Ffuf/2 - Domain Fuzzing.md",
+                "file": "18- Web Service & API Attacks/1 - WSDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5- Ffuf/2 - Domain Fuzzing.md",
+                "file": "18- Web Service & API Attacks/1 - WSDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5- Ffuf/2 - Domain Fuzzing.md"
+                "file": "18- Web Service & API Attacks/1 - WSDL.md"
               }
             }
           }
@@ -161,14 +161,16 @@
   },
   "active": "f8fda5a9acc8cb2a",
   "lastOpenFiles": [
+    "17-Session Security/7 - Skills Assessment.md",
+    "18- Web Service & API Attacks/1 - WSDL.md",
+    "18- Web Service & API Attacks",
+    "5- Ffuf/2 - Domain Fuzzing.md",
     "NahamStore/2 - XSS.md",
     "images/Pasted image 20241012184451.png",
     "NahamStore/1 - Recon.md",
-    "5- Ffuf/2 - Domain Fuzzing.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "images/Pasted image 20241012125809.png",
     "images/Pasted image 20241012124444.png",
-    "17-Session Security/7 - Skills Assessment.md",
     "NahamStore",
     "images/Pasted image 20241012120426.png",
     "images/Pasted image 20241012120124.png",
@@ -204,7 +206,6 @@
     "13- Login Brute Forcing",
     "12- Server-Side Attacks",
     "11- File Upload",
-    "10- Command Injections",
-    "Attacking GraphQL"
+    "10- Command Injections"
   ]
 }
