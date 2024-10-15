@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8fda5a9acc8cb2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18- Web Service & API Attacks/4 - File Upload.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc603d31d525083e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e337b8d9cc8f6edf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18- Web Service & API Attacks/1 - WSDL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "86c326f4dde272eb",
             "type": "leaf",
             "state": {
@@ -54,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86b61c6772ee2e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14- Broken Authentication/1 - Brute-Force Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +161,12 @@
   },
   "active": "86c326f4dde272eb",
   "lastOpenFiles": [
-    "5- Ffuf/1 - Basic Fuzzing.md",
+    "14- Broken Authentication/1 - Brute-Force Attacks.md",
+    "13- Login Brute Forcing/3 - Custom Wordlists.md",
+    "13- Login Brute Forcing/2 - Hydra.md",
+    "13- Login Brute Forcing/1 - Brute Force Attacks.md",
     "Akerva.md",
+    "5- Ffuf/1 - Basic Fuzzing.md",
     "18- Web Service & API Attacks/4 - File Upload.md",
     "images/Pasted image 20241014192444.png",
     "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
@@ -221,11 +200,7 @@
     "16- File Inclusion/1 - Functions.md",
     "17-Session Security",
     "15- Web Attacks/4 - Skills Assessment.md",
-    "15- Web Attacks/3 - XXE.md",
     "16- File Inclusion",
-    "15- Web Attacks/2 - IDOR.md",
-    "15- Web Attacks/1 - HTTP Verb Tampering.md",
-    "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "15- Web Attacks",
     "14- Broken Authentication",
     "13- Login Brute Forcing",
