@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Akerva.md",
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md",
+                "file": "Akerva.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,15 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc603d31d525083e",
+  "active": "86c326f4dde272eb",
   "lastOpenFiles": [
-    "18- Web Service & API Attacks/4 - File Upload.md",
+    "5- Ffuf/1 - Basic Fuzzing.md",
     "Akerva.md",
+    "18- Web Service & API Attacks/4 - File Upload.md",
     "images/Pasted image 20241014192444.png",
     "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
     "images/Pasted image 20241014190952.png",
     "images/Pasted image 20241014190816.png",
-    "5- Ffuf/1 - Basic Fuzzing.md",
     "18- Web Service & API Attacks/1 - WSDL.md",
     "18- Web Service & API Attacks/2 - Command Injection.md",
     "images/Pasted image 20241014184714.png",

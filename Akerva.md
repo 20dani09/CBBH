@@ -27,3 +27,6 @@ WordPress 5.4
 ```
 wpscan -e ap --plugins-detection aggressive --url http://$IP --api-token 5L1iakB9rnC4xBx5MHL1Tt42iwkbdFJsWDs3pd0ZjUY
 ```
+
+Plugins
+- akismet
