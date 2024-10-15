@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Akerva.md",
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Akerva.md",
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Akerva.md",
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Akerva.md"
+                "file": "5- Ffuf/1 - Basic Fuzzing.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "86c326f4dde272eb",
   "lastOpenFiles": [
+    "Akerva.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "13- Login Brute Forcing/3 - Custom Wordlists.md",
     "13- Login Brute Forcing/2 - Hydra.md",
     "13- Login Brute Forcing/1 - Brute Force Attacks.md",
-    "Akerva.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "18- Web Service & API Attacks/4 - File Upload.md",
     "images/Pasted image 20241014192444.png",
