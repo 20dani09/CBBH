@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18- Web Service & API Attacks/8 - XXE.md",
+                "file": "18- Web Service & API Attacks/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18- Web Service & API Attacks/1 - WSDL.md",
+                "file": "18- Web Service & API Attacks/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18- Web Service & API Attacks/1 - WSDL.md",
+                "file": "18- Web Service & API Attacks/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18- Web Service & API Attacks/1 - WSDL.md"
+                "file": "18- Web Service & API Attacks/Untitled.md"
               }
             }
           }
@@ -160,10 +159,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa8b79de726f330c",
+  "active": "fe10adedb23cd764",
   "lastOpenFiles": [
-    "15- Web Attacks/3 - XXE.md",
     "18- Web Service & API Attacks/8 - XXE.md",
+    "18- Web Service & API Attacks/Untitled.md",
+    "18- Web Service & API Attacks/1 - WSDL.md",
+    "15- Web Attacks/3 - XXE.md",
     "images/Pasted image 20241016103522.png",
     "images/Pasted image 20241016103113.png",
     "18- Web Service & API Attacks/7 - SSRF.md",
@@ -184,7 +185,6 @@
     "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
     "images/Pasted image 20241014190952.png",
     "images/Pasted image 20241014190816.png",
-    "18- Web Service & API Attacks/1 - WSDL.md",
     "18- Web Service & API Attacks/2 - Command Injection.md",
     "images/Pasted image 20241014184714.png",
     "17-Session Security/7 - Skills Assessment.md",
