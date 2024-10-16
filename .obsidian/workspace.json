@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8- SQLi/Machines/Help.md",
+                "file": "Attacking GraphQL/1 - Information Disclosure.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8- SQLi/Machines/Help.md",
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8- SQLi/Machines/Help.md",
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8- SQLi/Machines/Help.md"
+                "file": "5- Ffuf/1 - Basic Fuzzing.md"
               }
             }
           }
@@ -159,11 +160,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e34620bbe1d1c447",
+  "active": "99f2fea5d3fe80b9",
   "lastOpenFiles": [
+    "Attacking GraphQL/1 - Information Disclosure.md",
+    "8- SQLi/Machines/Help.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "5- Ffuf/2 - Domain Fuzzing.md",
-    "8- SQLi/Machines/Help.md",
     "images/Pasted image 20241016173354.png",
     "4- Information Gathering/3 - DNS.md",
     "5- Ffuf/3 - Parameter.md",
