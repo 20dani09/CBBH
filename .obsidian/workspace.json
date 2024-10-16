@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "19- Hacking WordPress/WPScan.md",
+                "file": "8- SQLi/Machines/HELP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "19- Hacking WordPress/WPScan.md",
+                "file": "8- SQLi/Machines/HELP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "19- Hacking WordPress/WPScan.md",
+                "file": "8- SQLi/Machines/HELP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "19- Hacking WordPress/WPScan.md"
+                "file": "8- SQLi/Machines/HELP.md"
               }
             }
           }
@@ -162,9 +162,11 @@
   },
   "active": "fa8b79de726f330c",
   "lastOpenFiles": [
+    "19- Hacking WordPress/WPScan.md",
+    "8- SQLi/Machines/HELP.md",
+    "8- SQLi/Machines",
     "images/Pasted image 20241016131835.png",
     "4- Information Gathering/3 - DNS.md",
-    "19- Hacking WordPress/WPScan.md",
     "5- Ffuf/2 - Domain Fuzzing.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "18- Web Service & API Attacks/1 - WSDL.md",
@@ -192,7 +194,6 @@
     "images/Pasted image 20241014190952.png",
     "images/Pasted image 20241014190816.png",
     "18- Web Service & API Attacks/2 - Command Injection.md",
-    "images/Pasted image 20241014184714.png",
     "17-Session Security/7 - Skills Assessment.md",
     "18- Web Service & API Attacks",
     "NahamStore/2 - XSS.md",
@@ -206,7 +207,6 @@
     "15- Web Attacks",
     "14- Broken Authentication",
     "13- Login Brute Forcing",
-    "12- Server-Side Attacks",
-    "11- File Upload"
+    "12- Server-Side Attacks"
   ]
 }
