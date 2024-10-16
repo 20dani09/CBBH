@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa8b79de726f330c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18- Web Service & API Attacks/1 - WSDL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18- Web Service & API Attacks/8 - XXE.md",
+                "file": "18- Web Service & API Attacks/1 - WSDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18- Web Service & API Attacks/8 - XXE.md",
+                "file": "18- Web Service & API Attacks/1 - WSDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18- Web Service & API Attacks/8 - XXE.md"
+                "file": "18- Web Service & API Attacks/1 - WSDL.md"
               }
             }
           }
@@ -147,11 +160,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe10adedb23cd764",
+  "active": "fa8b79de726f330c",
   "lastOpenFiles": [
+    "15- Web Attacks/3 - XXE.md",
+    "18- Web Service & API Attacks/8 - XXE.md",
+    "images/Pasted image 20241016103522.png",
     "images/Pasted image 20241016103113.png",
     "18- Web Service & API Attacks/7 - SSRF.md",
-    "18- Web Service & API Attacks/8 - XXE.md",
     "images/Pasted image 20241016101644.png",
     "images/Pasted image 20241016101242.png",
     "18- Web Service & API Attacks/6 - XSS.md",
@@ -176,9 +191,7 @@
     "18- Web Service & API Attacks",
     "5- Ffuf/2 - Domain Fuzzing.md",
     "NahamStore/2 - XSS.md",
-    "images/Pasted image 20241012184451.png",
     "NahamStore/1 - Recon.md",
-    "images/Pasted image 20241012125809.png",
     "NahamStore",
     "17-Session Security/5 - XSS & CSRF chain.md",
     "17-Session Security/4 - CSRF.md",
@@ -186,7 +199,6 @@
     "17-Session Security/6 - Open Redirect.md",
     "17-Session Security/3 - XSS.md",
     "17-Session Security/2 - Session Fixation.md",
-    "17-Session Security/3- Obtaining Session Identifiers without User Interaction.md",
     "17-Session Security",
     "16- File Inclusion",
     "15- Web Attacks",
