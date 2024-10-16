@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7e23532820d33e7c",
+        "id": "5b791b82f649bda7",
         "type": "tabs",
         "children": [
           {
-            "id": "fe10adedb23cd764",
+            "id": "e34620bbe1d1c447",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4- Information Gathering/3 - DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa8b79de726f330c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8- SQLi/Machines/HELP.md",
+                "file": "8- SQLi/Machines/Writeup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8- SQLi/Machines/HELP.md",
+                "file": "8- SQLi/Machines/Writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8- SQLi/Machines/HELP.md",
+                "file": "8- SQLi/Machines/Writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8- SQLi/Machines/HELP.md"
+                "file": "8- SQLi/Machines/Writeup.md"
               }
             }
           }
@@ -160,15 +147,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa8b79de726f330c",
+  "active": "e34620bbe1d1c447",
   "lastOpenFiles": [
-    "19- Hacking WordPress/WPScan.md",
-    "8- SQLi/Machines/HELP.md",
-    "8- SQLi/Machines",
-    "images/Pasted image 20241016131835.png",
+    "5- Ffuf/1 - Basic Fuzzing.md",
     "4- Information Gathering/3 - DNS.md",
     "5- Ffuf/2 - Domain Fuzzing.md",
-    "5- Ffuf/1 - Basic Fuzzing.md",
+    "5- Ffuf/3 - Parameter.md",
+    "8- SQLi/Machines/Writeup.md",
+    "19- Hacking WordPress/WPScan.md",
+    "8- SQLi/Machines",
+    "images/Pasted image 20241016131835.png",
     "18- Web Service & API Attacks/1 - WSDL.md",
     "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md",
     "19- Hacking WordPress",
@@ -201,7 +189,6 @@
     "NahamStore",
     "17-Session Security/5 - XSS & CSRF chain.md",
     "17-Session Security/4 - CSRF.md",
-    "16- File Inclusion/3 - RCE.md",
     "17-Session Security",
     "16- File Inclusion",
     "15- Web Attacks",
