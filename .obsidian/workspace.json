@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "19- Hacking WordPress/WPScan.md",
+                "file": "4- Information Gathering/3 - DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md",
+                "file": "19- Hacking WordPress/WPScan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,11 +160,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe10adedb23cd764",
+  "active": "fa8b79de726f330c",
   "lastOpenFiles": [
+    "4- Information Gathering/3 - DNS.md",
+    "19- Hacking WordPress/WPScan.md",
+    "5- Ffuf/2 - Domain Fuzzing.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "18- Web Service & API Attacks/1 - WSDL.md",
-    "19- Hacking WordPress/WPScan.md",
     "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md",
     "19- Hacking WordPress",
     "18- Web Service & API Attacks/8 - XXE.md",
@@ -191,7 +194,6 @@
     "images/Pasted image 20241014184714.png",
     "17-Session Security/7 - Skills Assessment.md",
     "18- Web Service & API Attacks",
-    "5- Ffuf/2 - Domain Fuzzing.md",
     "NahamStore/2 - XSS.md",
     "NahamStore/1 - Recon.md",
     "NahamStore",
@@ -199,7 +201,6 @@
     "17-Session Security/4 - CSRF.md",
     "16- File Inclusion/3 - RCE.md",
     "17-Session Security/6 - Open Redirect.md",
-    "17-Session Security/3 - XSS.md",
     "17-Session Security",
     "16- File Inclusion",
     "15- Web Attacks",
