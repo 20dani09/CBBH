@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18- Web Service & API Attacks/7 - SSRF.md",
+                "file": "18- Web Service & API Attacks/8 - XXE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18- Web Service & API Attacks/7 - SSRF.md",
+                "file": "18- Web Service & API Attacks/8 - XXE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18- Web Service & API Attacks/7 - SSRF.md",
+                "file": "18- Web Service & API Attacks/8 - XXE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18- Web Service & API Attacks/7 - SSRF.md"
+                "file": "18- Web Service & API Attacks/8 - XXE.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "fe10adedb23cd764",
   "lastOpenFiles": [
+    "images/Pasted image 20241016103113.png",
+    "18- Web Service & API Attacks/7 - SSRF.md",
+    "18- Web Service & API Attacks/8 - XXE.md",
     "images/Pasted image 20241016101644.png",
     "images/Pasted image 20241016101242.png",
     "18- Web Service & API Attacks/6 - XSS.md",
-    "18- Web Service & API Attacks/7 - SSRF.md",
     "images/Pasted image 20241016101047.png",
     "18- Web Service & API Attacks/5 - LFI.md",
     "images/Pasted image 20241016100458.png",
@@ -177,7 +179,6 @@
     "images/Pasted image 20241012184451.png",
     "NahamStore/1 - Recon.md",
     "images/Pasted image 20241012125809.png",
-    "images/Pasted image 20241012124444.png",
     "NahamStore",
     "17-Session Security/5 - XSS & CSRF chain.md",
     "17-Session Security/4 - CSRF.md",
@@ -186,7 +187,6 @@
     "17-Session Security/3 - XSS.md",
     "17-Session Security/2 - Session Fixation.md",
     "17-Session Security/3- Obtaining Session Identifiers without User Interaction.md",
-    "17-Session Security/1 - Session Hijacking.md",
     "17-Session Security",
     "16- File Inclusion",
     "15- Web Attacks",
