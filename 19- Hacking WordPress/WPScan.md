@@ -20,6 +20,8 @@ wpscan --url http://blog.inlanefreight.local --enumerate --api-token 5L1iakB9rnC
 
 WordPress theme in use: twentynineteen
 
+Upload directory has listing enabled: http://blog.inlanefreight.local/wp-content/uploads/
+
 Plugin(s) Identified:    
 - email-subscribers
 - site-editor
