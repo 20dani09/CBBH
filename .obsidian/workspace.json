@@ -162,6 +162,7 @@
   },
   "active": "fa8b79de726f330c",
   "lastOpenFiles": [
+    "images/Pasted image 20241016131835.png",
     "4- Information Gathering/3 - DNS.md",
     "19- Hacking WordPress/WPScan.md",
     "5- Ffuf/2 - Domain Fuzzing.md",
@@ -200,7 +201,6 @@
     "17-Session Security/5 - XSS & CSRF chain.md",
     "17-Session Security/4 - CSRF.md",
     "16- File Inclusion/3 - RCE.md",
-    "17-Session Security/6 - Open Redirect.md",
     "17-Session Security",
     "16- File Inclusion",
     "15- Web Attacks",
