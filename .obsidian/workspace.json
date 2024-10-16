@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8- SQLi/Machines/Writeup.md",
+                "file": "8- SQLi/Machines/Help.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8- SQLi/Machines/Writeup.md",
+                "file": "8- SQLi/Machines/Help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8- SQLi/Machines/Writeup.md",
+                "file": "8- SQLi/Machines/Help.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8- SQLi/Machines/Writeup.md"
+                "file": "8- SQLi/Machines/Help.md"
               }
             }
           }
@@ -153,7 +153,7 @@
     "4- Information Gathering/3 - DNS.md",
     "5- Ffuf/2 - Domain Fuzzing.md",
     "5- Ffuf/3 - Parameter.md",
-    "8- SQLi/Machines/Writeup.md",
+    "8- SQLi/Machines/Help.md",
     "19- Hacking WordPress/WPScan.md",
     "8- SQLi/Machines",
     "images/Pasted image 20241016131835.png",
