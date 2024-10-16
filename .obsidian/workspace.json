@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md",
+                "file": "19- Hacking WordPress/WPScan.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18- Web Service & API Attacks/1 - WSDL.md",
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md",
+                "file": "19- Hacking WordPress/WPScan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md",
+                "file": "19- Hacking WordPress/WPScan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md"
+                "file": "19- Hacking WordPress/WPScan.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "fe10adedb23cd764",
   "lastOpenFiles": [
-    "18- Web Service & API Attacks/8 - XXE.md",
-    "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md",
+    "5- Ffuf/1 - Basic Fuzzing.md",
     "18- Web Service & API Attacks/1 - WSDL.md",
+    "19- Hacking WordPress/WPScan.md",
+    "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md",
+    "19- Hacking WordPress",
+    "18- Web Service & API Attacks/8 - XXE.md",
     "15- Web Attacks/3 - XXE.md",
     "images/Pasted image 20241016103522.png",
     "images/Pasted image 20241016103113.png",
@@ -175,7 +178,6 @@
     "18- Web Service & API Attacks/5 - LFI.md",
     "images/Pasted image 20241016100458.png",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
-    "5- Ffuf/1 - Basic Fuzzing.md",
     "Akerva.md",
     "13- Login Brute Forcing/3 - Custom Wordlists.md",
     "13- Login Brute Forcing/2 - Hydra.md",
@@ -198,14 +200,12 @@
     "16- File Inclusion/3 - RCE.md",
     "17-Session Security/6 - Open Redirect.md",
     "17-Session Security/3 - XSS.md",
-    "17-Session Security/2 - Session Fixation.md",
     "17-Session Security",
     "16- File Inclusion",
     "15- Web Attacks",
     "14- Broken Authentication",
     "13- Login Brute Forcing",
     "12- Server-Side Attacks",
-    "11- File Upload",
-    "10- Command Injections"
+    "11- File Upload"
   ]
 }
