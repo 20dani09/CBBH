@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Ffuf/3 - Parameter.md",
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5- Ffuf/3 - Parameter.md",
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5- Ffuf/3 - Parameter.md",
+                "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5- Ffuf/3 - Parameter.md"
+                "file": "5- Ffuf/1 - Basic Fuzzing.md"
               }
             }
           }
@@ -163,12 +163,12 @@
   "active": "99f2fea5d3fe80b9",
   "lastOpenFiles": [
     "5- Ffuf/2 - Domain Fuzzing.md",
+    "5- Ffuf/3 - Parameter.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "Attacking GraphQL/1 - Information Disclosure.md",
     "8- SQLi/Machines/Help.md",
     "images/Pasted image 20241016173354.png",
     "4- Information Gathering/3 - DNS.md",
-    "5- Ffuf/3 - Parameter.md",
     "19- Hacking WordPress/WPScan.md",
     "8- SQLi/Machines",
     "images/Pasted image 20241016131835.png",
