@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md",
+                "file": "12- Server-Side Attacks/2 - SSTI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - XXE"
+              "title": "2 - SSTI"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md",
+                "file": "12- Server-Side Attacks/2 - SSTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3 - XXE"
+              "title": "Backlinks for 2 - SSTI"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md",
+                "file": "12- Server-Side Attacks/2 - SSTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3 - XXE"
+              "title": "Outgoing links from 2 - SSTI"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15- Web Attacks/3 - XXE.md"
+                "file": "12- Server-Side Attacks/2 - SSTI.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 - XXE"
+              "title": "Outline of 2 - SSTI"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "112654026512c878",
   "lastOpenFiles": [
+    "15- Web Attacks/3 - XXE.md",
     "Arkham.md",
     "5- Ffuf/2 - Domain Fuzzing.md",
     "5- Ffuf/3 - Parameter.md",
@@ -209,7 +210,6 @@
     "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md",
     "19- Hacking WordPress",
     "18- Web Service & API Attacks/8 - XXE.md",
-    "15- Web Attacks/3 - XXE.md",
     "images/Pasted image 20241016103522.png",
     "images/Pasted image 20241016103113.png",
     "18- Web Service & API Attacks/7 - SSRF.md",
