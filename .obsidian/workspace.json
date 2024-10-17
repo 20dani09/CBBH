@@ -16,7 +16,9 @@
                 "file": "Attacking GraphQL/1 - Information Disclosure.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1 - Information Disclosure"
             }
           },
           {
@@ -28,11 +30,39 @@
                 "file": "5- Ffuf/1 - Basic Fuzzing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1 - Basic Fuzzing"
+            }
+          },
+          {
+            "id": "112654026512c878",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "54ed32b5e6780f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arkham.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arkham"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -52,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +99,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md",
+                "file": "Arkham.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +142,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Arkham"
             }
           },
           {
@@ -115,10 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md",
+                "file": "Arkham.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Arkham"
             }
           },
           {
@@ -129,7 +169,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md"
-              }
+                "file": "Arkham.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Arkham"
             }
           }
         ]
@@ -160,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f2fea5d3fe80b9",
+  "active": "54ed32b5e6780f1e",
   "lastOpenFiles": [
+    "Arkham.md",
     "5- Ffuf/2 - Domain Fuzzing.md",
     "5- Ffuf/3 - Parameter.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
@@ -201,7 +246,6 @@
     "NahamStore/2 - XSS.md",
     "NahamStore/1 - Recon.md",
     "NahamStore",
-    "17-Session Security/5 - XSS & CSRF chain.md",
     "17-Session Security",
     "16- File Inclusion",
     "15- Web Attacks",
