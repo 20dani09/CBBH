@@ -67,12 +67,14 @@
             "id": "72e8ff960cb40cb1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20241016131835.png"
+                "file": "19- Hacking WordPress/WPScan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241016131835"
+              "icon": "lucide-file",
+              "title": "WPScan"
             }
           },
           {
@@ -234,6 +236,7 @@
   },
   "active": "72e8ff960cb40cb1",
   "lastOpenFiles": [
+    "images/Pasted image 20241016131835.png",
     "images/Pasted image 20241016173354.png",
     "13- Login Brute Forcing/1 - Brute Force Attacks.md",
     "HTB machines/Vault.md",
@@ -255,7 +258,6 @@
     "4- Information Gathering/3 - DNS.md",
     "19- Hacking WordPress/WPScan.md",
     "8- SQLi/Machines",
-    "images/Pasted image 20241016131835.png",
     "18- Web Service & API Attacks/1 - WSDL.md",
     "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md",
     "19- Hacking WordPress",
