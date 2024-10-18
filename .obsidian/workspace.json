@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13- Login Brute Forcing/1 - Brute Force Attacks.md",
+                "file": "HTB machines/Vault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Brute Force Attacks"
+              "title": "Vault"
             }
           },
           {
@@ -236,12 +236,14 @@
   },
   "active": "72e8ff960cb40cb1",
   "lastOpenFiles": [
+    "13- Login Brute Forcing/1 - Brute Force Attacks.md",
+    "HTB machines/Vault.md",
+    "HTB machines",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "7- XSS/1 - XSS.md",
     "12- Server-Side Attacks/2 - SSTI.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "Untitled.md",
-    "13- Login Brute Forcing/1 - Brute Force Attacks.md",
     "13- Login Brute Forcing/3 - Custom Wordlists.md",
     "13- Login Brute Forcing/2 - Hydra.md",
     "15- Web Attacks/3 - XXE.md",
@@ -273,14 +275,12 @@
     "images/Pasted image 20241014192444.png",
     "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
     "images/Pasted image 20241014190952.png",
-    "18- Web Service & API Attacks/2 - Command Injection.md",
     "18- Web Service & API Attacks",
     "NahamStore",
     "17-Session Security",
     "16- File Inclusion",
     "15- Web Attacks",
     "14- Broken Authentication",
-    "13- Login Brute Forcing",
-    "12- Server-Side Attacks"
+    "13- Login Brute Forcing"
   ]
 }
