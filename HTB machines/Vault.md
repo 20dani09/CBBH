@@ -2,7 +2,20 @@ ___
 
 # 80
 
-/sparklays/admin.php
+## /sparklays
+
+- admin.php
+- login.php
+
+### /design
+
+#### /design.html
+
+
+
+#### /uploads
+
+
 
 
 
