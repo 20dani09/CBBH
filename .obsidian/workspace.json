@@ -67,14 +67,12 @@
             "id": "72e8ff960cb40cb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "HTB machines/Vault.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20241016131835.png"
               },
-              "icon": "lucide-file",
-              "title": "Vault"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241016131835"
             }
           },
           {
@@ -236,8 +234,10 @@
   },
   "active": "72e8ff960cb40cb1",
   "lastOpenFiles": [
+    "images/Pasted image 20241016173354.png",
     "13- Login Brute Forcing/1 - Brute Force Attacks.md",
     "HTB machines/Vault.md",
+    "images/Pasted image 20241018113812.png",
     "HTB machines",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "7- XSS/1 - XSS.md",
@@ -252,7 +252,6 @@
     "5- Ffuf/3 - Parameter.md",
     "Attacking GraphQL/1 - Information Disclosure.md",
     "8- SQLi/Machines/Help.md",
-    "images/Pasted image 20241016173354.png",
     "4- Information Gathering/3 - DNS.md",
     "19- Hacking WordPress/WPScan.md",
     "8- SQLi/Machines",
@@ -273,8 +272,6 @@
     "Akerva.md",
     "18- Web Service & API Attacks/4 - File Upload.md",
     "images/Pasted image 20241014192444.png",
-    "18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md",
-    "images/Pasted image 20241014190952.png",
     "18- Web Service & API Attacks",
     "NahamStore",
     "17-Session Security",
