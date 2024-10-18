@@ -1,5 +1,6 @@
 ____
 https://github.com/vladko312/SSTImap
+https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
 
 ![[Pasted image 20241004110914.png]]
 
