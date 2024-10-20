@@ -32,6 +32,12 @@ DNS servers store various types of records, each serving a specific purpose:
 
 ![[Pasted image 20240925180140.png]]
 
+# Reverse DNS lookup
+
+```
+dig  @10.10.11.166 -x 10.10.11.166
+```
+
 
 
 
