@@ -11,10 +11,14 @@
             "id": "b474184f5c3dea23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RedCross.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "RedCross"
             }
           }
         ]
@@ -159,8 +163,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84840cfe5784a350",
+  "active": "b474184f5c3dea23",
   "lastOpenFiles": [
+    "RedCross.md",
     "9- SQLmap/2 - OS Explotation.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "19- Hacking WordPress/WPScan.md",
@@ -192,7 +197,6 @@
     "18- Web Service & API Attacks/1 - WSDL.md",
     "18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md",
     "19- Hacking WordPress",
-    "18- Web Service & API Attacks/8 - XXE.md",
     "images/Pasted image 20241016103522.png",
     "images/Pasted image 20241016103113.png",
     "images/Pasted image 20241016101644.png",
