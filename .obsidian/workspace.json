@@ -8,91 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "112654026512c878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14- Broken Authentication/1 - Brute-Force Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Brute-Force Attacks"
-            }
-          },
-          {
-            "id": "d9735592b489d679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5- Ffuf/1 - Basic Fuzzing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Basic Fuzzing"
-            }
-          },
-          {
-            "id": "72e8ff960cb40cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "19- Hacking WordPress/WPScan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WPScan"
-            }
-          },
-          {
-            "id": "0688cb73d408a598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14- Broken Authentication/1 - Brute-Force Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Brute-Force Attacks"
-            }
-          },
-          {
-            "id": "cb38a2ffb46ecb54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9- SQLmap/2 - OS Explotation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - OS Explotation"
-            }
-          },
-          {
             "id": "b474184f5c3dea23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inject.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Inject"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,18 +159,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b474184f5c3dea23",
+  "active": "84840cfe5784a350",
   "lastOpenFiles": [
     "9- SQLmap/2 - OS Explotation.md",
+    "14- Broken Authentication/1 - Brute-Force Attacks.md",
+    "19- Hacking WordPress/WPScan.md",
+    "5- Ffuf/1 - Basic Fuzzing.md",
     "Inject.md",
     "9- SQLmap/1 - SQLmap.md",
     "4- Information Gathering/5 - Zone Transfers.md",
     "Trick.md",
     "4- Information Gathering/3 - DNS.md",
     "4- Information Gathering/4 - Subdomains.md",
-    "19- Hacking WordPress/WPScan.md",
-    "14- Broken Authentication/1 - Brute-Force Attacks.md",
-    "5- Ffuf/1 - Basic Fuzzing.md",
     "Attacking GraphQL/1 - Information Disclosure.md",
     "falafel.md",
     "images/Pasted image 20241016131835.png",
