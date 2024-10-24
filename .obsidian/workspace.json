@@ -11,14 +11,10 @@
             "id": "e27150ed7cf27dfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Timing"
+              "title": "New tab"
             }
           }
         ]
@@ -163,7 +159,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e27150ed7cf27dfb",
+  "active": "84840cfe5784a350",
   "lastOpenFiles": [
     "Timing.md",
     "9- SQLmap/3 - Skills Assessment.md",
