@@ -11,10 +11,14 @@
             "id": "e27150ed7cf27dfb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "12- Server-Side Attacks/2 - SSTI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2 - SSTI"
             }
           }
         ]
@@ -161,6 +165,8 @@
   },
   "active": "e27150ed7cf27dfb",
   "lastOpenFiles": [
+    "12- Server-Side Attacks/3 - SSI.md",
+    "Busqueda.md",
     "Chemistry.md",
     "Timing.md",
     "9- SQLmap/3 - Skills Assessment.md",
@@ -189,8 +195,6 @@
     "13- Login Brute Forcing/3 - Custom Wordlists.md",
     "13- Login Brute Forcing/2 - Hydra.md",
     "15- Web Attacks/3 - XXE.md",
-    "Arkham.md",
-    "5- Ffuf/2 - Domain Fuzzing.md",
     "8- SQLi/Machines",
     "19- Hacking WordPress",
     "images/Pasted image 20241016103522.png",
