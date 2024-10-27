@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Owasp top 10/2 - sanitize.md",
+                "file": "Owasp top 10/3 - baby auth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - sanitize"
+              "title": "3 - baby auth"
             }
           }
         ]
@@ -165,9 +165,12 @@
   },
   "active": "e27150ed7cf27dfb",
   "lastOpenFiles": [
+    "images/Pasted image 20241027114806.png",
+    "images/Pasted image 20241027114753.png",
+    "Owasp top 10/2 - sanitize.md",
+    "Owasp top 10/3 - baby auth.md",
     "images/Pasted image 20241026161341.png",
     "Owasp top 10/1 - looking glass.md",
-    "Owasp top 10/2 - sanitize.md",
     "images/Pasted image 20241026133728.png",
     "images/Pasted image 20241026131255.png",
     "Untitled.md",
@@ -195,7 +198,6 @@
     "images/Pasted image 20241016131835.png",
     "images/Pasted image 20241016173354.png",
     "13- Login Brute Forcing/1 - Brute Force Attacks.md",
-    "HTB machines/Vault.md",
     "images/Pasted image 20241018113812.png",
     "HTB machines",
     "8- SQLi/Machines",
@@ -203,8 +205,6 @@
     "images/Pasted image 20241016103522.png",
     "images/Pasted image 20241016103113.png",
     "images/Pasted image 20241016101644.png",
-    "images/Pasted image 20241016101242.png",
-    "images/Pasted image 20241016101047.png",
     "18- Web Service & API Attacks",
     "NahamStore",
     "17-Session Security",
