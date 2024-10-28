@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Owasp top 10/6 - bay todo or no todo.md",
+                "file": "Owasp top 10/8 - Full Stack Conf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - bay todo or no todo"
+              "title": "8 - Full Stack Conf"
             }
           }
         ]
@@ -165,12 +165,16 @@
   },
   "active": "08976b841156cfab",
   "lastOpenFiles": [
+    "images/Pasted image 20241028182937.png",
+    "Owasp top 10/7 - BoneCheweCon.md",
+    "Owasp top 10/8 - Full Stack Conf.md",
+    "images/Pasted image 20241028182745.png",
+    "Owasp top 10/6 - bay todo or no todo.md",
     "images/Pasted image 20241028181449.png",
     "images/Pasted image 20241028181353.png",
     "14- Broken Authentication/3 - Session Tokens.md",
     "14- Broken Authentication/2 - Authentication Bypass.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
-    "Owasp top 10/6 - bay todo or no todo.md",
     "Owasp top 10/5 - baby WAFfles order.md",
     "18- Web Service & API Attacks/8 - XXE.md",
     "images/Pasted image 20241027203649.png",
@@ -187,7 +191,6 @@
     "images/Pasted image 20241026161341.png",
     "Owasp top 10/1 - looking glass.md",
     "images/Pasted image 20241026133728.png",
-    "images/Pasted image 20241026131255.png",
     "Untitled.md",
     "Owasp top 10",
     "12- Server-Side Attacks/2 - SSTI.md",
@@ -199,9 +202,6 @@
     "Builder.md",
     "9- SQLmap/2 - OS Explotation.md",
     "9- SQLmap/1 - SQLmap.md",
-    "RedCross.md",
-    "19- Hacking WordPress/WPScan.md",
-    "images/Pasted image 20241016131835.png",
     "HTB machines",
     "8- SQLi/Machines",
     "19- Hacking WordPress",
