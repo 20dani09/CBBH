@@ -71,4 +71,5 @@ payload = base64.b64encode(raw_pickle)
 print(payload)
 ```
 
-Run with 
+Run with python2
+
