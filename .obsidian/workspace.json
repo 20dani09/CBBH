@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hola/Bug bounty.md",
+                "file": "hola/Hackerone/2 - Micro-CMS v1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bug bounty"
+              "title": "2 - Micro-CMS v1"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "35810061f59a2599",
   "lastOpenFiles": [
-    "Bolt.md",
+    "hola/Hackerone/1 - A little something to get you started.md",
+    "hola/Hackerone/2 - Micro-CMS v1.md",
     "hola/Bug bounty.md",
+    "Bolt.md",
     "hola/Hackerone",
     "hola",
     "TraceBack.md",
@@ -202,8 +204,6 @@
     "12- Server-Side Attacks/2 - SSTI.md",
     "Busqueda.md",
     "12- Server-Side Attacks/3 - SSI.md",
-    "Chemistry.md",
-    "Timing.md",
     "HTB machines",
     "8- SQLi/Machines",
     "19- Hacking WordPress",
