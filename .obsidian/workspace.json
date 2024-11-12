@@ -11,14 +11,10 @@
             "id": "35810061f59a2599",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bolt.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bolt"
+              "title": "New tab"
             }
           }
         ]
@@ -163,7 +159,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35810061f59a2599",
+  "active": "84840cfe5784a350",
   "lastOpenFiles": [
     "Bolt.md",
     "TraceBack.md",
