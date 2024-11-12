@@ -161,6 +161,7 @@
   },
   "active": "84840cfe5784a350",
   "lastOpenFiles": [
+    "hola",
     "Bolt.md",
     "TraceBack.md",
     "Shared.md",
@@ -197,7 +198,6 @@
     "12- Server-Side Attacks/3 - SSI.md",
     "Chemistry.md",
     "Timing.md",
-    "9- SQLmap/3 - Skills Assessment.md",
     "HTB machines",
     "8- SQLi/Machines",
     "19- Hacking WordPress",
