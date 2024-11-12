@@ -8,3 +8,6 @@ demo.bolt.htb
 
 
 mail.bolt.htb --> roundcube
+
+http://bolt.htb/download
+image.tar
