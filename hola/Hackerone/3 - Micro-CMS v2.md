@@ -18,3 +18,7 @@ SQLmap
 ```
 
 
+Change request method
+
+![[Pasted image 20241114192816.png]]
+
