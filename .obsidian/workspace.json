@@ -179,6 +179,7 @@
   },
   "active": "35810061f59a2599",
   "lastOpenFiles": [
+    "images/Pasted image 20241116183200.png",
     "hola/Bug bounty.md",
     "hola/Hackerone/4 - Encrypted Pastebin.md",
     "hola/Hackerone/3 - Micro-CMS v2.md",
@@ -216,7 +217,6 @@
     "14- Broken Authentication/3 - Session Tokens.md",
     "14- Broken Authentication/2 - Authentication Bypass.md",
     "Owasp top 10/5 - baby WAFfles order.md",
-    "18- Web Service & API Attacks/8 - XXE.md",
     "Owasp top 10",
     "HTB machines",
     "8- SQLi/Machines",
