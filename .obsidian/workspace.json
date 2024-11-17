@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hola/Hackerone/4 - Encrypted Pastebin.md",
+                "file": "hola/Hackerone/5 - Photo Gallery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Encrypted Pastebin"
+              "title": "5 - Photo Gallery"
             }
           },
           {
@@ -179,9 +179,10 @@
   },
   "active": "35810061f59a2599",
   "lastOpenFiles": [
+    "hola/Hackerone/4 - Encrypted Pastebin.md",
+    "hola/Hackerone/5 - Photo Gallery.md",
     "images/Pasted image 20241116183200.png",
     "hola/Bug bounty.md",
-    "hola/Hackerone/4 - Encrypted Pastebin.md",
     "hola/Hackerone/3 - Micro-CMS v2.md",
     "images/Pasted image 20241114193731.png",
     "images/Pasted image 20241114193326.png",
@@ -210,7 +211,6 @@
     "Owasp top 10/10 - baby breaking grad.md",
     "images/Pasted image 20241030185659.png",
     "Owasp top 10/9 - baby website rick.md",
-    "images/Pasted image 20241029175340.png",
     "Owasp top 10/8 - Full Stack Conf.md",
     "Owasp top 10/7 - BoneCheweCon.md",
     "Owasp top 10/6 - bay todo or no todo.md",
