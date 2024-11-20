@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/hackinghub/Client side/RegEx.md",
+                "file": "BB/hackinghub/Client side/Open Redirect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RegEx"
+              "title": "Open Redirect"
             }
           },
           {
@@ -194,10 +194,11 @@
   },
   "active": "97c744dd2ed2ee5d",
   "lastOpenFiles": [
+    "BB/hackinghub/Client side/RegEx.md",
+    "BB/hackinghub/Client side/Open Redirect.md",
     "BB/hackinghub/Client side",
     "BB/hackinghub",
     "BB/Bug bounty.md",
-    "BB/hackinghub/Client side/RegEx.md",
     "BB/Hackerone/7 - Postbook.md",
     "images/Pasted image 20241119174142.png",
     "images/Pasted image 20241117165345.png",
@@ -238,7 +239,6 @@
     "8- SQLi/Machines",
     "19- Hacking WordPress",
     "18- Web Service & API Attacks",
-    "NahamStore",
-    "17-Session Security"
+    "NahamStore"
   ]
 }
