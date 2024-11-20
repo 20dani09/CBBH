@@ -73,6 +73,6 @@ var name = 'test'; $('span#name').html( name );
 ```
 
 ```html
-
+test';alert(1)//
 ```
 ![[Pasted image 20241120133508.png]]
