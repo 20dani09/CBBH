@@ -52,3 +52,27 @@ ____
 
 ## Style
 
+```html
+<style>
+        body {
+            background-color: test;
+        }
+    </style>
+```
+
+```html
+</style><script>alert(1)</script>
+```
+
+## Javascript variables
+
+```html
+<script>
+var name = 'test'; $('span#name').html( name );
+</script>
+```
+
+```html
+
+```
+![[Pasted image 20241120133508.png]]
