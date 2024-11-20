@@ -22,3 +22,11 @@ ____
 
 ![[Pasted image 20241120125055.png]]
 
+```html
+" onmouseover=alert(1);//
+```
+
+![[Pasted image 20241120125551.png]]
+
+## Textarea
+
