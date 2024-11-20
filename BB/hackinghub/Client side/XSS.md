@@ -30,3 +30,18 @@ ____
 
 ## Textarea
 
+```html
+<textarea>test</textarea>
+```
+
+```html
+</textarea><script>alert(1)</script>
+```
+
+![[Pasted image 20241120131231.png]]
+
+## Title
+
+```html
+<title>Welcome, test</
+```
