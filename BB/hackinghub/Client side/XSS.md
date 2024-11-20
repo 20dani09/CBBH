@@ -43,5 +43,12 @@ ____
 ## Title
 
 ```html
-<title>Welcome, test</
+<title>Welcome, test</title>
 ```
+
+```html
+</title><script>alert(1)</script>
+```
+
+## Style
+
