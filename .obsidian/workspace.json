@@ -194,6 +194,7 @@
   },
   "active": "84840cfe5784a350",
   "lastOpenFiles": [
+    "BB/hackinghub/Client side",
     "BB/hackinghub",
     "BB/Bug bounty.md",
     "BB/hackinghub/Untitled.md",
@@ -238,7 +239,6 @@
     "19- Hacking WordPress",
     "18- Web Service & API Attacks",
     "NahamStore",
-    "17-Session Security",
-    "16- File Inclusion"
+    "17-Session Security"
   ]
 }
