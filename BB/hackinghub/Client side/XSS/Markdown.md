@@ -11,5 +11,3 @@ Image
 ![a](x"onerror=alert(1);//)
 ```
 
-
-
