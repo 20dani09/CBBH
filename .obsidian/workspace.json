@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/hackinghub/Client side/XSS.md",
+                "file": "BB/hackinghub/Client side/XSS/Markdown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XSS"
+              "title": "Markdown"
             }
           },
           {
@@ -194,13 +194,15 @@
   },
   "active": "97c744dd2ed2ee5d",
   "lastOpenFiles": [
+    "BB/hackinghub/Client side/XSS/XSS.md",
+    "BB/hackinghub/Client side/XSS/Markdown.md",
+    "BB/hackinghub/Client side/XSS",
     "images/Pasted image 20241120133508.png",
     "images/Pasted image 20241120131231.png",
     "images/Pasted image 20241120125551.png",
     "images/Pasted image 20241120125055.png",
     "images/Pasted image 20241120124025.png",
     "BB/hackinghub/Client side/Open Redirect.md",
-    "BB/hackinghub/Client side/XSS.md",
     "images/Pasted image 20241120122949.png",
     "images/Pasted image 20241120122749.png",
     "BB/hackinghub/Client side/RegEx.md",
@@ -217,7 +219,6 @@
     "9- SQLmap/1 - SQLmap.md",
     "BB/Hackerone/4 - Encrypted Pastebin.md",
     "images/Pasted image 20241116183200.png",
-    "images/Pasted image 20241114193731.png",
     "8- SQLi/1 - SQLi.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "13- Login Brute Forcing/2 - Hydra.md",
@@ -238,7 +239,6 @@
     "HTB machines",
     "8- SQLi/Machines",
     "19- Hacking WordPress",
-    "18- Web Service & API Attacks",
-    "NahamStore"
+    "18- Web Service & API Attacks"
   ]
 }
