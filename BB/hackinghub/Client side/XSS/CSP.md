@@ -1,7 +1,7 @@
 ___
 
 Content Security Policy
-
+https://book.hacktricks.xyz/pentesting-web/content-security-policy-csp-bypass
 # Data
 
 ```
