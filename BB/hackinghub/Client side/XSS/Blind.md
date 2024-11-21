@@ -1,7 +1,7 @@
 ____
 
 ```html
-</textarea></script>"/><script>alert()<
+</textarea></script>"/><script>alert()</script>
 ```
 UserAgent
 
