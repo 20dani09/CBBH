@@ -25,12 +25,14 @@
             "id": "97c744dd2ed2ee5d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20241122130236.png"
+                "file": "BB/hackinghub/Client side/XSS/CSP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241122130236"
+              "icon": "lucide-file",
+              "title": "CSP"
             }
           },
           {
@@ -190,11 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84840cfe5784a350",
+  "active": "97c744dd2ed2ee5d",
   "lastOpenFiles": [
-    "BB/hackinghub/Client side/XSS/CSP.md",
+    "BB/hackinghub/Client side/CSRF",
     "images/Pasted image 20241122130236.png",
     "images/Pasted image 20241122130107.png",
+    "BB/hackinghub/Client side/XSS/CSP.md",
     "images/Pasted image 20241122125841.png",
     "BB/hackinghub/Client side/XSS/Filter evasion.md",
     "BB/hackinghub/Client side/Open Redirect.md",
