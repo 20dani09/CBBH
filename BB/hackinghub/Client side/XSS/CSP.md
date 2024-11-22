@@ -25,3 +25,23 @@ content-security-policy
 <script/src=https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=oOfgVmxBk6U&callback=alert(1)></script>
 ```
 
+# CSP Upload Bypass
+
+```
+Content-Security-Policy
+	script-src 'self'
+```
+
+![[Pasted image 20241122125841.png]]
+
+Change file extension
+
+![[Pasted image 20241122130236.png]]
+
+```
+https://1972wbae.eu1.ctfio.com/csp-upload/uploads/369d4d050170f0f57940f893b149af74.js
+```
+
+```html
+
+```

@@ -25,14 +25,12 @@
             "id": "97c744dd2ed2ee5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "BB/hackinghub/Client side/XSS/CSP.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20241122130236.png"
               },
-              "icon": "lucide-file",
-              "title": "CSP"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241122130236"
             }
           },
           {
@@ -194,8 +192,11 @@
   },
   "active": "84840cfe5784a350",
   "lastOpenFiles": [
-    "BB/hackinghub/Client side/XSS/Filter evasion.md",
     "BB/hackinghub/Client side/XSS/CSP.md",
+    "images/Pasted image 20241122130236.png",
+    "images/Pasted image 20241122130107.png",
+    "images/Pasted image 20241122125841.png",
+    "BB/hackinghub/Client side/XSS/Filter evasion.md",
     "BB/hackinghub/Client side/Open Redirect.md",
     "BB/hackinghub/Client side/XSS/Blind.md",
     "BB/hackinghub/Client side/XSS/Markdown.md",
@@ -213,15 +214,12 @@
     "BB/hackinghub",
     "BB/Bug bounty.md",
     "BB/Hackerone/7 - Postbook.md",
-    "images/Pasted image 20241119174142.png",
-    "images/Pasted image 20241117165345.png",
     "BB/Hackerone/5 - Photo Gallery.md",
     "BB/Hackerone/6 -  Cody's First Blog.md",
     "BB/Hackerone/3 - Micro-CMS v2.md",
     "BB/Hackerone/2 - Micro-CMS v1.md",
     "9- SQLmap/1 - SQLmap.md",
     "BB/Hackerone/4 - Encrypted Pastebin.md",
-    "images/Pasted image 20241116183200.png",
     "8- SQLi/1 - SQLi.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "13- Login Brute Forcing/2 - Hydra.md",
@@ -234,7 +232,6 @@
     "Bolt.md",
     "BB/Hackerone",
     "BB",
-    "TraceBack.md",
     "Owasp top 10",
     "HTB machines",
     "8- SQLi/Machines",
