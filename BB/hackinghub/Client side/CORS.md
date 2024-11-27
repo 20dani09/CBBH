@@ -10,3 +10,4 @@ Access-Control-Allow-Origin: https://3hzvbqwn.eu1.ctfio.com
 Access-Control-Allow-Credentials: true
 ```
 
+On the request add Origin
