@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e2f9d3de204dbc4c",
+        "id": "cf35c06ee0e5e8a7",
         "type": "tabs",
         "children": [
           {
-            "id": "35810061f59a2599",
+            "id": "ae6610ea0079eef3",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-            }
-          },
-          {
-            "id": "f3963f3484a1ac17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hola/Hackerone/3 - Micro-CMS v2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 - Micro-CMS v2"
             }
           }
         ]
@@ -173,7 +159,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35810061f59a2599",
+  "active": "ae6610ea0079eef3",
   "lastOpenFiles": [
     "BB/hackinghub/Client side/CORS.md",
     "BB/hackinghub/Client side/CSRF.md",
