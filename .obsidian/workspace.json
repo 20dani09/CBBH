@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf35c06ee0e5e8a7",
+        "id": "0015e27add5052a9",
         "type": "tabs",
         "children": [
           {
-            "id": "ae6610ea0079eef3",
+            "id": "3588d3c1732facdc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BB/hackinghub/Client side/postMessage.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "postMessage"
             }
           }
         ]
@@ -159,15 +163,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae6610ea0079eef3",
+  "active": "3588d3c1732facdc",
   "lastOpenFiles": [
+    "images/Pasted image 20241129164644.png",
+    "BB/hackinghub/Client side/CSP.md",
+    "BB/hackinghub/Client side/postMessage.md",
     "BB/hackinghub/Client side/CORS.md",
     "BB/hackinghub/Client side/CSRF.md",
     "BB/hackinghub/Client side/RegEx.md",
     "BB/hackinghub/Client side/Open Redirect.md",
     "images/Pasted image 20241123134534.png",
     "images/Pasted image 20241123134530.png",
-    "BB/hackinghub/Client side/XSS/CSP.md",
     "BB/hackinghub/Client side/CSRF",
     "images/Pasted image 20241122130236.png",
     "images/Pasted image 20241122130107.png",
@@ -199,8 +205,6 @@
     "7- XSS/1 - XSS.md",
     "7- XSS/4 - Skills Assessment.md",
     "7- XSS/3 - Session Hijacking.md",
-    "7- XSS/2 - Phishing.md",
-    "BB/Hackerone/1 - A little something to get you started.md",
     "BB/Hackerone",
     "BB",
     "Owasp top 10",
