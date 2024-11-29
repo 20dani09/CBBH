@@ -70,3 +70,25 @@ ___
 
 # PostMessage targetOrigin Exploitation
 
+```html
+    <script>
+        function auth() {
+            let data = {
+                'user': {
+                    'username': 'adam',
+                    'token': '79d0c396ecb3615ed62a0917569c5332'
+                }
+            }
+            window.parent.postMessage(data, '*');
+        }
+    </script>
+```
+
+![[Pasted image 20241129165809.png]]
+
+## Secure PostMessage targetOrigin
+
+```html
+window.parent.postMessage(data, 'https://service.protected.com');
+```
+
