@@ -33,4 +33,40 @@ ___
 
 ![[Pasted image 20241129164644.png]]
 
+# Protecting PostMessage Origin
+
+```html
+	<script>
+        window.addEventListener("message",function(event){
+            if (event.data.hasOwnProperty('msg')) {
+                if( event.origin === 'https://only-from-this-domain.com' ) {
+                    document.getElementById('message').innerHTML = event.data.msg;
+                }else{
+                    alert("You're not allowed to send from here!");
+                }
+            }
+        });
+    </script>
+```
+
+# Exploiting PostMessage Origin Checks
+
+```html
+    <script>
+        window.addEventListener("message",function(event){
+            if (event.data.hasOwnProperty('msg')) {
+                if( /(http:|https:)\/\/([a-z0-9.]{1,}).ctfio.com/.test( event.origin ) ) {
+                    document.getElementById('message').innerHTML = event.data.msg;
+                }else{
+                    alert("You're not allowed to send from here!");
+                }
+            }
+        });
+    </script>
+```
+
+## Subdomain Regex Bypass
+![[Pasted image 20241129165328.png]]
+
+# PostMessage targetOrigin Exploitation
 
