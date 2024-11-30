@@ -22,4 +22,8 @@ ____
 https://auth.creon.ctfio.com/auth?client_id=1&redirect_url=https://creon.ctfio.com/redirect?uri=https://www.google.com&response_type=token
 ```
 
-# 
+# Protections
+
+```
+https://auth.icarus.ctfio.com/auth?client_id=1&redirect_url=https://icarus.ctfio.com/x/test.com&response_type=token
+```
