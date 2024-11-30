@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/hackinghub/Client side/postMessage.md",
+                "file": "BB/hackinghub/Open Redirect/Open Redirect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "postMessage"
+              "title": "Open Redirect"
             }
           }
         ]
@@ -165,11 +165,13 @@
   },
   "active": "3588d3c1732facdc",
   "lastOpenFiles": [
+    "BB/hackinghub/Open Redirect/Open Redirect.md",
+    "BB/hackinghub/Client side/postMessage.md",
+    "BB/hackinghub/Open Redirect",
     "images/Pasted image 20241129165809.png",
     "images/Pasted image 20241129165328.png",
     "images/Pasted image 20241129164644.png",
     "BB/hackinghub/Client side/CSP.md",
-    "BB/hackinghub/Client side/postMessage.md",
     "BB/hackinghub/Client side/CORS.md",
     "BB/hackinghub/Client side/CSRF.md",
     "BB/hackinghub/Client side/RegEx.md",
@@ -187,7 +189,6 @@
     "BB/hackinghub/Client side/XSS",
     "images/Pasted image 20241120133508.png",
     "images/Pasted image 20241120131231.png",
-    "images/Pasted image 20241120125551.png",
     "BB/hackinghub/Client side",
     "BB/hackinghub",
     "BB/Bug bounty.md",
@@ -209,7 +210,6 @@
     "BB",
     "Owasp top 10",
     "HTB machines",
-    "8- SQLi/Machines",
-    "19- Hacking WordPress"
+    "8- SQLi/Machines"
   ]
 }
