@@ -18,5 +18,8 @@ ____
 
 ![[Pasted image 20241130124308.png]]
 
+```
+https://auth.creon.ctfio.com/auth?client_id=1&redirect_url=https://creon.ctfio.com/redirect?uri=https://www.google.com&response_type=token
+```
 
-
+# 
