@@ -21,7 +21,7 @@ https://github.com/payloadbox/open-redirect-payload-list
 ![[Pasted image 20241130124308.png]]
 
 ```
-https://auth.creon.ctfio.com/auth?client_id=1&redirect_url=https://creon.ctfio.com/redirect?uri=https://www.google.com&response_type=token
+https://auth.creon.ctfio.com/auth?client_id=1&redirect_url=https://creon.ctfio.com/redirect?url=https://www.google.com&response_type=token
 ```
 
 # Protections
@@ -39,5 +39,5 @@ https://auth.daedalus.ctfio.com/auth?client_id=1&redirect_url=https://daedalus.c
 
 # XSS
 
-
+![[Pasted image 20241130131636.png]]
 
