@@ -12,3 +12,9 @@ UUID leak
 
 # POST
 
+![[Pasted image 20241203125821.png]]
+
+# DELETE
+
+![[Pasted image 20241203130043.png]]
+
