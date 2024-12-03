@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/hackinghub/Local File Read.md",
+                "file": "BB/hackinghub/Insecure Direct Object Reference (IDOR).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local File Read"
+              "title": "Insecure Direct Object Reference (IDOR)"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "3588d3c1732facdc",
   "lastOpenFiles": [
-    "BB/hackinghub/Open Redirect.md",
     "BB/hackinghub/Local File Read.md",
+    "BB/hackinghub/Insecure Direct Object Reference (IDOR).md",
+    "BB/hackinghub/Open Redirect.md",
     "images/Pasted image 20241130131636.png",
     "images/Pasted image 20241130124308.png",
     "images/Pasted image 20241130124246.png",
@@ -205,7 +206,6 @@
     "13- Login Brute Forcing/2 - Hydra.md",
     "13- Login Brute Forcing/1 - Brute Force Attacks.md",
     "7- XSS/1 - XSS.md",
-    "7- XSS/4 - Skills Assessment.md",
     "BB/Hackerone",
     "BB",
     "Owasp top 10",
