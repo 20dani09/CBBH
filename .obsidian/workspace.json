@@ -35,7 +35,8 @@
               "title": "SQL Injection"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3588d3c1732facdc",
+  "active": "3d85f2aac9d4bfef",
   "lastOpenFiles": [
-    "BB/hackinghub/SQL Injection.md",
     "8- SQLi/1 - SQLi.md",
+    "BB/hackinghub/SQL Injection.md",
     "9- SQLmap/1 - SQLmap.md",
     "BB/hackinghub/Insecure Direct Object Reference (IDOR).md",
     "images/Pasted image 20241203130043.png",

