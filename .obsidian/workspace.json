@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9- SQLmap/1 - SQLmap.md",
+                "file": "8- SQLi/1 - SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - SQLmap"
+              "title": "1 - SQLi"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "SQL Injection"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d85f2aac9d4bfef",
+  "active": "3588d3c1732facdc",
   "lastOpenFiles": [
     "9- SQLmap/1 - SQLmap.md",
     "BB/hackinghub/SQL Injection.md",
