@@ -35,7 +35,8 @@
               "title": "SQL Injection"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3588d3c1732facdc",
+  "active": "3d85f2aac9d4bfef",
   "lastOpenFiles": [
-    "9- SQLmap/1 - SQLmap.md",
+    "8- SQLi/1 - SQLi.md",
     "BB/hackinghub/SQL Injection.md",
+    "9- SQLmap/1 - SQLmap.md",
     "BB/hackinghub/Insecure Direct Object Reference (IDOR).md",
     "images/Pasted image 20241203130043.png",
     "images/Pasted image 20241203125821.png",
@@ -216,7 +218,6 @@
     "BB/Hackerone/3 - Micro-CMS v2.md",
     "BB/Hackerone/2 - Micro-CMS v1.md",
     "BB/Hackerone/4 - Encrypted Pastebin.md",
-    "8- SQLi/1 - SQLi.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "13- Login Brute Forcing/2 - Hydra.md",
     "13- Login Brute Forcing/1 - Brute Force Attacks.md",
