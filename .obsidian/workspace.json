@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8- SQLi/1 - SQLi.md",
+                "file": "9- SQLmap/1 - SQLmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - SQLi"
+              "title": "1 - SQLmap"
             }
           },
           {
@@ -180,9 +180,10 @@
   },
   "active": "3d85f2aac9d4bfef",
   "lastOpenFiles": [
-    "8- SQLi/1 - SQLi.md",
-    "BB/hackinghub/SQL Injection.md",
     "9- SQLmap/1 - SQLmap.md",
+    "BB/hackinghub/SQL Injection.md",
+    "8- SQLi/4 - Skills Assessment.md",
+    "8- SQLi/1 - SQLi.md",
     "BB/hackinghub/Insecure Direct Object Reference (IDOR).md",
     "images/Pasted image 20241203130043.png",
     "images/Pasted image 20241203125821.png",
@@ -220,7 +221,6 @@
     "BB/Hackerone/4 - Encrypted Pastebin.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
     "13- Login Brute Forcing/2 - Hydra.md",
-    "13- Login Brute Forcing/1 - Brute Force Attacks.md",
     "BB/Hackerone",
     "BB",
     "Owasp top 10",
