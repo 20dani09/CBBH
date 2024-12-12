@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/hackinghub/SQL Injection.md",
+                "file": "BB/hackinghub/File Uploads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Injection"
+              "title": "File Uploads"
             }
           }
         ],
@@ -180,8 +180,9 @@
   },
   "active": "3d85f2aac9d4bfef",
   "lastOpenFiles": [
-    "9- SQLmap/1 - SQLmap.md",
     "BB/hackinghub/SQL Injection.md",
+    "BB/hackinghub/File Uploads.md",
+    "9- SQLmap/1 - SQLmap.md",
     "8- SQLi/4 - Skills Assessment.md",
     "8- SQLi/1 - SQLi.md",
     "BB/hackinghub/Insecure Direct Object Reference (IDOR).md",
@@ -220,7 +221,6 @@
     "BB/Hackerone/2 - Micro-CMS v1.md",
     "BB/Hackerone/4 - Encrypted Pastebin.md",
     "14- Broken Authentication/1 - Brute-Force Attacks.md",
-    "13- Login Brute Forcing/2 - Hydra.md",
     "BB/Hackerone",
     "BB",
     "Owasp top 10",
