@@ -12,3 +12,10 @@ Try deleting Content-Type
 ```
 Content-Type: text/html
 ```
+
+Add `<script>alert()</script>`
+
+# Content/MIME Types
+
+https://github.com/BlackFan/content-type-research/blob/master/XSS.md
+
