@@ -64,3 +64,14 @@ http://127.0.0.1:8080/favicon.ico
 
 ## Chaining XSS
 
+```
+<script>document.write(document.location)</script> 
+```
+
+```
+<script>window.location = "http://localhost;</script> 
+```
+
+```
+<script>window.location = http://localhost;</script> 
+```
