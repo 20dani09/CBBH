@@ -104,3 +104,5 @@ ngrok http http://localhost:8080
 <iframe/src="https://fbcf-83-213-97-233.ngrok-free.app/prince-poc.xml">
 ```
 
+## Blind SSRF
+
