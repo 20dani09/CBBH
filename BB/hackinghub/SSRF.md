@@ -24,9 +24,22 @@ file:///etc/passwd
 http://127.1
 ```
 
-```
-http://127.1
-```
-
 https://nip.io/
 
+`<anything>[.-]<IP Address>.nip.io` in **"dot"**, **"dash"** or **"hexadecimal"** notation to the corresponding `<IP Address>`:
+
+- dot notation: `magic.127.0.0.1.nip.io`
+- dash notation: `magic-127-0-0-1.nip.io`
+- hexadecimal notation: `magic-7f000001.nip.io`
+
+## Whitelisting and Bypasses
+
+```
+http://hackinghub.io.127.0.0.1.nip.io
+```
+
+## Chaining Open Redirects
+
+```
+https://charcoal.ctfio.com/?redirect=http://localhost:8080
+```
