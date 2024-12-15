@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08d5cc2ad10baad0",
+  "active": "3d85f2aac9d4bfef",
   "lastOpenFiles": [
+    "images/Pasted image 20241215162646.png",
+    "BB/hackinghub/SSRF.md",
     "BB/hackinghub/XXE.md",
     "images/Pasted image 20241215161216.png",
-    "BB/hackinghub/SSRF.md",
     "images/Pasted image 20241214123720.png",
     "BB/hackinghub/File Uploads.md",
     "BB/hackinghub/SQL Injection.md",

