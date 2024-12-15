@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d85f2aac9d4bfef",
+  "active": "08d5cc2ad10baad0",
   "lastOpenFiles": [
-    "BB/hackinghub/SSRF.md",
     "BB/hackinghub/XXE.md",
+    "images/Pasted image 20241215161216.png",
+    "BB/hackinghub/SSRF.md",
     "images/Pasted image 20241214123720.png",
     "BB/hackinghub/File Uploads.md",
     "BB/hackinghub/SQL Injection.md",
@@ -213,7 +214,6 @@
     "images/Pasted image 20241130131636.png",
     "images/Pasted image 20241130124308.png",
     "images/Pasted image 20241130124246.png",
-    "images/Pasted image 20241130123503.png",
     "BB/hackinghub/Client side/postMessage.md",
     "BB/hackinghub/Open Redirect",
     "BB/hackinghub/Client side/CSP.md",
@@ -234,7 +234,6 @@
     "BB/Hackerone/5 - Photo Gallery.md",
     "BB/Hackerone/6 -  Cody's First Blog.md",
     "BB/Hackerone/3 - Micro-CMS v2.md",
-    "BB/Hackerone/2 - Micro-CMS v1.md",
     "BB/Hackerone",
     "BB",
     "Owasp top 10",
