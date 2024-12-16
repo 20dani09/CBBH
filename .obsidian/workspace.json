@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/hackinghub/Reverse Proxy.md",
+                "file": "BB/hackinghub/JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Proxy"
+              "title": "JWT"
             }
           },
           {
@@ -194,12 +194,13 @@
   },
   "active": "3d85f2aac9d4bfef",
   "lastOpenFiles": [
+    "BB/hackinghub/Reverse Proxy.md",
+    "BB/hackinghub/JWT.md",
     "images/Pasted image 20241216125006.png",
     "images/Pasted image 20241216124958.png",
     "images/Pasted image 20241216124839.png",
     "images/Pasted image 20241216124813.png",
     "BB/hackinghub/RCE.md",
-    "BB/hackinghub/Reverse Proxy.md",
     "images/Pasted image 20241215204332.png",
     "images/Pasted image 20241215202307.png",
     "images/Pasted image 20241215201548.png",
@@ -214,7 +215,6 @@
     "8- SQLi/4 - Skills Assessment.md",
     "8- SQLi/1 - SQLi.md",
     "BB/hackinghub/Insecure Direct Object Reference (IDOR).md",
-    "images/Pasted image 20241203130043.png",
     "BB/hackinghub/Local File Read.md",
     "BB/hackinghub/Open Redirect.md",
     "BB/hackinghub/Client side/postMessage.md",
