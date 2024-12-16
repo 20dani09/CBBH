@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/hackinghub/RCE.md",
+                "file": "BB/hackinghub/Reverse Proxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RCE"
+              "title": "Reverse Proxy"
             }
           },
           {
@@ -194,11 +194,12 @@
   },
   "active": "3d85f2aac9d4bfef",
   "lastOpenFiles": [
+    "BB/hackinghub/RCE.md",
+    "BB/hackinghub/Reverse Proxy.md",
     "images/Pasted image 20241215204332.png",
     "images/Pasted image 20241215202307.png",
     "images/Pasted image 20241215201548.png",
     "BB/hackinghub/XXE.md",
-    "BB/hackinghub/RCE.md",
     "images/Pasted image 20241215162646.png",
     "BB/hackinghub/SSRF.md",
     "images/Pasted image 20241215161216.png",
@@ -213,7 +214,6 @@
     "images/Pasted image 20241203125821.png",
     "images/Pasted image 20241203125146.png",
     "images/Pasted image 20241203125113.png",
-    "images/Pasted image 20241203124306.png",
     "BB/hackinghub/Local File Read.md",
     "BB/hackinghub/Open Redirect.md",
     "BB/hackinghub/Client side/postMessage.md",
