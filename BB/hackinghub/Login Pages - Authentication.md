@@ -25,6 +25,18 @@ Cluster-bomb
 
 # Self Registration Using Content Discovery
 
+```bash
+ffuf -u https://vdooaly3.eu1.ctfio.com/hidden-registration/user_FUZZ -w content.txt
 ```
-ffuf -u https://vdooaly3.eu1.ctfio.com/hidden-registration/FUZZ -w content.txt
-```
+
+![[Pasted image 20241217123723.png]]
+
+## Javascript Files
+
+![[Pasted image 20241217123935.png]]
+
+## APIs
+
+Leaked ``/by-api/api/auth/login/``
+
+Try 
