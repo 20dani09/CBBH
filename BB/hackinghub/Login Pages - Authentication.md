@@ -47,3 +47,8 @@ Leaked ``/by-api/api/auth/login/``
 
 # Leaked Password Reset Tokens
 
+![[Pasted image 20241217131421.png]]
+
+```bash
+ffuf -u https://vdooaly3.eu1.ctfio.com/reset-token-leak/ -w Documents/lists/content.txt
+```
