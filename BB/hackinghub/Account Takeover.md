@@ -49,16 +49,20 @@ https://auth.fluorite.ctfio.com/auth?client_id=1&redirect_url=https://fluorite.c
 ```html
 <html>
 <head>
-<title>Hello World :-)</title>
+    <title>Hello World :-)</title>
 </head>
 <body>
 
 Hello World :-)
 <script>
-window.location = 'x/'+document.location.hash.substr(1)
+    window.location = 'x/' + document.location.hash.substr(1);
 </script>
 
 </body>
 </html>
 ```
+
+![[Pasted image 20241217180517.png]]
+
+# XSS
 
