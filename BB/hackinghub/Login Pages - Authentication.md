@@ -46,7 +46,7 @@ Leaked ``/by-api/api/auth/login/``
 ![[Pasted image 20241217125652.png]]
 
 # Leaked Password Reset Tokens
-
+## 1
 ![[Pasted image 20241217131421.png]]
 
 ```bash
@@ -58,4 +58,12 @@ ffuf -u https://vdooaly3.eu1.ctfio.com/reset-token-leak/FUZZ -w /usr/share/secli
 ![[Pasted image 20241217131757.png]]
 
 ![[Pasted image 20241217131922.png]]
+
+## 2
+
+```bash
+ffuf -u https://vdooaly3.eu1.ctfio.com/api-token-leak/api/FUZZ -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt
+```
+
+![[Pasted image 20241217133540.png]]
 

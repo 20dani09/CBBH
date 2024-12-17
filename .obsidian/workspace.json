@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0015e27add5052a9",
+        "id": "5951e7b8335967c9",
         "type": "tabs",
         "children": [
           {
-            "id": "3588d3c1732facdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9- SQLmap/1 - SQLmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - SQLmap"
-            }
-          },
-          {
-            "id": "3d85f2aac9d4bfef",
+            "id": "a9207f5efc83e55d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Login Pages - Authentication"
             }
-          },
-          {
-            "id": "08d5cc2ad10baad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BB/hackinghub/SSRF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSRF"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +163,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d85f2aac9d4bfef",
+  "active": "a9207f5efc83e55d",
   "lastOpenFiles": [
+    "images/Pasted image 20241217133540.png",
+    "BB/hackinghub/RCE.md",
+    "BB/hackinghub/Open Redirect.md",
+    "BB/hackinghub/SSRF.md",
+    "9- SQLmap/1 - SQLmap.md",
+    "5- Ffuf/1 - Basic Fuzzing.md",
+    "BB/hackinghub/Login Pages - Authentication.md",
     "images/Pasted image 20241217131922.png",
     "images/Pasted image 20241217131757.png",
     "images/Pasted image 20241217131733.png",
@@ -204,21 +182,15 @@
     "images/Pasted image 20241217123723.png",
     "images/Pasted image 20241217122422.png",
     "images/Pasted image 20241217120440.png",
-    "images/Pasted image 20241217114441.png",
     "BB/hackinghub/JWT.md",
-    "BB/hackinghub/Login Pages - Authentication.md",
     "BB/hackinghub/Reverse Proxy.md",
-    "BB/hackinghub/RCE.md",
     "BB/hackinghub/XXE.md",
-    "BB/hackinghub/SSRF.md",
     "BB/hackinghub/File Uploads.md",
     "BB/hackinghub/SQL Injection.md",
-    "9- SQLmap/1 - SQLmap.md",
     "8- SQLi/4 - Skills Assessment.md",
     "8- SQLi/1 - SQLi.md",
     "BB/hackinghub/Insecure Direct Object Reference (IDOR).md",
     "BB/hackinghub/Local File Read.md",
-    "BB/hackinghub/Open Redirect.md",
     "BB/hackinghub/Client side/postMessage.md",
     "BB/hackinghub/Open Redirect",
     "BB/hackinghub/Client side/CSP.md",
@@ -234,7 +206,6 @@
     "BB/hackinghub/Client side/XSS",
     "BB/hackinghub/Client side",
     "BB/hackinghub",
-    "BB/Bug bounty.md",
     "BB/Hackerone",
     "BB",
     "Owasp top 10",
