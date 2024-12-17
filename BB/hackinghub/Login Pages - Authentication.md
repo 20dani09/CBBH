@@ -13,3 +13,9 @@ Search for "Default credentials" on google
 Username is invalid
 
 ![[Pasted image 20241217120440.png]]
+# Username Enumeration Through Forgot Password Function
+
+Invalid username supplied
+
+![[Pasted image 20241217122422.png]]
+
