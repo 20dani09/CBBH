@@ -100,3 +100,14 @@ curl -I https://mzg7ibfb.eu1.ctfio.com/by-api-xip-2/admin/
 ![[Pasted image 20241217135702.png]]
 Brute force, 
 ![[Pasted image 20241217135826.png]]
+# Mass Assignment
+
+![[Pasted image 20241217154708.png]]
+
+Add status on the register, 
+
+![[Pasted image 20241217154902.png]]
+
+![[Pasted image 20241217154932.png]]
+
+
