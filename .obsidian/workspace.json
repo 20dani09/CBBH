@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/hackinghub/JWT.md",
+                "file": "BB/hackinghub/Login Pages - Authentication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JWT"
+              "title": "Login Pages - Authentication"
             }
           },
           {
@@ -194,20 +194,21 @@
   },
   "active": "3d85f2aac9d4bfef",
   "lastOpenFiles": [
+    "images/Pasted image 20241217114441.png",
+    "BB/hackinghub/JWT.md",
+    "BB/hackinghub/Login Pages - Authentication.md",
     "images/Pasted image 20241216134956.png",
     "images/Pasted image 20241216134846.png",
     "images/Pasted image 20241216133932.png",
     "images/Pasted image 20241216132847.png",
     "images/Pasted image 20241216131947.png",
     "BB/hackinghub/Reverse Proxy.md",
-    "BB/hackinghub/JWT.md",
     "images/Pasted image 20241216125006.png",
     "images/Pasted image 20241216124958.png",
     "images/Pasted image 20241216124839.png",
     "images/Pasted image 20241216124813.png",
     "BB/hackinghub/RCE.md",
     "images/Pasted image 20241215204332.png",
-    "images/Pasted image 20241215202307.png",
     "BB/hackinghub/XXE.md",
     "BB/hackinghub/SSRF.md",
     "BB/hackinghub/File Uploads.md",
@@ -234,7 +235,6 @@
     "BB/hackinghub/Client side",
     "BB/hackinghub",
     "BB/Bug bounty.md",
-    "BB/Hackerone/7 - Postbook.md",
     "BB/Hackerone",
     "BB",
     "Owasp top 10",
