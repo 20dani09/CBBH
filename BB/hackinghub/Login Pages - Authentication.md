@@ -19,3 +19,12 @@ Invalid username supplied
 
 ![[Pasted image 20241217122422.png]]
 
+# Brute Forcing Username and Password
+
+Cluster-bomb
+
+# Self Registration Using Content Discovery
+
+```
+ffuf -u https://vdooaly3.eu1.ctfio.com/hidden-registration/FUZZ -w content.txt
+```
