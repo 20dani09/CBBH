@@ -39,4 +39,6 @@ ffuf -u https://vdooaly3.eu1.ctfio.com/hidden-registration/user_FUZZ -w content.
 
 Leaked ``/by-api/api/auth/login/``
 
-Try 
+![[Pasted image 20241217124748.png]]
+
+# Brute Forcing One-Time Password (OTP)
