@@ -12,3 +12,4 @@ Search for "Default credentials" on google
 
 Username is invalid
 
+![[Pasted image 20241217120440.png]]
