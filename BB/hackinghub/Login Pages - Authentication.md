@@ -42,3 +42,8 @@ Leaked ``/by-api/api/auth/login/``
 ![[Pasted image 20241217124748.png]]
 
 # Brute Forcing One-Time Password (OTP)
+
+![[Pasted image 20241217125652.png]]
+
+# Leaked Password Reset Tokens
+
