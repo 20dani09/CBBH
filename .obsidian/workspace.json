@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ngrok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,6 +166,8 @@
   },
   "active": "a9207f5efc83e55d",
   "lastOpenFiles": [
+    "BB/hackinghub/SSRF.md",
+    "BB/hackinghub/Account Takeover.md",
     "images/Pasted image 20241217175156.png",
     "images/Pasted image 20241217172642.png",
     "images/Pasted image 20241217172546.png",
@@ -173,14 +176,11 @@
     "images/Pasted image 20241217171523.png",
     "images/Pasted image 20241217171151.png",
     "BB/hackinghub/Login Pages - Authentication.md",
-    "BB/hackinghub/Account Takeover.md",
     "images/Pasted image 20241217154932.png",
     "images/Pasted image 20241217154902.png",
     "images/Pasted image 20241217154708.png",
-    "images/Pasted image 20241217135826.png",
     "BB/hackinghub/RCE.md",
     "BB/hackinghub/Open Redirect.md",
-    "BB/hackinghub/SSRF.md",
     "9- SQLmap/1 - SQLmap.md",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "BB/hackinghub/JWT.md",

