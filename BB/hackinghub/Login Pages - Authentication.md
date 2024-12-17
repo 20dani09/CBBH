@@ -97,3 +97,6 @@ curl -I https://mzg7ibfb.eu1.ctfio.com/by-api-xip-2/admin/
 
 ![[Pasted image 20241217135449.png]]
 
+![[Pasted image 20241217135702.png]]
+Brute force, 
+![[Pasted image 20241217135826.png]]
