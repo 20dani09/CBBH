@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/hackinghub/Recon/HTTPx.md",
+                "file": "BB/hackinghub/Recon/massDNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTPx"
+              "title": "massDNS"
             }
           }
         ]
@@ -165,12 +165,13 @@
   },
   "active": "a9207f5efc83e55d",
   "lastOpenFiles": [
-    "BB/hackinghub/Recon/Shodan.md",
+    "BB/Bug bounty.md",
+    "BB/hackinghub/Recon/massDNS.md",
     "BB/hackinghub/Recon/HTTPx.md",
+    "BB/hackinghub/Recon/Shodan.md",
     "BB/hackinghub/Recon/Subfinder.md",
     "BB/hackinghub/Recon/Certificate Transparency.md",
     "BB/hackinghub/Recon/Google Dorking.md",
-    "BB/Bug bounty.md",
     "BB/hackinghub/Account Takeover.md",
     "BB/hackinghub/Recon",
     "images/Pasted image 20241217185744.png",
@@ -202,7 +203,6 @@
     "BB/hackinghub/Open Redirect",
     "BB/hackinghub/Client side/CSP.md",
     "BB/hackinghub/Client side/CORS.md",
-    "BB/hackinghub/Client side/CSRF.md",
     "BB/hackinghub/Client side/CSRF",
     "BB/hackinghub/Client side/XSS",
     "BB/hackinghub/Client side",
