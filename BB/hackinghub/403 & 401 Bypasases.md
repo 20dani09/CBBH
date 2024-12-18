@@ -18,3 +18,10 @@ ___
 /app%2Fflag2
 ```
 
+# Double Encoding
+
+```
+/app%252Fflag3
+```
+
+# Encoding & Directory Traversal
