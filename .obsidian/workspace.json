@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/hackinghub/Recon/massDNS.md",
+                "file": "BB/hackinghub/Recon/DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "massDNS"
+              "title": "DNS"
             }
           }
         ]
@@ -166,7 +166,7 @@
   "active": "a9207f5efc83e55d",
   "lastOpenFiles": [
     "BB/Bug bounty.md",
-    "BB/hackinghub/Recon/massDNS.md",
+    "BB/hackinghub/Recon/DNS.md",
     "BB/hackinghub/Recon/HTTPx.md",
     "BB/hackinghub/Recon/Shodan.md",
     "BB/hackinghub/Recon/Subfinder.md",
