@@ -46,4 +46,10 @@ http://nahamstore.thm/account/orders/7
 
 ## 3
 
+![[Pasted image 20241219131422.png]]
+
+```
+http://nahamstore.thm/product?id=2&name=</title><script>alert(1)</script>
+```
+
 
