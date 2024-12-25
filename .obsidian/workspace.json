@@ -49,8 +49,7 @@
               "title": "ffuf"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df943a85374ab5da",
+  "active": "a9207f5efc83e55d",
   "lastOpenFiles": [
-    "BB/Bug bounty.md",
     "BB/hackinghub/Recon/HTTPx.md",
+    "BB/Bug bounty.md",
     "BB/hackinghub/Recon/Subfinder.md",
     "BB/hackinghub/Recon/Shodan.md",
     "BB/hackinghub/Recon/Certificate Transparency.md",
