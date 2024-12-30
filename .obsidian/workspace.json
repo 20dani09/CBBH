@@ -63,8 +63,7 @@
               "title": "ffuf"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94f0d4adb50d2253",
+  "active": "9ea382cbcbda7237",
   "lastOpenFiles": [
+    "BB/hackinghub/Recon/ffuf.md",
     "BB/Bug bounty.md",
     "Book Store.md",
-    "BB/hackinghub/Recon/ffuf.md",
     "BB/hackinghub/Recon/HTTPx.md",
     "NahamStore.md",
     "BB/hackinghub/Recon/Subfinder.md",
