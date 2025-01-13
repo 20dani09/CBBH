@@ -15,5 +15,10 @@ https://*.granularinsurance.com/
 ```
 
 ```
-subfinder -d projectbaseline.com -all -recursive > subdomain.txt
+subfinder -d projectbaseline.com -all -recursive > projectbaseline.txt
 ```
+
+```
+httpx -l projectbaseline.txt -cl -sc -location -favicon -title -tech-detect -ip -ports 80,443,8000,8080 -o projectbaseline-httpx.txt -follow-redirects
+```
+
