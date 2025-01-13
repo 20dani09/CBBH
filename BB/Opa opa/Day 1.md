@@ -31,7 +31,7 @@ cat projectbaseline.txt | httpx -ports 80,443,8080,8000,8888 -threads 200 > proj
 ## For fetching passive urls
 
 ```bash
-katana -u projectbaseline_alive.txt -d 5 -ps -pss waybackarchive,commoncrawl,alienvault -kf -jc -fx -ef woff,css,png,svg,jpg,woff2,jpeg,gif,svg > allurls.txt
+katana -u projectbaseline_alive.txt -d 5 -kf -jc -fx -ef woff,css,png,svg,jpg,woff2,jpeg,gif,svg > allurls.txt
 ```
 
 
