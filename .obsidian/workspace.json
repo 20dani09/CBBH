@@ -35,7 +35,8 @@
               "title": "Day 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94f0d4adb50d2253",
+  "active": "c9f8f47c17ae0255",
   "lastOpenFiles": [
-    "BB/Opa opa/Day 2.md",
     "BB/Opa opa/Day 1.md",
+    "BB/Opa opa/Day 2.md",
     "Attacking GraphQL/1 - Information Disclosure.md",
     "BB/hackinghub/403 & 401 Bypasases.md",
     "BB/hackinghub/Recon/HTTPx.md",
