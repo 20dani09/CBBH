@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/Opa opa/Day 1.md",
+                "file": "Attacking GraphQL/1 - Information Disclosure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1"
+              "title": "1 - Information Disclosure"
             }
           },
           {
@@ -193,8 +193,8 @@
   },
   "active": "94f0d4adb50d2253",
   "lastOpenFiles": [
-    "BB/hackinghub/403 & 401 Bypasases.md",
     "BB/Opa opa/Day 1.md",
+    "BB/hackinghub/403 & 401 Bypasases.md",
     "BB/hackinghub/Recon/HTTPx.md",
     "BB/hackinghub/Recon/Subfinder.md",
     "BB/hackinghub/Recon/Certificate Transparency.md",
