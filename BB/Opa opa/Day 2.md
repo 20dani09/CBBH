@@ -29,6 +29,8 @@ sqlmap -r request.txt --dbs --level 5 --risk 3
 POST /studies/rheumatoid-arthritis-galvani/contact/
 ```
 
+
+
 ### Session token in url 
 
 ```
