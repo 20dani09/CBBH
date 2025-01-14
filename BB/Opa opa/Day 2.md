@@ -28,8 +28,10 @@ sqlmap -r request.txt --dbs --level 5 --risk 3
 ```
 POST /studies/rheumatoid-arthritis-galvani/contact/
 ```
+https://www.imperva.com/learn/application-security/http-parameter-pollution/
 
 
+https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/04-Testing_for_HTTP_Parameter_Pollution
 
 ### Session token in url 
 
