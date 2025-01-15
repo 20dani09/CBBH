@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Day 2"
             }
+          },
+          {
+            "id": "8291ca0a7d217f63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BB/Opa opa/Day 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9f8f47c17ae0255",
+  "active": "8291ca0a7d217f63",
   "lastOpenFiles": [
-    "BB/Opa opa/Day 1.md",
     "BB/Opa opa/Day 2.md",
+    "BB/Opa opa/Day 3.md",
+    "BB/Opa opa/Day 1.md",
     "Attacking GraphQL/1 - Information Disclosure.md",
     "BB/hackinghub/403 & 401 Bypasases.md",
     "BB/hackinghub/Recon/HTTPx.md",
@@ -212,7 +227,6 @@
     "BB/hackinghub/Recon",
     "images/Pasted image 20241217185744.png",
     "images/Pasted image 20241217180517.png",
-    "BB/hackinghub/SSRF.md",
     "images/Pasted image 20241217175156.png",
     "images/Pasted image 20241217172642.png",
     "images/Pasted image 20241217172546.png",
