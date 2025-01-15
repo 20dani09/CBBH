@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BB/Opa opa/Day 2.md",
+                "file": "BB/Opa opa/Day 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 2"
+              "title": "Day 3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,11 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8291ca0a7d217f63",
+  "active": "94f0d4adb50d2253",
   "lastOpenFiles": [
-    "BB/Opa opa/Day 1.md",
-    "BB/Opa opa/Day 2.md",
     "BB/Opa opa/Day 3.md",
+    "BB/Opa opa/Day 2.md",
+    "BB/Opa opa/Day 1.md",
     "images/Pasted image 20250115174453.png",
     "BB/hackinghub/Client side/CSRF.md",
     "BB/hackinghub/Client side/CSP.md",
