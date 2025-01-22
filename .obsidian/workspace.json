@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/XSS.md",
+                "file": "Study/API Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XSS"
+              "title": "API Testing"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "94f0d4adb50d2253",
   "lastOpenFiles": [
-    "BB/hackinghub/File Uploads.md",
+    "5- Ffuf/1 - Basic Fuzzing.md",
+    "Study/API Testing.md",
     "Study/XSS.md",
+    "BB/hackinghub/File Uploads.md",
     "BB/hackinghub/Client side/XSS/Blind.md",
     "BB/hackinghub/Client side/XSS/Filter evasion.md",
     "BB/hackinghub/Client side/XSS/Markdown.md",
@@ -193,8 +195,6 @@
     "BB/Opa opa",
     "BB/hackinghub/Open Redirect.md",
     "BB/hackinghub/Recon/ffuf.md",
-    "Book Store.md",
-    "NahamStore.md",
     "images/Pasted image 20241219131422.png",
     "images/Pasted image 20241219130918.png",
     "images/Pasted image 20241219130847.png",
