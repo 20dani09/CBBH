@@ -28,3 +28,14 @@ kie: session=5ruUmRzO6InKX10BeH9MhoKEPxCSXjqC' -H 'Content-Type: application/jso
 "quantity":1}],"chosen_discount":{"percentage":100}}' -i
 ```
 
+____
+### server-side parameter pollution
+
+Place query syntax characters like `#`, `&`, and `=` in your input and observe how the application responds
+
+![[Pasted image 20250123184928.png]]
+
+![[Pasted image 20250123185101.png]]
+
+`field=email`is a valid field 
+
