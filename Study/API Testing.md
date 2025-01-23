@@ -38,4 +38,15 @@ Place query syntax characters like `#`, `&`, and `=` in your input and observe h
 ![[Pasted image 20250123185101.png]]
 
 `field=email`is a valid field 
+`field=reset_token`
+
+![[Pasted image 20250123185534.png]]
+
+```
+/forgot-password?reset_token=94j01pbswpftpxe8a3y8wrpv43uhk41e
+```
+
+___
+
+
 
