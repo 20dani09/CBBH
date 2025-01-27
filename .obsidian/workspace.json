@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/GraphQL API vulnerabilities.md",
+                "file": "Study/CORS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GraphQL API vulnerabilities"
+              "title": "CORS"
             }
           }
         ]
@@ -166,6 +166,7 @@
   "active": "94f0d4adb50d2253",
   "lastOpenFiles": [
     "Study/GraphQL API vulnerabilities.md",
+    "Study/CORS.md",
     "images/Pasted image 20250125125915.png",
     "images/Pasted image 20250124192136.png",
     "images/Pasted image 20250124191926.png",
