@@ -16,7 +16,18 @@ ____
 </script>
 ```
 
+____
+Errors parsing Origin headers
 
+suppose an application grants access to all domains ending in:
+`normal-website.com`
+An attacker might be able to gain access by registering the domain:
+`hackersnormal-website.com`
+Alternatively, suppose an application grants access to all domains beginning with
+`normal-website.com`
+An attacker might be able to gain access using the domain:
+`normal-website.com.evil-user.net`
 
-
+____
+The specification for the Origin header supports the value `null`
 
