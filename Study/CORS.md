@@ -45,3 +45,21 @@ Using an `<iframe>` with the `sandbox` attribute can bypass certain restrictions
 </script>">
 </iframe>
 ```
+
+___
+
+## Exploiting XSS via CORS trust relationships - Continued
+
+Given the following request:
+
+```
+GET /api/requestApiKey HTTP/1.1 Host: vulnerable-website.com Origin: https://subdomain.vulnerable-website.com Cookie: sessionid=...
+````
+
+If the server responds with:
+
+`HTTP/1.1 200 OK Access-Control-Allow-Origin: https://subdomain.vulnerable-website.com Access-Control-Allow-Credentials: true`
+
+Then an attacker who finds an XSS vulnerability on `subdomain.vulnerable-website.com` could use that to retrieve the API key, using a URL like:
+
+`https://subdomain.vulnerable-website.com/?xss=<script>cors-stuff-here</script>`
