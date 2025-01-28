@@ -53,13 +53,40 @@ ___
 Given the following request:
 
 ```
-GET /api/requestApiKey HTTP/1.1 Host: vulnerable-website.com Origin: https://subdomain.vulnerable-website.com Cookie: sessionid=...
-````
+GET /api/requestApiKey HTTP/1.1 
+Host: vulnerable-website.com 
+Origin: https://subdomain.vulnerable-website.com 
+Cookie: sessionid=...
+```
 
 If the server responds with:
 
-`HTTP/1.1 200 OK Access-Control-Allow-Origin: https://subdomain.vulnerable-website.com Access-Control-Allow-Credentials: true`
+```
+HTTP/1.1 200 OK 
+Access-Control-Allow-Origin: https://subdomain.vulnerable-website.com 
+Access-Control-Allow-Credentials: true
+```
 
 Then an attacker who finds an XSS vulnerability on `subdomain.vulnerable-website.com` could use that to retrieve the API key, using a URL like:
 
-`https://subdomain.vulnerable-website.com/?xss=<script>cors-stuff-here</script>`
+```
+https://subdomain.vulnerable-website.com/?xss=<script>cors-stuff-here</script>
+```
+
+___
+
+## Breaking TLS with poorly configured CORS
+
+Suppose an application that rigorously employs HTTPS also whitelists a trusted subdomain that is using plain HTTP. For example, when the application receives the following request:
+
+```
+GET /api/requestApiKey HTTP/1.1 
+Host: vulnerable-website.com Origin: http://trusted-subdomain.vulnerable-website.com Cookie: sessionid=...`
+```
+
+The application responds with:
+
+```
+HTTP/1.1 200 OK 
+Access-Control-Allow-Origin: http://trusted-subdomain.vulnerable-website.com Access-Control-Allow-Credentials: true
+```
