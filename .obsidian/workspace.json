@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Authetication.md",
+                "file": "9- SQLmap/1 - SQLmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authetication"
+              "title": "1 - SQLmap"
             }
           }
         ]
@@ -165,10 +165,11 @@
   },
   "active": "94f0d4adb50d2253",
   "lastOpenFiles": [
+    "8- SQLi/1 - SQLi.md",
+    "Study/Authetication.md",
     "images/Pasted image 20250129113438.png",
     "images/Pasted image 20250129113045.png",
     "Study/XSS.md",
-    "Study/Authetication.md",
     "Study/API Testing.md",
     "Study/CORS.md",
     "images/Pasted image 20250129105731.png",
@@ -180,7 +181,6 @@
     "images/Pasted image 20250124191926.png",
     "images/Pasted image 20250124191855.png",
     "images/Pasted image 20250124190634.png",
-    "images/Pasted image 20250123185534.png",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "BB/hackinghub/File Uploads.md",
     "BB/hackinghub/Client side/XSS/Blind.md",
