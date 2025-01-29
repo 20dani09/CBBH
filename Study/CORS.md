@@ -81,7 +81,9 @@ Suppose an application that rigorously employs HTTPS also whitelists a trusted s
 
 ```
 GET /api/requestApiKey HTTP/1.1 
-Host: vulnerable-website.com Origin: http://trusted-subdomain.vulnerable-website.com Cookie: sessionid=...`
+Host: vulnerable-website.com 
+Origin: http://trusted-subdomain.vulnerable-website.com 
+Cookie: sessionid=...`
 ```
 
 The application responds with:
