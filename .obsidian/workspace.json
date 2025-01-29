@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/CORS.md",
+                "file": "Study/Authetication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CORS"
+              "title": "Authetication"
             }
           }
         ]
@@ -165,21 +165,21 @@
   },
   "active": "94f0d4adb50d2253",
   "lastOpenFiles": [
+    "Study/XSS.md",
+    "Study/Authetication.md",
+    "Study/API Testing.md",
+    "Study/CORS.md",
     "images/Pasted image 20250129105731.png",
     "images/Pasted image 20250127181648.png",
     "images/Pasted image 20250127181547.png",
     "Study/GraphQL API vulnerabilities.md",
-    "Study/CORS.md",
     "images/Pasted image 20250125125915.png",
     "images/Pasted image 20250124192136.png",
     "images/Pasted image 20250124191926.png",
     "images/Pasted image 20250124191855.png",
-    "Study/XSS.md",
-    "Study/API Testing.md",
     "images/Pasted image 20250124190634.png",
     "images/Pasted image 20250123185534.png",
     "images/Pasted image 20250123185101.png",
-    "images/Pasted image 20250123184928.png",
     "5- Ffuf/1 - Basic Fuzzing.md",
     "BB/hackinghub/File Uploads.md",
     "BB/hackinghub/Client side/XSS/Blind.md",
