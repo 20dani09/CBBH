@@ -8,3 +8,7 @@ http://swamp.nyx
 ```bash
 dig @192.168.0.22 swamp.nyx axfr
 ```
+
+```
+192.168.0.22  d0nkey.swamp.nyx dr4gon.swamp.nyx duloc.swamp.nyx f1ona.swamp.nyx farfaraway.swamp.nyx ns1.swamp.nyx shr3k.swamp.nyx
+```
