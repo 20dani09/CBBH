@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Path traversal.md",
+                "file": "Study/File upload.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Path traversal"
+              "title": "File upload"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,8 +166,9 @@
   },
   "active": "94f0d4adb50d2253",
   "lastOpenFiles": [
-    "Study/Authetication.md",
     "Study/Path traversal.md",
+    "Study/File upload.md",
+    "Study/Authetication.md",
     "9- SQLmap/1 - SQLmap.md",
     "8- SQLi/1 - SQLi.md",
     "images/Pasted image 20250129113438.png",
@@ -201,7 +203,6 @@
     "BB/hackinghub/JWT.md",
     "BB/hackinghub/Local File Read.md",
     "BB/hackinghub/SSRF.md",
-    "Attacking GraphQL/1 - Information Disclosure.md",
     "BB/Opa opa",
     "BB/hackinghub/Recon",
     "BB/hackinghub/Open Redirect",
