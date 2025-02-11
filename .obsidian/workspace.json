@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/File upload.md",
+                "file": "Swamp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File upload"
+              "title": "Swamp"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swamp.md",
+                "file": "6- Javascript Deobfuscation/1 - JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swamp"
+              "title": "1 - JS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,9 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e07c1c27c78edf6b",
+  "active": "94f0d4adb50d2253",
   "lastOpenFiles": [
     "Study/File upload.md",
+    "6- Javascript Deobfuscation/1 - JS.md",
+    "6- Javascript Deobfuscation/2 - Skills Assessment.md",
     "Swamp.md",
     "Study/Path traversal.md",
     "Study/Authetication.md",
@@ -216,8 +217,6 @@
     "BB/hackinghub/Client side/CSP.md",
     "BB/hackinghub/Client side/CORS.md",
     "BB/hackinghub/Insecure Direct Object Reference (IDOR).md",
-    "BB/hackinghub/JWT.md",
-    "BB/hackinghub/Local File Read.md",
     "BB/Opa opa",
     "BB/hackinghub/Recon",
     "BB/hackinghub/Open Redirect",
