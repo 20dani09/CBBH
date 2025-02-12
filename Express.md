@@ -7,3 +7,7 @@ IP=192.168.0.20
 
 403 Forbidden
 
+### /jquery
+
+#### /jquery.js
+
