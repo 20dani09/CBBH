@@ -11,14 +11,10 @@
             "id": "94f0d4adb50d2253",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Express.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Express"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7cb9a1fd4ee7a47e",
@@ -165,7 +160,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94f0d4adb50d2253",
+  "active": "84840cfe5784a350",
   "lastOpenFiles": [
     "6- Javascript Deobfuscation/1 - JS.md",
     "Express.md",
