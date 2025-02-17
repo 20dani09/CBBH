@@ -11,10 +11,14 @@
             "id": "fed1bc85fbd44fc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Vulnyx/Bola.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bola"
             }
           }
         ]
@@ -162,7 +166,9 @@
   },
   "active": "fed1bc85fbd44fc5",
   "lastOpenFiles": [
-    "Vulnyx.md",
+    "Vulnyx/Vulnyx.md",
+    "Vulnyx/Bola.md",
+    "Vulnyx",
     "NahamStore.md",
     "Theat Hunting.md",
     "test.md",
@@ -198,7 +204,6 @@
     "BB/Bug bounty.md",
     "Study",
     "BB/Opa opa/Day 3.md",
-    "BB/Opa opa/Day 1.md",
     "BB/Opa opa",
     "BB/hackinghub/Recon",
     "BB/hackinghub/Open Redirect",
@@ -206,7 +211,6 @@
     "BB/hackinghub/Client side/XSS",
     "BB/hackinghub/Client side",
     "BB/hackinghub",
-    "BB/Hackerone",
-    "BB"
+    "BB/Hackerone"
   ]
 }
