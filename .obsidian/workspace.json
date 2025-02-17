@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b038edcf14e4c08",
+        "id": "aa1fc72cd1266c16",
         "type": "tabs",
         "children": [
           {
-            "id": "d52542f81608961d",
+            "id": "fed1bc85fbd44fc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vulnyx.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vulnyx"
+              "title": "New tab"
             }
           }
         ]
@@ -164,10 +160,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d52542f81608961d",
+  "active": "fed1bc85fbd44fc5",
   "lastOpenFiles": [
-    "NahamStore.md",
     "Vulnyx.md",
+    "NahamStore.md",
     "Theat Hunting.md",
     "test.md",
     "6- Javascript Deobfuscation/1 - JS.md",
