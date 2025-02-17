@@ -24,8 +24,16 @@ ct0l4
 
 # 873 Rsync
 
-```bash
+https://github.com/VulNyx/Arsenal/tree/main/rsync-brute
 
+```bash
+./rsync-brute -t bola.nyx -p 873 -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt
 ```
 
+```bash
+rsync -av --list-only rsync://192.168.0.24/extensions
+```
 
+```bash
+rsync -avz rsync://bola.nyx/extensions/password_manager.zip
+```
