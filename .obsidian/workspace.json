@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnyx/Jarjar.md",
+                "file": "13- Login Brute Forcing/3 - Custom Wordlists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jarjar"
+              "title": "3 - Custom Wordlists"
             }
           }
         ],
@@ -181,8 +181,9 @@
   },
   "active": "e2f32363b96f0aba",
   "lastOpenFiles": [
-    "Vulnyx/Bola.md",
+    "13- Login Brute Forcing/1 - Brute Force Attacks.md",
     "Vulnyx/Jarjar.md",
+    "Vulnyx/Bola.md",
     "Vulnyx/Vulnyx.md",
     "18- Web Service & API Attacks/1 - WSDL.md",
     "Vulnyx",
@@ -217,7 +218,6 @@
     "BB/hackinghub/Client side/XSS/Blind.md",
     "BB/hackinghub/Client side/XSS/Filter evasion.md",
     "BB/hackinghub/Client side/XSS/Markdown.md",
-    "BB/hackinghub/Client side/XSS/XSS.md",
     "Study",
     "BB/Opa opa",
     "BB/hackinghub/Recon",
