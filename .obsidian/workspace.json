@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnyx/Bola.md",
+                "file": "Vulnyx/Jarjar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bola"
+              "title": "Jarjar"
             }
           }
         ],
@@ -181,9 +181,10 @@
   },
   "active": "e2f32363b96f0aba",
   "lastOpenFiles": [
-    "18- Web Service & API Attacks/1 - WSDL.md",
     "Vulnyx/Bola.md",
+    "Vulnyx/Jarjar.md",
     "Vulnyx/Vulnyx.md",
+    "18- Web Service & API Attacks/1 - WSDL.md",
     "Vulnyx",
     "NahamStore.md",
     "Theat Hunting.md",
@@ -217,7 +218,6 @@
     "BB/hackinghub/Client side/XSS/Filter evasion.md",
     "BB/hackinghub/Client side/XSS/Markdown.md",
     "BB/hackinghub/Client side/XSS/XSS.md",
-    "BB/Bug bounty.md",
     "Study",
     "BB/Opa opa",
     "BB/hackinghub/Recon",
