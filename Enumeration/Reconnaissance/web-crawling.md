@@ -30,7 +30,7 @@ After running the Scrapy spider, you'll have a file containing scraped data (e.g
 jq -r '.[] | select(.file != null) | .file' example_data.json | sort -u
 ```
 
-This command uses `jq` to extract links, `awk` to isolate file extensions, `sort` to order them, and `uniq -c` to count their occurrences. By scrutinizing the extracted data, you can identify patterns, anomalies, or sensitive files that might be of interest for further investigation.
+This command uses `jq` to select non-null file values and `sort` with the `-u` option to sort and deduplicate them. The command does not use `awk` or `uniq -c`. By scrutinizing the extracted data, you can identify patterns, anomalies, or sensitive files that might be of interest for further investigation.
 
 > After spidering inlanefreight.com, identify the location where future reports will be stored. Respond with the full domain, e.g., files.inlanefreight.com.
 
@@ -59,3 +59,15 @@ deactivate
 ![Pasted image 20240926150255.png](../../assets/images/5e9609af9ab95ef27a03.png)
 
 ![Pasted image 20240926150311.png](../../assets/images/e5758e1ea03f1457464e.png)
+
+## Estado del ejemplo Scrapy
+
+El ejemplo `ExampleSpider` referencia `self.interesting_extensions` sin definir ese atributo. Es un fragmento incompleto y no puede ejecutarse tal cual. Tampoco se especifica la orden que escribe `example_data.json`; el bloque posterior presupone ese archivo.
+
+## Crawling
+
+| **Resource/Command**                                                                                                                                 | **Description**                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| `ZAP`                                                                                                                                                | [https://www.zaproxy.org/](https://www.zaproxy.org/)                          |
+| `ffuf -recursion -recursion-depth 1 -u http://192.168.10.10/FUZZ -w /opt/useful/SecLists/Discovery/Web-Content/raft-small-directories-lowercase.txt` | Discovering files and folders that cannot be spotted by browsing the website. |
+| `ffuf -w ./folders.txt:FOLDERS,./wordlist.txt:WORDLIST,./extensions.txt:EXTENSIONS -u http://www.target.domain/FOLDERS/WORDLISTEXTENSIONS`           | Mutated bruteforcing against the target web server.                           |
