@@ -26,3 +26,7 @@
 
 - [Controles de seguridad](security-controls.md)
 - [Herramientas de revisión](audit-tools.md)
+
+## Relacionado
+
+- [Consultas con PowerView](../Tools/powerview-queries.md)
