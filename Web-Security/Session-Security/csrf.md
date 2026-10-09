@@ -20,7 +20,7 @@ Cross-Site Request Forgery (CSRF or XSRF) is an attack that forces an end-user t
 
 While logged into the target user account, open a new tab and visit the URL hosted on the attacking machine: `http://<Attacker_IP>:<Port>/malicious.html`. Upon visiting the page, you'll observe that the target user's profile details will be altered based on the data embedded within the malicious HTML page being served by the attacker.
 
-[Captura pendiente de revisión: Pasted image 20241012104931.png](../../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 ## GET-based
 
@@ -52,13 +52,3 @@ Leak the CSRF token,
 ```
 
 ![Pasted image 20241012110926.png](../../assets/images/22bc5abeed83963b3e9e.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 17-Session Security/4 - CSRF.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-Se han sustituido valores literales de autenticación o direcciones de correo por marcadores. Los detalles sin valores están en [el registro de redacciones](../../Resources/Audit/redactions.csv).
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
