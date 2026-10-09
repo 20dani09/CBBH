@@ -1,11 +1,10 @@
 # Active Directory
 
-Consulta de controles de seguridad y catálogo de fuentes.
+Controles de seguridad y herramientas de revisión.
 
-## Referencias
+## Apuntes
 
+- [Herramientas de revisión de Active Directory](audit-tools.md)
 - [Estado de controles de seguridad](security-controls.md)
-- [Fuentes inventariadas: Active-Directory](source-catalog.md)
-
 
 [Inicio](../README.md)
