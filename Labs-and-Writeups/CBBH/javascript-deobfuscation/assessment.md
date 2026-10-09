@@ -37,12 +37,3 @@ curl -X POST http://94.237.60.69:44993/keys.php -d 'key=API_p3n_73571n6_15_fun'
 ## Material relacionado
 
 - [JS](../../../Tools/JavaScript/js.md)
-
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 6- Javascript Deobfuscation/2 - Skills Assessment.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../../README.md) · [Inicio](../../../README.md)
