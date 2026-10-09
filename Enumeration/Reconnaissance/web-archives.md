@@ -11,3 +11,12 @@ The Wayback Machine, a project by the Internet Archive, has been archiving the w
 |`Content Changes`|Track changes in website content, including text, images, and links.|Identify patterns in content updates and assess the evolution of a website's security posture.|
 
 By leveraging the Wayback Machine, you can gain a historical perspective on your target's online presence, potentially revealing vulnerabilities that may have been overlooked in the current version of the website.
+
+## Passive Infrastructure Identification
+
+| **Resource/Command**                                   | **Description**                                                                      |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| `Netcraft`                                             | [https://www.netcraft.com/](https://www.netcraft.com/)                               |
+| `WayBackMachine`                                       | [http://web.archive.org/](http://web.archive.org/)                                   |
+| `WayBackURLs`                                          | [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) |
+| `waybackurls -dates https://$TARGET > waybackurls.txt` | Crawling URLs from a domain with the date it was obtained.                           |
