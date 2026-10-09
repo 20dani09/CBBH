@@ -138,15 +138,4 @@ The `REST` ([Representational State Transfer](https://en.wikipedia.org/wiki/Repr
 curl http://83.136.254.47:35777/index.php?id=1
 ```
 
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 2- Introduction to Web Applications/4 - Back End Components/1 - Back End Servers.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 2- Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 2- Introduction to Web Applications/4 - Back End Components/3 - Databases.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 2- Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
-
-Referencias para las correcciones: [Modelo de datos y esquemas en MongoDB](https://www.mongodb.com/docs/manual/data-modeling/) · [Definición de REST por Roy Fielding](https://www-dev.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm).
+Referencias: [Modelo de datos y esquemas en MongoDB](https://www.mongodb.com/docs/manual/data-modeling/) · [Definición de REST por Roy Fielding](https://www-dev.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm).
