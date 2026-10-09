@@ -9,11 +9,3 @@ curl -s "https://crt.sh/?q=%25.example.com&output=json" | jq -r '.[].name_value'
 ```
 
 This command fetches JSON-formatted data from `crt.sh` for `example.com` (the `%` is a wildcard), extracts domain names using `jq`, removes any wildcard prefixes (`*.`) with `sed`, and finally sorts and deduplicates the results.
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 4- Information Gathering/7 - Certificate Transparency (CT) Logs.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
