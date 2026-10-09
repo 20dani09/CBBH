@@ -139,3 +139,9 @@ curl http://83.136.254.47:35777/index.php?id=1
 ```
 
 Referencias: [Modelo de datos y esquemas en MongoDB](https://www.mongodb.com/docs/manual/data-modeling/) · [Definición de REST por Roy Fielding](https://www-dev.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm).
+
+## Express y el archivo de aplicación
+
+_Express_ is a minimal and flexible _Node_._js_ web application _framework_ that provides a robust set of features for web and mobile applications. APIs.
+
+- server.js
