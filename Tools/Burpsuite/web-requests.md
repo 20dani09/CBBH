@@ -30,11 +30,3 @@ curl -X POST http://83.136.255.79:42835/ping -d "ip=1;cat flag.txt"
 ### Intercepting Responses
 
 In Burp, we can enable response interception by going to (`Proxy>Options`) and enabling `Intercept Response` under `Intercept Server Responses`
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 3- Using Web Proxies/1 - Web Requests.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
