@@ -29,3 +29,9 @@ ruby -run -ehttpd . -p8000
 ## Relacionado
 
 - [Peticiones HTTP con cURL](curl.md)
+
+## Servidor de archivos del cliente Python
+
+| Comando | Descripción |
+| --- | --- |
+| `sudo python3 -m http.server 8001`                                                                                       | Starts a python web server for quick hosting of files. Performed from a Linux-basd host.             |
