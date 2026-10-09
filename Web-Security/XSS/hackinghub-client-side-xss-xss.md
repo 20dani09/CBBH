@@ -77,11 +77,3 @@ test';alert(1)//
 ```
 
 ![Pasted image 20241120133508.png](../../assets/images/cce560c255708f432ff5.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/hackinghub/Client side/XSS/XSS.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
