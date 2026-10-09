@@ -19,11 +19,3 @@ Afterward, forward the request by clicking on `Forward`. Since we intercepted th
 ![Pasted image 20241007184247.png](../../assets/images/83451e168094587616f4.png)
 
 ![Pasted image 20241007184802.png](../../assets/images/71906201de87707d2cbc.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 14- Broken Authentication/2 - Authentication Bypass.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
