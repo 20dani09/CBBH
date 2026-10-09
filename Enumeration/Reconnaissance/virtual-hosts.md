@@ -19,3 +19,11 @@ gobuster vhost -u http://inlanefreight.htb:52938/ -w /usr/share/seclists/Discove
 ```
 
 ![Pasted image 20240926135013.png](../../assets/images/61b41523483cfb9e7d8a.png)
+
+## Virtual Hosts
+
+| **Resource/Command**                                                                                                                                                                       | **Description**                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| `curl -s http://192.168.10.10 -H "Host: randomtarget.com"`                                                                                                                                 | Changing the HOST HTTP header to request a specific domain.                |
+| `cat ./vhosts.list \| while read vhost;do echo "\n********\nFUZZING: ${vhost}\n********";curl -s -I http://<IP address> -H "HOST: ${vhost}.target.domain" \| grep "Content-Length: ";done` | Bruteforcing for possible virtual hosts on the target domain.              |
+| `ffuf -w ./vhosts -u http://<IP address> -H "HOST: FUZZ.target.domain" -fs 612`                                                                                                            | Bruteforcing for possible virtual hosts on the target domain using `ffuf`. |
