@@ -18,3 +18,37 @@ whatweb http://$IP
 - [Opciones y ejemplos de Nmap](../Tools/nmap-options.md)
 - [Gobuster](../Tools/gobuster.md)
 - [ffuf](../Tools/ffuf.md)
+
+## Resolución local de nombres
+
+Add the domain to /etc/hosts
+
+![Pasted image 20240418183513.png](../assets/images/b714ce2973ffe60d2f71.svg)
+
+```bash
+echo "10.10.11.105 horizontall.htb" | sudo tee -a /etc/hosts
+```
+
+## Consulta del HTML
+
+ctrl + u 
+
+```bash
+curl -s -X GET "http://$IP" | batcat -l html
+```
+
+## Herramientas del navegador
+
+![Pasted image 20240419145721.png](../assets/images/04d9a29dfaa90692b757.svg)
+
+## Consulta de rutas HTTP
+
+```bash
+nmap --script http-enum -p80 $IP
+```
+
+## Hosts virtuales con wfuzz
+
+```bash
+wfuzz -u http://office.paper -H "Host: FUZZ.office.paper" -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt --hh 199691
+```
