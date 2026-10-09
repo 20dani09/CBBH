@@ -29,11 +29,17 @@ Referencias de comandos y configuración.
 
 - [Requests a través de Burp Suite](burpsuite-python-proxy.md)
 - [cURL y peticiones HTTP](curl.md)
+- [ffuf: descubrimiento de contenido](ffuf.md)
 - [Git: consulta del historial](git-history.md)
+- [Gobuster: directorios y hosts virtuales](gobuster.md)
 - [Javascript deobfuscation](javascript-encoding.md)
+- [Kubernetes: kubectl y consulta de pods](kubectl.md)
 - [Servidores HTTP locales](local-http-servers.md)
 - [MongoDB: bases de datos, colecciones y BSON](mongodb.md)
-- [Nmap: referencia de opciones](nmap-options.md)
+- [MSSQL: conexión del cliente](mssql-client.md)
+- [MySQL: conexión y consultas](mysql.md)
+- [Nmap: opciones y ejemplos](nmap-options.md)
 - [OpenSSL: consulta de una conexión TLS](openssl-tls.md)
+- [Filtros de texto con expresiones regulares](text-filtering.md)
 
 [Inicio](../README.md)
