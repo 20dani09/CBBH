@@ -50,6 +50,7 @@ Fundamentos, vulnerabilidades y variantes.
 
 ## CMS
 
+- [Plataformas y servicios](CMS/platforms.md)
 - [WPScan](CMS/wpscan.md)
 
 ## Command-Injection
