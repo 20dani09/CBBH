@@ -31,11 +31,3 @@ curl -X POST http://94.237.59.166:46802/serial.php -d 'serial=7h15_15_a_s3cr37_m
 ```
 
 ![Pasted image 20240927165928.png](../../assets/images/63dd329c94e3007bb27c.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 6- Javascript Deobfuscation/1 - JS.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
