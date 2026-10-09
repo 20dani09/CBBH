@@ -1,6 +1,6 @@
 # Procesos locales y procfs
 
-Se ha extraído la consulta local de /proc. El bucle que utiliza una vulnerabilidad remota no se ha importado.
+Consulta de procesos locales y sus líneas de ejecución mediante procfs.
 
 I’d like to get a list of the processes running on the system. I can take a look at `/proc`, which has a directory for each process id (pid) currently running
 
@@ -20,10 +20,41 @@ In each numbered folder, the `cmdline` file has the command line user to run the
 cat /proc/self/cmdline | xxd
 ```
 
-## Procedencia
+## Observar cambios en los procesos
 
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| pentestNotes | Linux/Process Enumeration.md | ea46064dea8893ed6d54216151ae1bb0ef3661ba |
+```bash
+ps -eo command
+```
 
-[Índice de categoría](README.md) · [Inicio](../README.md)
+
+```bash
+cd /tmp
+touch procmon.sh
+chmod +x procmon.sh
+```
+
+```bash
+#!/bin/bash
+
+old_process=$(ps -eo command)
+
+while true; do 
+	new_process=$(ps -eo command)
+	diff <(echo "$old_process") <(echo "$new_process") | grep "[\>\<]" | grep -vE "procmon|command|kworker"
+	old_process=$new_process
+done
+```
+
+## pspy
+
+https://github.com/DominicBreuker/pspy
+
+## Cronjobs
+
+```bash
+crontab -l
+```
+
+## Relacionado
+
+- [Permisos y enlaces simbólicos](symlink-permissions.md)
