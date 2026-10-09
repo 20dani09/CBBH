@@ -61,11 +61,3 @@ JSON to XML
      <food>&food;</food>
  </root>
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | Owasp top 10/5 - baby WAFfles order.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
