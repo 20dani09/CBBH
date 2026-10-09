@@ -26,3 +26,19 @@
 
 - [Ejemplos de ffuf](../Enumeration/Reconnaissance/hackinghub-recon-ffuf.md)
 - [Hosts virtuales](../Enumeration/Reconnaissance/virtual-hosts.md)
+
+## Utilidades complementarias
+
+| Comando | Descripción |
+| --- | --- |
+|`sudo sh -c 'echo "SERVER_IP academy.htb" >> /etc/hosts'`|Add DNS entry|
+|`for i in $(seq 1 1000); do echo $i >> ids.txt; done`|Create Sequence Wordlist|
+|`curl http://admin.academy.htb:PORT/admin/admin.php -X POST -d 'id=key' -H 'Content-Type: application/x-www-form-urlencoded'`|curl w/ POST|
+
+`SERVER_IP`, `PORT` y `xxx` son marcadores. Los filtros de longitud deben corresponder a la respuesta que se quiere descartar en cada aplicación.
+
+## Consulta de hosts virtuales
+
+```bash
+ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -u https://nunchucks.htb -H 'Host: FUZZ.nunchucks.htb' -fs 30589
+```
