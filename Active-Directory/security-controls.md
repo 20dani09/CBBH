@@ -1,6 +1,6 @@
 # Estado de controles de seguridad
 
-Se conserva la consulta local de Defender, AppLocker y LanguageMode. Las funciones relacionadas con acceso a contraseñas de LAPS permanecen en la fuente.
+Consulta del estado de Defender, las políticas efectivas de AppLocker y el modo de lenguaje de PowerShell.
 
 ## Enumerating Security Controls
 
@@ -12,10 +12,7 @@ Se conserva la consulta local de Defender, AppLocker y LanguageMode. Las funcion
 | `Get-AppLockerPolicy -Effective \| select -ExpandProperty RuleCollections` | PowerShell cmd-let used to view `AppLocker` policies from a Windows-based host.                                                                                                              |
 | `$ExecutionContext.SessionState.LanguageMode`                              | PowerShell script used to discover the `PowerShell Language Mode` being used on a Windows-based host. Performed from a Windows-based host.                                                   |
 
-## Procedencia
+## Relacionado
 
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| notes | active-directory/enumerating-security-controls.md | b4c68ccbe43fe7218e8cee1a15bb7346a6c3bb89 |
-
-[Índice de categoría](README.md) · [Inicio](../README.md)
+- [Comandos locales de Windows](../Windows/local-commands.md)
+- [Herramientas de revisión de Active Directory](audit-tools.md)
