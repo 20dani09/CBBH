@@ -4,7 +4,7 @@
 
 ## UUID
 
-[Captura pendiente de revisión: Pasted image 20241203125113.png](../../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 UUID leak
 
@@ -17,11 +17,3 @@ UUID leak
 ## DELETE
 
 ![Pasted image 20241203130043.png](../../assets/images/18140a3ca6a1911bad69.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/hackinghub/Insecure Direct Object Reference (IDOR).md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
