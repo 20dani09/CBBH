@@ -5,10 +5,14 @@ Mis apuntes de seguridad web, redes, sistemas, herramientas y laboratorios. Cons
 ## Consulta rápida
 
 - [cURL y HTTP](Tools/curl.md)
-- [Opciones de Nmap](Tools/nmap-options.md)
+- [Nmap: opciones y ejemplos](Tools/nmap-options.md)
 - [Requests mediante Burp](Tools/burpsuite-python-proxy.md)
 - [Servidores HTTP locales](Tools/local-http-servers.md)
 - [Procesos en Linux](Linux/process-enumeration.md)
+- [Comandos locales de Windows](Windows/local-commands.md)
+- [Consultas de Active Directory](Active-Directory/native-queries.md)
+- [Protocolos de red](Network-Pentesting/README.md)
+- [ffuf](Tools/ffuf.md) y [Gobuster](Tools/gobuster.md)
 - [Laboratorios y writeups](Labs-and-Writeups/README.md)
 
 ## Temas
