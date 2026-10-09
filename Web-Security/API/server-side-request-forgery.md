@@ -38,11 +38,3 @@ Role(s) required: **None**
 ![Pasted image 20241002183732.png](../../assets/images/d3e240f25a3ea4b5a6d3.png)
 
 ![Pasted image 20241002183717.png](../../assets/images/fc5da8fa8e5d260c3084.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | API Attacks/7 - Server Side Request Forgery.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
