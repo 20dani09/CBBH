@@ -25,3 +25,84 @@
 - [Procesos y procfs](process-enumeration.md)
 - [Permisos y enlaces simbólicos](symlink-permissions.md)
 - [Herramientas de revisión](../Resources/system-audit-tools.md)
+
+## Conexiones y un servicio local
+
+```bash
+netstat -nat
+```
+
+To take an initial look,
+```bash
+curl localhost:8000
+```
+
+## Consulta de capabilities
+
+```bash
+getcap -r / 2>/dev/null
+```
+
+## Rutas de importación de Python
+
+When a Python script calls `import`, it has a series of paths it checks for the module. I can see this with the `sys` module:
+
+```bash
+python3 -c "import sys; print('\n'.join(sys.path))"
+```
+
+```bash
+echo $PYTHONPATH
+```
+
+## Permisos y cambio autorizado de usuario con sudo
+
+```bash
+sudo -l
+
+User ---- may run the following commands on ----:
+	(root) NOPASSWD: /usr/bin/perl
+```
+
+## Change user
+
+```bash
+sudo -u user -i
+```
+
+## Consulta de archivos con SUID
+
+```bash
+find \ -perm -4000 2>/dev/null
+```
+
+```bash
+find / -type f -perm /4000 2>/dev/null | grep -vE "snap|lib"
+```
+
+El primer ejemplo de `find` tiene un error de escapado y no apunta a `/`; se conserva como referencia incompleta. El segundo ejemplo sí recorre `/`.
+
+## Perfiles de AppArmor
+
+Apparmor is a way to define access controls much more granularly to various binaries in Linux. There are a series of binary-specific profiles in `/etc/apparmor.d`
+
+## Consulta del journal
+
+```bash
+sudo journalctl
+```
+
+## Indicios observados en un contenedor
+
+`ifconfig` shows an IP of 172.19.0.2 on eth0.
+
+There’s a `.dockerenv` file in the filesystem root
+
+## Interfaces, rutas y conexiones
+
+| Comando | Descripción |
+| --- | --- |
+| `ifconfig`                                                                                                                                                                                                         | Linux-based command that displays all current network configurations of a system.                                                                                                                                                                                       |
+| `netstat -r`                                                                                                                                                                                                       | Command used to display the routing table for all IPv4-based protocols.                                                                                                                                                                                                 |
+| `netstat -antp \| grep 1234`                                                                                                                                                                                       | Netstat option used to display network connections associated with a tunnel created. Using `grep` to filter based on local port `1234` .                                                                                                                                |
+| `netstat -antp`                                                                                                                                                                                                    | Used to display all (`-a`) active network connections with associated process IDs. `-t` displays only TCP connections.`-n` displays only numerical addresses. `-p` displays process IDs associated with each displayed connection.                                      |
