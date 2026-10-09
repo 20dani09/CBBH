@@ -39,11 +39,3 @@ nikto -h inlanefreight.com -Tuning b
 ![Pasted image 20240926135907.png](../../assets/images/2b510234b056061a60ab.png)
 
 ![Pasted image 20240926135929.png](../../assets/images/af0bdcd591bdc21b5706.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 4- Information Gathering/8 - Fingerprinting.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
