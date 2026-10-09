@@ -31,11 +31,3 @@ The command `dig axfr inlanefreight.htb @10.129.79.224` is asking the DNS server
 > Within the same zone record, identify the largest IP address allocated within the 10.10.200 IP range. Respond with the full IP address, eg 10.10.200.1
 
 ![Pasted image 20240925184612.png](../../assets/images/8b81ede9662f2d2aad97.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 4- Information Gathering/5 - Zone Transfers.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
