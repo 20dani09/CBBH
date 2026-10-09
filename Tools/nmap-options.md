@@ -1,4 +1,4 @@
-# Nmap: referencia de opciones
+# Nmap: opciones y ejemplos
 
 Opciones de Nmap: descubrimiento de hosts, puertos, servicios y formatos de salida.
 
@@ -50,5 +50,84 @@ Opciones de Nmap: descubrimiento de hosts, puertos, servicios y formatos de sali
 | `-v/-vv`                     | Displays verbose output during the scan.                     |
 | `--initial-rtt-timeout 50ms` | Sets the specified time value as initial RTT timeout.        |
 | `--max-rtt-timeout 100ms`    | Sets the specified time value as maximum RTT timeout.        |
-| `--min-rate 300`             | Sets the number of packets that will be sent simultaneously. |
+| `--min-rate 300`             | Sets a minimum sending rate in packets per second. |
 | `-T <0-5>`                   | Specifies the specific timing template.                      |
+
+## Inventario de puertos y servicios
+
+Nmap permite descubrir hosts, puertos, servicios y versiones, identificar sistemas operativos e interactuar con servicios mediante scripts. Los ejemplos usan `$IP` como dirección y `$ports` como lista de puertos; `hosts.lst` contiene una lista de hosts.
+
+```bash
+IP=10.10.10.10
+```
+
+### Puertos TCP
+
+```bash
+nmap -p- --open -sS --min-rate 5000 -v -n -Pn $IP
+```
+
+### Lista de puertos en una línea
+
+```bash
+sudo nmap -p- --open -sS --min-rate 5000 -n -Pn $IP | grep -oP '\d+(?=/tcp)' | paste -sd ',' -
+```
+
+`grep -oP '\d+(?=/tcp)'` extrae los números que preceden a `/tcp`; `paste -sd ',' -` los une con comas. `--open` incluye puertos abiertos o posiblemente abiertos. `-p-` cubre los puertos 1–65535. `--min-rate 5000` fija una tasa mínima deseada de 5000 paquetes por segundo, no el número de paquetes simultáneos. Una tasa excesiva puede reducir la precisión.
+
+`-sS` utiliza un escaneo SYN; el término «stealth» no garantiza que pase inadvertido. `-n` omite la resolución DNS y `-Pn` omite el descubrimiento de hosts.
+
+### Servicios y scripts
+
+```bash
+nmap -sCV -p$ports $IP
+```
+
+```bash
+nmap -sCV $IP -oN nmap -Pn -p80,443
+```
+
+`-sCV` combina `-sC` (scripts de la categoría default) y `-sV` (detección de versiones). `-V` muestra la versión de Nmap. El segundo ejemplo utiliza literalmente `-p80,443`; no sustituye esos puertos automáticamente por el resultado anterior. `-oN nmap` guarda la salida normal en el archivo indicado.
+
+![Ejemplo de extracción de puertos TCP](../assets/images/ca0518afdc67c87cb792.svg)
+
+### Descubrimiento de hosts
+
+```bash
+sudo nmap $IP/24 -sn -oA tnet | grep for | cut -d" " -f5
+```
+
+```bash
+sudo nmap -sn -oA tnet -iL hosts.lst | grep for | cut -d" " -f5
+```
+
+`-sn` descubre hosts sin escanear sus puertos. El primer ejemplo usa una red `/24`; el segundo lee `hosts.lst`.
+
+### UDP
+
+```bash
+sudo nmap $IP -F -sU
+```
+
+```bash
+sudo nmap -sU --top-ports 10 -sV $IP
+```
+
+UDP no establece el handshake de TCP. Un servicio puede responder o producir un error ICMP; la ausencia de respuesta puede dejar el puerto como abierto o filtrado. Los tiempos de espera y límites de respuestas pueden alargar el escaneo. `-F` reduce el conjunto de puertos; el otro ejemplo usa los diez más frecuentes.
+
+## Interpretación de versiones
+
+- [Paquetes OpenSSH en Ubuntu](https://packages.ubuntu.com/search?keywords=openssh-server).
+- [Paquetes Apache en Debian](https://packages.debian.org/search?keywords=apache2).
+
+El ejemplo contrasta OpenSSH asociado a Ubuntu 20.04 con Apache asociado a Debian 10 Buster y propone un contenedor como hipótesis. Las versiones, por sí solas, no confirman una distribución ni la presencia de un contenedor.
+
+## Referencias
+
+- [Técnicas de escaneo](https://nmap.org/book/man-port-scanning-techniques.html).
+- [Detección de versiones](https://nmap.org/book/man-version-detection.html).
+- [Tiempos y rendimiento](https://nmap.org/book/man-performance.html).
+
+## Relacionado
+
+- [Inventario de servicios web](../Enumeration/web-service-discovery.md)
