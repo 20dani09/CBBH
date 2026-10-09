@@ -27,6 +27,7 @@ DNS, reconocimiento web y fuentes de información.
 
 ## Apuntes
 
+- [Inventario de red y captura local](network-inventory.md)
 - [Servicios web: identificación e inventario](web-service-discovery.md)
 
 [Inicio](../README.md)
