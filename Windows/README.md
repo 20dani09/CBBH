@@ -1,10 +1,9 @@
 # Windows
 
-Catálogo de notas Windows pendientes de importar.
+Comandos locales y consultas del sistema.
 
-## Referencias
+## Apuntes
 
-- [Fuentes inventariadas: Windows](source-catalog.md)
-
+- [Cuenta local y arquitectura de proceso](local-commands.md)
 
 [Inicio](../README.md)
