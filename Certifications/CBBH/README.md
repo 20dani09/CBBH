@@ -1,8 +1,8 @@
 # CBBH
 
-Ruta de repaso basada en los módulos presentes en las fuentes. Los conceptos compartidos se encuentran por tema; los ejercicios mantienen su documento individual. No se deduce que todos estos módulos formen parte del temario vigente del examen.
+Índice de repaso. Los conceptos están organizados por tema y cada ejercicio tiene su propia nota.
 
-| Módulo de origen | Material compartido o ejercicio |
+| Módulo | Apuntes y ejercicios |
 | --- | --- |
 | 1- Web Requests | [curl](../../Tools/curl.md) |
 | 2- Introduction to Web Applications | [architecture](../../Web-Security/Fundamentals/architecture.md), [back-end-vulnerabilities-1-common-web-vulnerabilities](../../Web-Security/Fundamentals/back-end-vulnerabilities-1-common-web-vulnerabilities.md), [back-end-vulnerabilities-2-public-vulnerabilities](../../Web-Security/Fundamentals/back-end-vulnerabilities-2-public-vulnerabilities.md), [backend](../../Web-Security/Fundamentals/backend.md), [front-end-vulnerabilities-1-sensitive-data-exposure](../../Web-Security/Fundamentals/front-end-vulnerabilities-1-sensitive-data-exposure.md), [front-end-vulnerabilities-2-html-injection](../../Web-Security/Fundamentals/front-end-vulnerabilities-2-html-injection.md), [front-end-vulnerabilities-3-xss](../../Web-Security/Fundamentals/front-end-vulnerabilities-3-xss.md), [front-end-vulnerabilities-4-csrf](../../Web-Security/Fundamentals/front-end-vulnerabilities-4-csrf.md), [frontend](../../Web-Security/Fundamentals/frontend.md) |
