@@ -45,11 +45,3 @@ https://1972wbae.eu1.ctfio.com/csp-upload/uploads/602f749c1107ef174ee59af635d096
 ```html
 <script/src=https://1972wbae.eu1.ctfio.com/csp-upload/uploads/602f749c1107ef174ee59af635d096ef.js></script>
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/hackinghub/Client side/CSP.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
