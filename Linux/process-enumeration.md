@@ -58,3 +58,22 @@ crontab -l
 ## Relacionado
 
 - [Permisos y enlaces simbólicos](symlink-permissions.md)
+
+## Procesos de GNU Screen
+
+```bash
+ps -faux | grep screen
+```
+
+## Generación de volcados en un programa propio
+
+```c
+// Enable coredump generation
+    prctl(PR_SET_DUMPABLE, 1);
+```
+
+## Consulta de informes de fallo
+
+```bash
+ls -l /var/crash
+```
