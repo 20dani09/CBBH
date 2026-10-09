@@ -21,11 +21,3 @@
 ```
 
 ![Pasted image 20240927185229.png](../../assets/images/4e2ef65f3c52b8acbe43.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 7- XSS/2 - Phishing.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
