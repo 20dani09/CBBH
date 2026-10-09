@@ -1,6 +1,6 @@
-# Web Security
+# Seguridad web
 
-Fundamentos, técnicas y variantes existentes de CBBH; catálogo de fuentes externas pendientes.
+Fundamentos, vulnerabilidades y variantes.
 
 ## API
 
@@ -129,10 +129,5 @@ Fundamentos, técnicas y variantes existentes de CBBH; catálogo de fuentes exte
 - [Phishing](XSS/phishing.md)
 - [Session Hijacking](XSS/session-hijacking.md)
 - [XSS](XSS/xss.md)
-
-## Referencias
-
-- [Fuentes inventariadas: Web-Security](source-catalog.md)
-
 
 [Inicio](../README.md)
