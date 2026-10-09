@@ -1,0 +1,233 @@
+a,b,cosine,status
+CBBH/18- Web Service & API Attacks/2 - Command Injection.md,CBBH/3- Using Web Proxies/2 - Encoding - Decoding.md,1.0,candidate-not-auto-merged
+CBBH/API Attacks/10 - Unsafe Consumption of APIs.md,CBBH/BB/Hackerone/7 - Postbook.md,1.0,candidate-not-auto-merged
+CBBH/API Attacks/10 - Unsafe Consumption of APIs.md,CBBH/Owasp top 10/7 - BoneCheweCon.md,1.0,candidate-not-auto-merged
+CBBH/API Attacks/10 - Unsafe Consumption of APIs.md,CBBH/Owasp top 10/8 - Full Stack Conf.md,1.0,candidate-not-auto-merged
+CBBH/API Attacks/9 - Improper Inventory Management.md,CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,1.0,candidate-not-auto-merged
+CBBH/BB/Hackerone/7 - Postbook.md,CBBH/Owasp top 10/7 - BoneCheweCon.md,1.0,candidate-not-auto-merged
+CBBH/BB/Hackerone/7 - Postbook.md,CBBH/Owasp top 10/8 - Full Stack Conf.md,1.0,candidate-not-auto-merged
+CBBH/Owasp top 10/7 - BoneCheweCon.md,CBBH/Owasp top 10/8 - Full Stack Conf.md,1.0,candidate-not-auto-merged
+pentestNotes/Web/LFI/Cheatsheet.md,notes/web/lfi.md,0.9999,candidate-not-auto-merged
+pentestNotes/Web/SQLi/SQLmap.md,notes/web/sqlmap.md,0.9999,candidate-not-auto-merged
+pentestNotes/Active Directory/Pass the hash.md,notes/password-attacks/pass-the-hash.md,0.9979,candidate-not-auto-merged
+pentestNotes/Web/Command Injections/Cheatsheet.md,notes/web/command-injections.md,0.9794,candidate-not-auto-merged
+pentestNotes/Shells/TTY.md,notes/shells/tty.md,0.9652,candidate-not-auto-merged
+CBBH/11- File Upload/1 - File Upload.md,web/3 - Data Exfiltration/File Upload/File Upload.md,0.9462,candidate-not-auto-merged
+CBBH/API Attacks/10 - Unsafe Consumption of APIs.md,CBBH/API Attacks/9 - Improper Inventory Management.md,0.8928,candidate-not-auto-merged
+CBBH/API Attacks/10 - Unsafe Consumption of APIs.md,CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,0.8928,candidate-not-auto-merged
+CBBH/API Attacks/9 - Improper Inventory Management.md,CBBH/BB/Hackerone/7 - Postbook.md,0.8928,candidate-not-auto-merged
+CBBH/API Attacks/9 - Improper Inventory Management.md,CBBH/Owasp top 10/7 - BoneCheweCon.md,0.8928,candidate-not-auto-merged
+CBBH/API Attacks/9 - Improper Inventory Management.md,CBBH/Owasp top 10/8 - Full Stack Conf.md,0.8928,candidate-not-auto-merged
+CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,CBBH/BB/Hackerone/7 - Postbook.md,0.8928,candidate-not-auto-merged
+CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,CBBH/Owasp top 10/7 - BoneCheweCon.md,0.8928,candidate-not-auto-merged
+CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,CBBH/Owasp top 10/8 - Full Stack Conf.md,0.8928,candidate-not-auto-merged
+pentestNotes/Web/File Upload/Cheatsheet.md,notes/web/file-upload.md,0.8722,candidate-not-auto-merged
+pentestNotes/Web/XSS/Cheatsheet.md,notes/web/xss.md,0.8487,candidate-not-auto-merged
+pentestNotes/Web/SQLi/Cheatsheet.md,notes/web/sqli.md,0.8471,candidate-not-auto-merged
+CBBH/17-Session Security/4 - CSRF.md,pentestNotes/Web/CSRF/CSRF.md,0.8407,candidate-not-auto-merged
+CBBH/17-Session Security/7 - Skills Assessment.md,pentestNotes/Web/Session security/Session security.md,0.8291,candidate-not-auto-merged
+CBBH/15- Web Attacks/3 - XXE.md,notes/web/xxe.md,0.8187,candidate-not-auto-merged
+pentestNotes/Web/File Upload/File Upload.md,web/3 - Data Exfiltration/File Upload/File Upload.md,0.8146,candidate-not-auto-merged
+CBBH/11- File Upload/1 - File Upload.md,pentestNotes/Web/File Upload/File Upload.md,0.7859,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/1 - WSDL.md,CBBH/18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md,0.7614,candidate-not-auto-merged
+CBBH/14- Broken Authentication/4 - Skills Assessment.md,pentestNotes/Web/Authentication/Example.md,0.7596,candidate-not-auto-merged
+pentestNotes/PrivEsc/Linux/Port forwarding.md,notes/pivoting-tunneling-and-port-forwarding/chisel.md,0.7544,candidate-not-auto-merged
+CBBH/13- Login Brute Forcing/2 - Hydra.md,CBBH/13- Login Brute Forcing/4 - Skills Assessment.md,0.7364,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Law.md,writeups/Proving Grounds Practice/Linux/Intermediate/Plum.md,0.7291,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Plum.md,writeups/Proving Grounds Practice/Linux/Intermediate/Press.md,0.7182,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Law.md,writeups/Proving Grounds Practice/Linux/Intermediate/Press.md,0.7093,candidate-not-auto-merged
+pentestNotes/Web/SQLi/Oracle.md,pentestNotes/Web/SQLi/Time delays.md,0.7055,candidate-not-auto-merged
+pentestNotes/Web/Login brute forcing/Cheatsheet.md,notes/enumeration/80-http/README.md,0.7053,candidate-not-auto-merged
+CBBH/API Attacks/5 - Broken Function Level Authorization.md,CBBH/API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md,0.7022,candidate-not-auto-merged
+CBBH/Study/XSS.md,pentestNotes/Web/Links.md,0.6931,candidate-not-auto-merged
+pentestNotes/Web/Fuzzing.md,notes/enumeration/80-http/README.md,0.6926,candidate-not-auto-merged
+CBBH/5- Ffuf/3 - Parameter.md,CBBH/5- Ffuf/4 - Skills Assesment.md,0.6806,candidate-not-auto-merged
+CBBH/14- Broken Authentication/1 - Brute-Force Attacks.md,CBBH/14- Broken Authentication/4 - Skills Assessment.md,0.6648,candidate-not-auto-merged
+CBBH/16- File Inclusion/3 - RCE.md,pentestNotes/Web/LFI/Cheatsheet.md,0.6598,candidate-not-auto-merged
+CBBH/16- File Inclusion/3 - RCE.md,notes/web/lfi.md,0.6598,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Image.md,writeups/Proving Grounds Practice/Linux/Intermediate/Marshalled.md,0.6584,candidate-not-auto-merged
+CBBH/14- Broken Authentication/1 - Brute-Force Attacks.md,pentestNotes/Web/Authentication/Example.md,0.6562,candidate-not-auto-merged
+pentestNotes/PrivEsc/Windows/MS/MS11-046.md,pentestNotes/Windows/SmbFolder.md,0.6449,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md,pentestNotes/Web/API/Information Disclosure.md,0.629,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Image.md,writeups/Proving Grounds Practice/Linux/Intermediate/PC.md,0.6256,candidate-not-auto-merged
+pentestNotes/Web/XSS/Labs.md,web/1 - Foothold/XSS/Practitioner.md,0.6248,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/Codo.md,writeups/Proving Grounds Practice/Linux/Intermediate/Image.md,0.6176,candidate-not-auto-merged
+CBBH/API Attacks/9 - Improper Inventory Management.md,CBBH/Owasp top 10/3 - baby auth.md,0.6165,candidate-not-auto-merged
+CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,CBBH/Owasp top 10/3 - baby auth.md,0.6165,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/5 - LFI.md,CBBH/18- Web Service & API Attacks/7 - SSRF.md,0.6098,candidate-not-auto-merged
+CBBH/API Attacks/8 - Security Misconfiguration.md,CBBH/API Attacks/9 - Improper Inventory Management.md,0.6078,candidate-not-auto-merged
+CBBH/API Attacks/8 - Security Misconfiguration.md,CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,0.6078,candidate-not-auto-merged
+web/1 - Foothold/HTTP Smuggling/HTTP Smuggling.md,web/1 - Foothold/HTTP Smuggling/Practitioner.md,0.5903,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/6 - XSS.md,pentestNotes/Web/API/XSS.md,0.5856,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/Codo.md,writeups/Proving Grounds Practice/Linux/Intermediate/Marshalled.md,0.5851,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/7 - SSRF.md,pentestNotes/Web/API/SSRF.md,0.5826,candidate-not-auto-merged
+CBBH/5- Ffuf/3 - Parameter.md,pentestNotes/Web/Fuzzing.md,0.5796,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/ClamAV.md,writeups/Proving Grounds Practice/Linux/WriteUps/ClamAV.md,0.5793,candidate-not-auto-merged
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,CBBH/API Attacks/3 - Broken Object Property Level Authorization.md,0.5774,candidate-not-auto-merged
+CBBH/API Attacks/2 - Broken Authentication.md,CBBH/API Attacks/3 - Broken Object Property Level Authorization.md,0.5747,candidate-not-auto-merged
+CBBH/14- Broken Authentication/3 - Session Tokens.md,CBBH/18- Web Service & API Attacks/2 - Command Injection.md,0.5689,candidate-not-auto-merged
+CBBH/14- Broken Authentication/3 - Session Tokens.md,CBBH/3- Using Web Proxies/2 - Encoding - Decoding.md,0.5689,candidate-not-auto-merged
+pentestNotes/Web/SQLi/Blind SQLi.md,pentestNotes/Web/SQLi/Time delays.md,0.5689,candidate-not-auto-merged
+pentestNotes/CMS - Frameworks - Etc/Kubernetes.md,pentestNotes/PrivEsc/Linux/Kubernetes.md,0.5676,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Marshalled.md,writeups/Proving Grounds Practice/Linux/Intermediate/PC.md,0.5676,candidate-not-auto-merged
+web/1 - Foothold/XSS/Apprentice.md,web/1 - Foothold/XSS/Practitioner.md,0.5639,candidate-not-auto-merged
+CBBH/BB/hackinghub/Client side/RegEx.md,CBBH/BB/hackinghub/Recon/Shodan.md,0.5599,candidate-not-auto-merged
+pentestNotes/Windows/SCF file.md,pentestNotes/Windows/SmbFolder.md,0.5557,candidate-not-auto-merged
+CBBH/API Attacks/10 - Unsafe Consumption of APIs.md,CBBH/Owasp top 10/3 - baby auth.md,0.5504,candidate-not-auto-merged
+CBBH/BB/Hackerone/7 - Postbook.md,CBBH/Owasp top 10/3 - baby auth.md,0.5504,candidate-not-auto-merged
+CBBH/Owasp top 10/3 - baby auth.md,CBBH/Owasp top 10/7 - BoneCheweCon.md,0.5504,candidate-not-auto-merged
+CBBH/Owasp top 10/3 - baby auth.md,CBBH/Owasp top 10/8 - Full Stack Conf.md,0.5504,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/WriteUps/HelpDesk.md,writeups/Proving Grounds Practice/Windows/WriteUps/Internal.md,0.5455,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/Codo.md,writeups/Proving Grounds Practice/Linux/Intermediate/PC.md,0.5446,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/8 - XXE.md,pentestNotes/Web/API/XXE.md,0.5422,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Boolean.md,writeups/Proving Grounds Practice/Linux/Intermediate/Crane.md,0.5373,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/5 - LFI.md,pentestNotes/Web/API/LFI.md,0.5337,candidate-not-auto-merged
+CBBH/6- Javascript Deobfuscation/1 - JS.md,CBBH/6- Javascript Deobfuscation/2 - Skills Assessment.md,0.5326,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Cockpit.md,writeups/Proving Grounds Practice/Linux/Intermediate/Extplorer.md,0.5311,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/Astronaut.md,writeups/Proving Grounds Practice/Linux/Intermediate/Extplorer.md,0.5288,candidate-not-auto-merged
+pentestNotes/Web/SQLi/Blind SQLi.md,pentestNotes/Web/SQLi/Oracle.md,0.5287,candidate-not-auto-merged
+CBBH/2- Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md,CBBH/API Attacks/10 - Unsafe Consumption of APIs.md,0.5286,candidate-not-auto-merged
+CBBH/2- Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md,CBBH/BB/Hackerone/7 - Postbook.md,0.5286,candidate-not-auto-merged
+CBBH/2- Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md,CBBH/Owasp top 10/7 - BoneCheweCon.md,0.5286,candidate-not-auto-merged
+CBBH/2- Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md,CBBH/Owasp top 10/8 - Full Stack Conf.md,0.5286,candidate-not-auto-merged
+CBBH/14- Broken Authentication/4 - Skills Assessment.md,pentestNotes/Passwords Attacks/Generate password.md,0.5275,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/5 - Scanner.md,CBBH/API Attacks/9 - Improper Inventory Management.md,0.5243,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/5 - Scanner.md,CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,0.5243,candidate-not-auto-merged
+CBBH/7- XSS/3 - Session Hijacking.md,CBBH/7- XSS/4 - Skills Assessment.md,0.5242,candidate-not-auto-merged
+pentestNotes/Passwords Attacks/Generate password.md,pentestNotes/Web/Authentication/Example.md,0.5237,candidate-not-auto-merged
+pentestNotes/Shells/Windows.md,pentestNotes/Windows/Transfer Files.md,0.5236,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Intermediate/Hutch.md,writeups/Proving Grounds Practice/Windows/Intermediate/Kyoto.md,0.5231,candidate-not-auto-merged
+CBBH/4- Information Gathering/4 - Subdomains.md,pentestNotes/Web/2 - Information gathering.md,0.5216,candidate-not-auto-merged
+notes/write-ups/proving-grounds-play/funboxeasy.md,notes/write-ups/proving-grounds-play/funboxeasyenum.md,0.5168,candidate-not-auto-merged
+notes/enumeration/nmap/nmap.md,notes/write-ups/proving-grounds-play/sosimple.md,0.5149,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/2 - Command Injection.md,CBBH/BB/hackinghub/Reverse Proxy.md,0.5145,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/2 - Encoding - Decoding.md,CBBH/BB/hackinghub/Reverse Proxy.md,0.5145,candidate-not-auto-merged
+CBBH/5- Ffuf/4 - Skills Assesment.md,pentestNotes/Web/Fuzzing.md,0.5138,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/WriteUps/BillyBoss.md,writeups/Proving Grounds Practice/Windows/WriteUps/Jacko.md,0.5046,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Intermediate/AuthBy.md,writeups/Proving Grounds Practice/Windows/WriteUps/AuthBy.md,0.5033,candidate-not-auto-merged
+CBBH/8- SQLi/3 - Writing Files.md,CBBH/8- SQLi/4 - Skills Assessment.md,0.5026,candidate-not-auto-merged
+notes/active-directory/dcsync.md,notes/active-directory/trust-relationships-child-parent-trusts.md,0.5023,candidate-not-auto-merged
+notes/write-ups/proving-grounds-play/sunset-midnight.md,notes/write-ups/proving-grounds-play/tre.md,0.4989,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Intermediate/Access.md,writeups/Proving Grounds Practice/Windows/Intermediate/Hutch.md,0.4976,candidate-not-auto-merged
+CBBH/14- Broken Authentication/1 - Brute-Force Attacks.md,pentestNotes/Passwords Attacks/ffuf.md,0.4969,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Easy/HelpDesk.md,writeups/Proving Grounds Practice/Windows/Easy/Kevin.md,0.4967,candidate-not-auto-merged
+pentestNotes/PrivEsc/Windows/MS/MS11-046.md,pentestNotes/Windows/SCF file.md,0.4916,candidate-not-auto-merged
+CBBH/5- Ffuf/2 - Domain Fuzzing.md,CBBH/5- Ffuf/4 - Skills Assesment.md,0.4907,candidate-not-auto-merged
+pentestNotes/Web/XXE/Cheatsheet.md,notes/web/xxe.md,0.4891,candidate-not-auto-merged
+CBBH/14- Broken Authentication/3 - Session Tokens.md,CBBH/Owasp top 10/3 - baby auth.md,0.4875,candidate-not-auto-merged
+CBBH/API Attacks/2 - Broken Authentication.md,CBBH/API Attacks/4 - Unrestricted Resource Consuption.md,0.4855,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Intermediate/Access.md,writeups/Proving Grounds Practice/Windows/Intermediate/Kyoto.md,0.4852,candidate-not-auto-merged
+CBBH/8- SQLi/2 - Reading Files.md,CBBH/8- SQLi/4 - Skills Assessment.md,0.4848,candidate-not-auto-merged
+pentestNotes/CMS - Frameworks - Etc/git.md,web/Burp scanner.md,0.4838,candidate-not-auto-merged
+CBBH/16- File Inclusion/2 - File Disclosure.md,notes/web/lfi.md,0.4837,candidate-not-auto-merged
+CBBH/16- File Inclusion/2 - File Disclosure.md,pentestNotes/Web/LFI/Cheatsheet.md,0.4835,candidate-not-auto-merged
+CBBH/BB/hackinghub/Client side/XSS/Blind.md,CBBH/BB/hackinghub/Client side/XSS/XSS.md,0.4827,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Educated.md,writeups/Proving Grounds Practice/Linux/Intermediate/Extplorer.md,0.4776,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/WriteUps/HelpDesk.md,writeups/Proving Grounds Practice/Windows/WriteUps/Kevin.md,0.4758,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md,CBBH/Vulnyx/Bola.md,0.4748,candidate-not-auto-merged
+pentestNotes/PrivEsc/Linux/AutoEnums.md,pentestNotes/PrivEsc/Windows/AutoEnums.md,0.4728,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/Astronaut.md,writeups/Proving Grounds Practice/Linux/Intermediate/Cockpit.md,0.4726,candidate-not-auto-merged
+CBBH/7- XSS/4 - Skills Assessment.md,pentestNotes/Web/XSS/XSS.md,0.4722,candidate-not-auto-merged
+CBBH/BB/Bug bounty.md,CBBH/BB/hackinghub/Recon/DNS.md,0.4722,candidate-not-auto-merged
+CBBH/2- Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md,CBBH/API Attacks/9 - Improper Inventory Management.md,0.4719,candidate-not-auto-merged
+CBBH/2- Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md,CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,0.4719,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/2 - Command Injection.md,CBBH/Owasp top 10/1 - looking glass.md,0.4718,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/2 - Encoding - Decoding.md,CBBH/Owasp top 10/1 - looking glass.md,0.4718,candidate-not-auto-merged
+CBBH/API Attacks/3 - Broken Object Property Level Authorization.md,CBBH/API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md,0.4679,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/Hub.md,writeups/Proving Grounds Practice/Linux/Intermediate/Law.md,0.4666,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/5 - Scanner.md,CBBH/API Attacks/10 - Unsafe Consumption of APIs.md,0.465,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/5 - Scanner.md,CBBH/BB/Hackerone/7 - Postbook.md,0.465,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/5 - Scanner.md,CBBH/Owasp top 10/7 - BoneCheweCon.md,0.465,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/5 - Scanner.md,CBBH/Owasp top 10/8 - Full Stack Conf.md,0.465,candidate-not-auto-merged
+CBBH/1- Web Requests/HTTP Methods/4 - CRUD API.md,pentestNotes/Web/1 - Web Requests.md,0.4639,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Easy/Internal.md,writeups/Proving Grounds Practice/Windows/Intermediate/Kyoto.md,0.4618,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/RubyDome.md,writeups/Proving Grounds Practice/Linux/Intermediate/PyLoader.md,0.46,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/Astronaut.md,writeups/Proving Grounds Practice/Linux/Easy/GLPI.md,0.4582,candidate-not-auto-merged
+notes/active-directory/petit-potam.md,notes/active-directory/trust-relationships-child-parent-trusts.md,0.4571,candidate-not-auto-merged
+CBBH/BB/hackinghub/XXE.md,pentestNotes/Web/XXE/XXE.md,0.4555,candidate-not-auto-merged
+CBBH/15- Web Attacks/1 - HTTP Verb Tampering.md,CBBH/18- Web Service & API Attacks/2 - Command Injection.md,0.4548,candidate-not-auto-merged
+CBBH/15- Web Attacks/1 - HTTP Verb Tampering.md,CBBH/3- Using Web Proxies/2 - Encoding - Decoding.md,0.4548,candidate-not-auto-merged
+notes/write-ups/proving-grounds-play/funboxeasyenum.md,notes/write-ups/proving-grounds-play/tre.md,0.4541,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/Hub.md,writeups/Proving Grounds Practice/Linux/Intermediate/Plum.md,0.4529,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/Hub.md,writeups/Proving Grounds Practice/Linux/Intermediate/Press.md,0.4507,candidate-not-auto-merged
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,CBBH/API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md,0.4503,candidate-not-auto-merged
+pentestNotes/Passwords Attacks/ffuf.md,pentestNotes/Web/Authentication/Example.md,0.4483,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/1 - WSDL.md,CBBH/Vulnyx/Bola.md,0.4479,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Pelican.md,writeups/Proving Grounds Practice/Linux/WriteUps/Pelican.md,0.4479,candidate-not-auto-merged
+pentestNotes/Shells/Reverse Shells.md,pentestNotes/Shells/bash script.md,0.4476,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/RubyDome.md,writeups/Proving Grounds Practice/Linux/WriteUps/RubyDome.md,0.4476,candidate-not-auto-merged
+pentestNotes/PrivEsc/Linux/AutoEnums.md,pentestNotes/PrivEsc/Windows/winpeas.md,0.4473,candidate-not-auto-merged
+CBBH/10- Command Injections/1 - Explotation.md,pentestNotes/Web/Command Injections/Cheatsheet.md,0.4464,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/2 - Command Injection.md,CBBH/API Attacks/9 - Improper Inventory Management.md,0.4429,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/2 - Command Injection.md,CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,0.4429,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/2 - Encoding - Decoding.md,CBBH/API Attacks/9 - Improper Inventory Management.md,0.4429,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/2 - Encoding - Decoding.md,CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,0.4429,candidate-not-auto-merged
+notes/active-directory/nopac.md,notes/active-directory/petit-potam.md,0.4418,candidate-not-auto-merged
+pentestNotes/PrivEsc/Windows/MS/MS11-046.md,pentestNotes/PrivEsc/Windows/MS/Windows Exploits.md,0.4417,candidate-not-auto-merged
+notes/active-directory/acl-enumeration-and-tactics.md,notes/active-directory/enumerating-by-living-off-the-land.md,0.4387,candidate-not-auto-merged
+CBBH/10- Command Injections/1 - Explotation.md,notes/web/command-injections.md,0.4383,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md,pentestNotes/Web/API/SOAP.md,0.4376,candidate-not-auto-merged
+pentestNotes/CMS - Frameworks - Etc/PHP.md,pentestNotes/Shells/bash script.md,0.4365,candidate-not-auto-merged
+notes/active-directory/trust-relationships-child-parent-trusts.md,notes/active-directory/trust-relationships-cross-forest.md,0.4358,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/WriteUps/Internal.md,writeups/Proving Grounds Practice/Windows/WriteUps/Kevin.md,0.4346,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Easy/Internal.md,writeups/Proving Grounds Practice/Windows/Easy/Kevin.md,0.4344,candidate-not-auto-merged
+notes/file-transfers/file-transfers.md,notes/file-transfers/linux-file-transfers.md,0.4343,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md,CBBH/18- Web Service & API Attacks/7 - SSRF.md,0.4337,candidate-not-auto-merged
+CBBH/14- Broken Authentication/3 - Session Tokens.md,CBBH/API Attacks/9 - Improper Inventory Management.md,0.4331,candidate-not-auto-merged
+CBBH/14- Broken Authentication/3 - Session Tokens.md,CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,0.4331,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/1 - Web Requests.md,CBBH/BB/Hackerone/5 - Photo Gallery.md,0.4327,candidate-not-auto-merged
+CBBH/15- Web Attacks/3 - XXE.md,pentestNotes/Web/XXE/Cheatsheet.md,0.4311,candidate-not-auto-merged
+CBBH/5- Ffuf/1 - Basic Fuzzing.md,CBBH/5- Ffuf/4 - Skills Assesment.md,0.4303,candidate-not-auto-merged
+CBBH/API Attacks/10 - Unsafe Consumption of APIs.md,CBBH/BB/hackinghub/Client side/Open Redirect.md,0.4297,candidate-not-auto-merged
+CBBH/BB/Hackerone/7 - Postbook.md,CBBH/BB/hackinghub/Client side/Open Redirect.md,0.4297,candidate-not-auto-merged
+CBBH/BB/hackinghub/Client side/Open Redirect.md,CBBH/Owasp top 10/7 - BoneCheweCon.md,0.4297,candidate-not-auto-merged
+CBBH/BB/hackinghub/Client side/Open Redirect.md,CBBH/Owasp top 10/8 - Full Stack Conf.md,0.4297,candidate-not-auto-merged
+CBBH/API Attacks/3 - Broken Object Property Level Authorization.md,CBBH/API Attacks/5 - Broken Function Level Authorization.md,0.4293,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/4 - File Upload.md,pentestNotes/Web/API/File Upload.md,0.4284,candidate-not-auto-merged
+CBBH/BB/hackinghub/Client side/XSS/Blind.md,CBBH/BB/hackinghub/Client side/XSS/Filter evasion.md,0.4282,candidate-not-auto-merged
+CBBH/7- XSS/3 - Session Hijacking.md,pentestNotes/Web/XSS/Cheatsheet.md,0.4277,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md,CBBH/18- Web Service & API Attacks/4 - File Upload.md,0.4274,candidate-not-auto-merged
+CBBH/Study/API Testing.md,web/2 - Privilege Escalation/API Testing/API Testing.md,0.4271,candidate-not-auto-merged
+notes/active-directory/kerberoasting.md,notes/active-directory/trust-relationships-cross-forest.md,0.4266,candidate-not-auto-merged
+notes/password-attacks/linux/README.md,notes/password-attacks/passwords-attacks.md,0.4242,candidate-not-auto-merged
+CBBH/7- XSS/3 - Session Hijacking.md,pentestNotes/Web/XSS/XSS.md,0.4216,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Easy/HelpDesk.md,writeups/Proving Grounds Practice/Windows/WriteUps/HelpDesk.md,0.4213,candidate-not-auto-merged
+notes/active-directory/miscellaneous-misconfigurations.md,notes/active-directory/trust-relationships-cross-forest.md,0.4201,candidate-not-auto-merged
+CBBH/15- Web Attacks/4 - Skills Assessment.md,CBBH/API Attacks/9 - Improper Inventory Management.md,0.4199,candidate-not-auto-merged
+CBBH/15- Web Attacks/4 - Skills Assessment.md,CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,0.4199,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Easy/Kevin.md,writeups/Proving Grounds Practice/Windows/WriteUps/Kevin.md,0.4191,candidate-not-auto-merged
+CBBH/API Attacks/9 - Improper Inventory Management.md,CBBH/Owasp top 10/6 - bay todo or no todo.md,0.4183,candidate-not-auto-merged
+CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,CBBH/Owasp top 10/6 - bay todo or no todo.md,0.4183,candidate-not-auto-merged
+CBBH/API Attacks/9 - Improper Inventory Management.md,CBBH/BB/hackinghub/Reverse Proxy.md,0.418,candidate-not-auto-merged
+CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,CBBH/BB/hackinghub/Reverse Proxy.md,0.418,candidate-not-auto-merged
+CBBH/4- Information Gathering/9 - Web Crawling.md,pentestNotes/Web/2 - Information gathering.md,0.4172,candidate-not-auto-merged
+CBBH/8- SQLi/1 - SQLi.md,pentestNotes/Web/SQLi/SQLi.md,0.4157,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/5 - Scanner.md,web/CBBH/SQL Injection.md,0.4153,candidate-not-auto-merged
+CBBH/8- SQLi/1 - SQLi.md,CBBH/8- SQLi/4 - Skills Assessment.md,0.4144,candidate-not-auto-merged
+notes/active-directory/asrep-roasting.md,notes/active-directory/kerberoasting.md,0.4129,candidate-not-auto-merged
+pentestNotes/CMS - Frameworks - Etc/Tomcat.md,notes/shells/README.md,0.4126,candidate-not-auto-merged
+notes/active-directory/miscellaneous-misconfigurations.md,notes/active-directory/trust-relationships-child-parent-trusts.md,0.4123,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/4 - Intruder.md,CBBH/API Attacks/9 - Improper Inventory Management.md,0.4118,candidate-not-auto-merged
+CBBH/3- Using Web Proxies/4 - Intruder.md,CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,0.4118,candidate-not-auto-merged
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,CBBH/API Attacks/5 - Broken Function Level Authorization.md,0.4115,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Readys.md,writeups/Proving Grounds Practice/Linux/WriteUps/Readys.md,0.4112,candidate-not-auto-merged
+notes/write-ups/proving-grounds-play/dc-2.md,notes/write-ups/proving-grounds-play/sunset-midnight.md,0.4109,candidate-not-auto-merged
+CBBH/API Attacks/9 - Improper Inventory Management.md,CBBH/BB/hackinghub/Client side/Open Redirect.md,0.4108,candidate-not-auto-merged
+CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,CBBH/BB/hackinghub/Client side/Open Redirect.md,0.4108,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md,CBBH/18- Web Service & API Attacks/5 - LFI.md,0.4107,candidate-not-auto-merged
+CBBH/API Attacks/10 - Unsafe Consumption of APIs.md,CBBH/API Attacks/8 - Security Misconfiguration.md,0.4106,candidate-not-auto-merged
+CBBH/API Attacks/8 - Security Misconfiguration.md,CBBH/BB/Hackerone/7 - Postbook.md,0.4106,candidate-not-auto-merged
+CBBH/API Attacks/8 - Security Misconfiguration.md,CBBH/Owasp top 10/7 - BoneCheweCon.md,0.4106,candidate-not-auto-merged
+CBBH/API Attacks/8 - Security Misconfiguration.md,CBBH/Owasp top 10/8 - Full Stack Conf.md,0.4106,candidate-not-auto-merged
+CBBH/5- Ffuf/1 - Basic Fuzzing.md,CBBH/5- Ffuf/2 - Domain Fuzzing.md,0.4102,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/GLPI.md,writeups/Proving Grounds Practice/Linux/Intermediate/Extplorer.md,0.4082,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/Astronaut.md,writeups/Proving Grounds Practice/Linux/Intermediate/Educated.md,0.4081,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Intermediate/DVR4.md,writeups/Proving Grounds Practice/Windows/WriteUps/DVR4.md,0.4068,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Windows/Intermediate/Hutch.md,writeups/Proving Grounds Practice/Windows/WriteUps/Hutch.md,0.4068,candidate-not-auto-merged
+CBBH/18- Web Service & API Attacks/4 - File Upload.md,CBBH/18- Web Service & API Attacks/7 - SSRF.md,0.4048,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Easy/GLPI.md,writeups/Proving Grounds Practice/Linux/WriteUps/GLPI.md,0.4036,candidate-not-auto-merged
+writeups/Proving Grounds Practice/Linux/Intermediate/Cockpit.md,writeups/Proving Grounds Practice/Linux/Intermediate/Educated.md,0.4026,candidate-not-auto-merged
+CBBH/API Attacks/9 - Improper Inventory Management.md,web/1 - Foothold/HTTP Smuggling/Examples.md,0.4023,candidate-not-auto-merged
+CBBH/Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,web/1 - Foothold/HTTP Smuggling/Examples.md,0.4023,candidate-not-auto-merged
+pentestNotes/Web/Links.md,web/Burp scanner.md,0.4013,candidate-not-auto-merged
+CBBH/5- Ffuf/3 - Parameter.md,notes/enumeration/80-http/README.md,0.4001,candidate-not-auto-merged

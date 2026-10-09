@@ -1,0 +1,125 @@
+source,line,type,fingerprint
+CBBH/13- Login Brute Forcing/2 - Hydra.md,26,assigned-secret,3280754a22dd
+CBBH/13- Login Brute Forcing/3 - Custom Wordlists.md,21,assigned-secret,a5bfab01e153
+CBBH/15- Web Attacks/2 - IDOR.md,27,email,dffa4123c958
+CBBH/17-Session Security/4 - CSRF.md,9,email,20f252136825
+CBBH/17-Session Security/4 - CSRF.md,30,email,c432636424e4
+CBBH/17-Session Security/4 - CSRF.md,31,email,20f252136825
+CBBH/17-Session Security/7 - Skills Assessment.md,7,email,4ca73254fb44
+CBBH/4- Information Gathering/14 - Skills Assessment.md,26,email,e92bc96c8dcc
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,16,jwt,935b5b17b3af
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,22,jwt,935b5b17b3af
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,38,jwt,935b5b17b3af
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,50,jwt,935b5b17b3af
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,9,email,b775d5054983
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,31,email,b775d5054983
+CBBH/API Attacks/11 - Skills Assessment.md,9,email,e3029182c859
+CBBH/API Attacks/11 - Skills Assessment.md,10,email,d7d1424b0e05
+CBBH/API Attacks/11 - Skills Assessment.md,11,email,f1bc1170d692
+CBBH/API Attacks/11 - Skills Assessment.md,12,email,786caea78aaa
+CBBH/API Attacks/11 - Skills Assessment.md,13,email,bdb68860694d
+CBBH/API Attacks/11 - Skills Assessment.md,23,email,786caea78aaa
+CBBH/API Attacks/2 - Broken Authentication.md,4,email,4c77c953c04d
+CBBH/API Attacks/3 - Broken Object Property Level Authorization.md,15,jwt,78cf06718b1d
+CBBH/API Attacks/3 - Broken Object Property Level Authorization.md,32,jwt,77565e2810db
+CBBH/API Attacks/3 - Broken Object Property Level Authorization.md,42,jwt,77565e2810db
+CBBH/API Attacks/4 - Unrestricted Resource Consuption.md,6,email,5fee9caceb2c
+CBBH/API Attacks/5 - Broken Function Level Authorization.md,13,jwt,a7140f825a87
+CBBH/API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md,4,jwt,b5f327217eda
+CBBH/BB/hackinghub/Account Takeover.md,104,email,41f577fb1f00
+CBBH/BB/hackinghub/Client side/CSRF.md,41,email,9e9f9b4f7f33
+CBBH/BB/hackinghub/JWT.md,26,jwt,6dcee686d688
+CBBH/BB/hackinghub/JWT.md,43,jwt,32ce3572117e
+CBBH/BB/hackinghub/Login Pages - Authentication.md,79,email,315c52bcc7bc
+CBBH/BB/hackinghub/Login Pages - Authentication.md,79,email,d0f4e97bb016
+CBBH/BB/hackinghub/Open Redirect.md,37,email,693463cf65c9
+CBBH/BB/hackinghub/XXE.md,80,email,b2bc02bb6fc3
+CBBH/BB/hackinghub/XXE.md,84,email,4bd9b8751e5f
+CBBH/BB/hackinghub/XXE.md,88,email,f660ab912ec1
+CBBH/NahamStore.md,2,email,f660ab912ec1
+CBBH/Owasp top 10/4 - baby nginxatsu.md,18,email,b7ac18d39f77
+CBBH/Study/GraphQL API vulnerabilities.md,62,email,349bd384e201
+CBBH/Vulnyx/Bola.md,28,assigned-secret,9e9cdb49b869
+CBBH/Vulnyx/Bola.md,28,email,54ade7d20696
+CBBH/Vulnyx/Bola.md,59,email,48d04af924a9
+pentestNotes/CMS - Frameworks - Etc/Bludit CMS.md,76,assigned-secret,680d76c498e6
+pentestNotes/CMS - Frameworks - Etc/Json web Tokens.md,18,jwt,ea8f707caff9
+pentestNotes/CMS - Frameworks - Etc/Json web Tokens.md,10,email,eba133c49f40
+pentestNotes/CMS - Frameworks - Etc/Magento.md,20,email,2a539d652026
+pentestNotes/CMS - Frameworks - Etc/NibbleBlog.md,10,assigned-secret,de40198b9bae
+pentestNotes/CMS - Frameworks - Etc/Rocket chat.md,36,email,c9464e2c123d
+pentestNotes/CMS - Frameworks - Etc/Rocket chat.md,36,email,5705a83e5179
+pentestNotes/CMS - Frameworks - Etc/Voting System.md,19,assigned-secret,207f932ee67b
+pentestNotes/CMS - Frameworks - Etc/Voting System.md,63,assigned-secret,447ece4cfc25
+pentestNotes/Passwords Attacks/Hydra.md,7,assigned-secret,a5bfab01e153
+pentestNotes/PrivEsc/Linux/SSH tunneling.md,4,email,9aadeccb20d5
+pentestNotes/PrivEsc/Linux/SSH.md,29,email,193df3c15670
+pentestNotes/Services/80 - HTTP.md,80,jwt,af6a1f5df3a9
+pentestNotes/Web/Authentication/Authentication.md,48,assigned-secret,6a0e83b71055
+pentestNotes/Web/CSRF/CSRF.md,13,email,20f252136825
+pentestNotes/Web/CSRF/CSRF.md,32,email,c432636424e4
+pentestNotes/Web/CSRF/CSRF.md,33,email,20f252136825
+pentestNotes/Web/Login brute forcing/Cheatsheet.md,10,assigned-secret,33065d681884
+pentestNotes/Web/SQLi/Blind SQLi.md,57,assigned-secret,13c6954bfbb5
+pentestNotes/Web/SQLi/Blind SQLi.md,122,assigned-secret,13c6954bfbb5
+pentestNotes/Web/SQLi/Oracle.md,86,assigned-secret,ee4bef78c899
+pentestNotes/Web/SQLi/Subverting Query Logic.md,6,assigned-secret,a43c6e9b6d4f
+pentestNotes/Web/SQLi/Time delays.md,62,assigned-secret,ee4bef78c899
+pentestNotes/Web/Session security/Session security.md,13,email,c432636424e4
+pentestNotes/Web/XSS/Labs.md,74,email,f660ab912ec1
+notes/active-directory/credentialed-enumeration.md,7,email,33694b113085
+notes/active-directory/privileged-access.md,9,assigned-secret,6d085d06487c
+notes/active-directory/trust-relationships-child-parent-trusts.md,25,email,22c29aad5dbe
+notes/enumeration/1433-mssql.md,20,assigned-secret,45206b0bcf49
+notes/enumeration/80-http/README.md,48,assigned-secret,33065d681884
+notes/password-attacks/linux/pass-the-ticket.md,50,email,0216085bd8e2
+notes/password-attacks/linux/pass-the-ticket.md,76,email,a2509f32bb66
+notes/password-attacks/windows/pass-the-ticket-windows.md,21,email,c07c36f3e3d1
+notes/password-attacks/windows/pass-the-ticket-windows.md,58,email,fee0473b4649
+notes/password-attacks/windows/pass-the-ticket-windows.md,64,email,fee0473b4649
+notes/password-attacks/windows/pass-the-ticket-windows.md,75,email,fee0473b4649
+notes/password-attacks/windows/pass-the-ticket-windows.md,81,email,9c8585288123
+notes/write-ups/proving-grounds-play/dc-2.md,64,assigned-secret,07b88134c282
+notes/write-ups/proving-grounds-play/dc-2.md,64,assigned-secret,dd8d9e620f29
+notes/write-ups/proving-grounds-play/funboxeasy.md,77,email,5edfa2692bda
+notes/write-ups/proving-grounds-play/infosecprep.md,76,private-key,0b165534833a
+notes/write-ups/proving-grounds-play/seppuku.md,91,private-key,80bced7804b8
+notes/write-ups/vulnhub/dc-9.md,290,assigned-secret,8b8912d5748f
+notes/write-ups/vulnhub/dc-9.md,307,assigned-secret,742ca96c2eb5
+notes/write-ups/vulnhub/dc-9.md,308,assigned-secret,f21c6ce477d0
+writeups/Proving Grounds Practice/Linux/Easy/GLPI.md,99,assigned-secret,cc12a73ddc0f
+writeups/Proving Grounds Practice/Linux/Intermediate/Educated.md,52,email,5edfa2692bda
+writeups/Proving Grounds Practice/Linux/Intermediate/Educated.md,53,email,059620e50d1f
+writeups/Proving Grounds Practice/Linux/Intermediate/Payday.md,31,email,fbd1ad256e1f
+writeups/Proving Grounds Practice/Linux/WriteUps/Boolean.md,113,email,24d2a3940963
+writeups/Proving Grounds Practice/Linux/WriteUps/Extplorer.md,214,assigned-secret,32ed52b33699
+writeups/Proving Grounds Practice/Linux/WriteUps/Fail.md,318,assigned-secret,80201bc03798
+writeups/Proving Grounds Practice/Linux/WriteUps/Fail.md,358,assigned-secret,80201bc03798
+writeups/Proving Grounds Practice/Linux/WriteUps/Hub.md,48,email,f660ab912ec1
+writeups/Proving Grounds Practice/Linux/WriteUps/Nukem.md,121,assigned-secret,115c93ded190
+writeups/Proving Grounds Practice/Linux/WriteUps/Nukem.md,163,assigned-secret,4947cfd502d5
+writeups/Proving Grounds Practice/Linux/WriteUps/Nukem.md,228,assigned-secret,5d0a722bc779
+writeups/Proving Grounds Practice/Linux/WriteUps/Pelican.md,137,assigned-secret,f9788f9c08af
+writeups/Proving Grounds Practice/Linux/WriteUps/Plum.md,92,assigned-secret,d4074fbbcffe
+writeups/Proving Grounds Practice/Linux/WriteUps/Snookums.md,143,assigned-secret,e8ec2e2d1373
+writeups/Proving Grounds Practice/Linux/WriteUps/Snookums.md,239,assigned-secret,91adfeaf1ae4
+writeups/Proving Grounds Practice/Linux/WriteUps/Snookums.md,278,assigned-secret,ed7b753e6375
+writeups/Proving Grounds Practice/Linux/WriteUps/ZenPhoto.md,244,email,76b5df24809e
+writeups/Proving Grounds Practice/Windows/Intermediate/Billyboss.md,13,assigned-secret,2fcd4805624d
+writeups/Proving Grounds Practice/Windows/WriteUps/Access.md,237,email,d4e924b2949f
+writeups/Proving Grounds Practice/Windows/WriteUps/Access.md,245,email,d4e924b2949f
+writeups/Proving Grounds Practice/Windows/WriteUps/DVR4.md,153,private-key,03d104c669e3
+writeups/Proving Grounds Practice/Windows/WriteUps/DVR4.md,420,assigned-secret,80201bc03798
+writeups/Proving Grounds Practice/Windows/WriteUps/DVR4.md,256,email,b356eff7a322
+writeups/Proving Grounds Practice/Windows/WriteUps/Hutch.md,142,assigned-secret,874e9590f58d
+writeups/Proving Grounds Practice/Windows/WriteUps/Hutch.md,116,email,c86cd292c8d3
+writeups/Proving Grounds Practice/Windows/WriteUps/Hutch.md,238,email,23d4876222f3
+writeups/Proving Grounds Practice/Windows/WriteUps/Kevin.md,253,assigned-secret,e8e20499c2ca
+writeups/Proving Grounds Practice/Windows/WriteUps/Nara.md,162,email,e094bcadf961
+writeups/Proving Grounds Practice/Windows/WriteUps/Nara.md,169,email,e094bcadf961
+web/2 - Privilege Escalation/Access Control/Access Control.md,8,email,f660ab912ec1
+web/2 - Privilege Escalation/CSRF/Cross-site request forgery.md,13,email,880b37593762
+web/2 - Privilege Escalation/CSRF/Cross-site request forgery.md,35,email,880b37593762
+web/2 - Privilege Escalation/Json Web Tokens/JWT.md,18,jwt,1d3801ecca56
+web/3 - Data Exfiltration/OS Command Injection/OS Command Injection.md,20,email,2e73abcfc002
+web/3 - Data Exfiltration/OS Command Injection/OS Command Injection.md,42,email,2e73abcfc002

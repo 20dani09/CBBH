@@ -1,0 +1,40 @@
+source,type,occurrences,detail
+CBBH/1- Web Requests/HTTP Methods/3 - POST.md,redaction-session-cookie,3,Literal value replaced; no value retained in audit output.
+CBBH/1- Web Requests/HTTP Methods/1 - HTTP Methods and Codes.md,technical-prose,2,Corrected response body wording for HEAD and create/replace semantics for PUT; RFC 9110.
+CBBH/2- Introduction to Web Applications/4 - Back End Components/3 - Databases.md,technical-prose,1,Removed universal claim that NoSQL has no schemas or relationships.
+CBBH/14- Broken Authentication/1 - Brute-Force Attacks.md,redaction-session-cookie,2,Literal value replaced; no value retained in audit output.
+CBBH/14- Broken Authentication/4 - Skills Assessment.md,redaction-session-cookie,2,Literal value replaced; no value retained in audit output.
+CBBH/15- Web Attacks/2 - IDOR.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/17-Session Security/4 - CSRF.md,redaction-email,3,Literal value replaced; no value retained in audit output.
+CBBH/17-Session Security/6 - Open Redirect.md,redaction-token,2,Literal value replaced; no value retained in audit output.
+CBBH/17-Session Security/7 - Skills Assessment.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/19- Hacking WordPress/WPScan.md,redaction-api-token,2,Literal value replaced; no value retained in audit output.
+CBBH/4- Information Gathering/14 - Skills Assessment.md,redaction-api-key-in-prose,1,Literal value replaced; no value retained in audit output.
+CBBH/4- Information Gathering/14 - Skills Assessment.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/9- SQLmap/1 - SQLmap.md,redaction-csrf-token,1,Literal value replaced; no value retained in audit output.
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,redaction-jwt,4,Literal value replaced; no value retained in audit output.
+CBBH/API Attacks/1 - Broken Object Level Authorization.md,redaction-email,2,Literal value replaced; no value retained in audit output.
+CBBH/API Attacks/11 - Skills Assessment.md,redaction-email,6,Literal value replaced; no value retained in audit output.
+CBBH/API Attacks/2 - Broken Authentication.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/API Attacks/3 - Broken Object Property Level Authorization.md,redaction-jwt,3,Literal value replaced; no value retained in audit output.
+CBBH/API Attacks/4 - Unrestricted Resource Consuption.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/API Attacks/5 - Broken Function Level Authorization.md,redaction-jwt,1,Literal value replaced; no value retained in audit output.
+CBBH/API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md,redaction-jwt,1,Literal value replaced; no value retained in audit output.
+CBBH/BB/hackinghub/Account Takeover.md,redaction-token,1,Literal value replaced; no value retained in audit output.
+CBBH/BB/hackinghub/Account Takeover.md,redaction-bearer,1,Literal value replaced; no value retained in audit output.
+CBBH/BB/hackinghub/Account Takeover.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/BB/hackinghub/Client side/CSRF.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/BB/hackinghub/Client side/postMessage.md,redaction-json-token,1,Literal authentication token replaced.
+CBBH/BB/hackinghub/JWT.md,redaction-jwt,2,Literal value replaced; no value retained in audit output.
+CBBH/BB/hackinghub/Login Pages - Authentication.md,redaction-email,2,Literal value replaced; no value retained in audit output.
+CBBH/BB/hackinghub/Open Redirect.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/BB/hackinghub/XXE.md,redaction-email,3,Literal value replaced; no value retained in audit output.
+CBBH/NahamStore.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/Owasp top 10/4 - baby nginxatsu.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/Study/API Testing.md,redaction-session-cookie,3,Literal value replaced; no value retained in audit output.
+CBBH/Study/API Testing.md,redaction-token,1,Literal value replaced; no value retained in audit output.
+CBBH/Study/GraphQL API vulnerabilities.md,redaction-email,1,Literal value replaced; no value retained in audit output.
+CBBH/Vulnyx/Bola.md,redaction-email,2,Literal value replaced; no value retained in audit output.
+pentestNotes/Web/Javascript deobfuscation.md,corrected-benign-url,3,Restored the missing slash in the HTTP URL scheme; no other command argument changed.
+pentestNotes/Web/1 - Web Requests.md,redaction-session-cookie,1,Literal value replaced; no value retained in audit output.
+pentestNotes/Burpsuite/Python code.md,corrected-benign-code,2,Fixed malformed proxy dictionary and module method; no exploitation code changed.

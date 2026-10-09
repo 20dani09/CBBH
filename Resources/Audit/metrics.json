@@ -1,0 +1,41 @@
+{
+  "original_files": 1168,
+  "original_markdown": 548,
+  "original_images": 586,
+  "unique_original_images": 583,
+  "final_documents": 293,
+  "existing_cbbh_sources_retained": 176,
+  "source_statuses": {
+    "merged-existing": 18,
+    "migrated-existing": 158,
+    "catalogued-only": 230,
+    "imported-safe": 5,
+    "corrected-safe": 1,
+    "partial-extraction": 5,
+    "merged-safe": 1,
+    "lab-catalogued-only": 126,
+    "held-sensitive": 3,
+    "duplicate-record": 1
+  },
+  "final_images": 261,
+  "exact_duplicate_groups": 10,
+  "extra_exact_copies": 12,
+  "semantic_candidate_pairs": 232,
+  "applied_canonical_merges": 4,
+  "canonical_merge_sources": 19,
+  "redacted_occurrences": 61,
+  "ocr_statuses": {
+    "ocr-ok": 583
+  },
+  "external_statuses": {
+    "not-requested": 270,
+    "network-unverified": 69,
+    "reachable": 176,
+    "requires-authentication": 1,
+    "missing": 1,
+    "http-unverified": 1,
+    "reachable-verified-by-web": 2
+  },
+  "external_documentation_urls": 520,
+  "all_url_literals_in_sources": 1253
+}

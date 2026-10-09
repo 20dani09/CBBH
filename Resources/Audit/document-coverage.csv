@@ -1,0 +1,549 @@
+source_repo,source_path,words,lines,fenced_blocks,external_urls,status
+CBBH,1- Web Requests/HTTP Fundamentals/1 - HTTP.md,88,27,2,0,merged-existing
+CBBH,1- Web Requests/HTTP Fundamentals/2 - HTTPS.md,26,14,1,1,merged-existing
+CBBH,1- Web Requests/HTTP Fundamentals/3 - HTTP Requests and Responses.md,18,14,1,0,merged-existing
+CBBH,1- Web Requests/HTTP Fundamentals/4 - HTTP Headers.md,218,23,1,5,merged-existing
+CBBH,1- Web Requests/HTTP Methods/1 - HTTP Methods and Codes.md,332,34,0,4,merged-existing
+CBBH,1- Web Requests/HTTP Methods/2 - GET.md,46,27,5,2,merged-existing
+CBBH,1- Web Requests/HTTP Methods/3 - POST.md,55,31,5,0,merged-existing
+CBBH,1- Web Requests/HTTP Methods/4 - CRUD API.md,163,39,4,0,merged-existing
+CBBH,10- Command Injections/1 - Explotation.md,127,19,0,0,migrated-existing
+CBBH,10- Command Injections/2 - Filter Evasion.md,188,113,18,1,migrated-existing
+CBBH,10- Command Injections/3 - Skills Assessment.md,99,46,4,0,migrated-existing
+CBBH,11- File Upload/1 - File Upload.md,300,64,3,2,migrated-existing
+CBBH,11- File Upload/2 - File Upload.md,255,173,9,2,migrated-existing
+CBBH,12- Server-Side Attacks/1 - SSRF.md,78,33,3,2,migrated-existing
+CBBH,12- Server-Side Attacks/2 - SSTI.md,92,53,7,2,migrated-existing
+CBBH,12- Server-Side Attacks/3 - SSI.md,72,9,1,2,migrated-existing
+CBBH,12- Server-Side Attacks/4 - XSLT Injection.md,91,20,3,0,migrated-existing
+CBBH,12- Server-Side Attacks/5 - Skills Assessment.md,94,40,2,1,migrated-existing
+CBBH,13- Login Brute Forcing/1 - Brute Force Attacks.md,91,12,0,2,migrated-existing
+CBBH,13- Login Brute Forcing/2 - Hydra.md,55,30,2,0,migrated-existing
+CBBH,13- Login Brute Forcing/3 - Custom Wordlists.md,84,34,6,1,migrated-existing
+CBBH,13- Login Brute Forcing/4 - Skills Assessment.md,25,14,2,0,migrated-existing
+CBBH,14- Broken Authentication/1 - Brute-Force Attacks.md,152,40,6,5,migrated-existing
+CBBH,14- Broken Authentication/2 - Authentication Bypass.md,167,21,0,0,migrated-existing
+CBBH,14- Broken Authentication/3 - Session Tokens.md,16,11,1,0,migrated-existing
+CBBH,14- Broken Authentication/4 - Skills Assessment.md,105,33,3,2,migrated-existing
+CBBH,15- Web Attacks/1 - HTTP Verb Tampering.md,19,12,0,0,migrated-existing
+CBBH,15- Web Attacks/2 - IDOR.md,55,31,2,0,migrated-existing
+CBBH,15- Web Attacks/3 - XXE.md,311,107,11,2,migrated-existing
+CBBH,15- Web Attacks/4 - Skills Assessment.md,41,26,1,0,migrated-existing
+CBBH,16- File Inclusion/1 - Functions.md,22,21,0,0,migrated-existing
+CBBH,16- File Inclusion/2 - File Disclosure.md,104,22,0,0,migrated-existing
+CBBH,16- File Inclusion/3 - RCE.md,217,34,0,0,migrated-existing
+CBBH,16- File Inclusion/4 - Skills Assessment.md,39,29,4,4,migrated-existing
+CBBH,17-Session Security/1 - Session Hijacking.md,27,6,0,0,migrated-existing
+CBBH,17-Session Security/2 - Session Fixation.md,42,5,0,0,migrated-existing
+CBBH,17-Session Security/3 - XSS.md,73,47,7,2,migrated-existing
+CBBH,17-Session Security/4 - CSRF.md,177,56,3,2,migrated-existing
+CBBH,17-Session Security/5 - XSS & CSRF chain.md,36,18,1,0,migrated-existing
+CBBH,17-Session Security/6 - Open Redirect.md,10,12,2,2,migrated-existing
+CBBH,17-Session Security/7 - Skills Assessment.md,24,20,2,2,migrated-existing
+CBBH,18- Web Service & API Attacks/1 - WSDL.md,196,71,6,4,migrated-existing
+CBBH,18- Web Service & API Attacks/2 - Command Injection.md,4,4,0,0,migrated-existing
+CBBH,18- Web Service & API Attacks/3 - Information Disclosure (with a twist of SQLi).md,34,25,4,3,migrated-existing
+CBBH,18- Web Service & API Attacks/4 - File Upload.md,11,14,2,1,migrated-existing
+CBBH,18- Web Service & API Attacks/5 - LFI.md,11,12,2,2,migrated-existing
+CBBH,18- Web Service & API Attacks/6 - XSS.md,7,8,1,0,migrated-existing
+CBBH,18- Web Service & API Attacks/7 - SSRF.md,24,19,3,3,migrated-existing
+CBBH,18- Web Service & API Attacks/8 - XXE.md,21,13,1,0,migrated-existing
+CBBH,18- Web Service & API Attacks/9 - Web Service & API Attacks - Skills Assessment.md,34,18,1,3,migrated-existing
+CBBH,19- Hacking WordPress/WPScan.md,110,73,7,9,migrated-existing
+CBBH,2- Introduction to Web Applications/1 - Introduction to Web Applications/1 - Introduction.md,844,73,0,0,merged-existing
+CBBH,2- Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md,441,65,0,0,merged-existing
+CBBH,2- Introduction to Web Applications/1 - Introduction to Web Applications/3 - Front End vs Back End.md,224,22,0,0,merged-existing
+CBBH,2- Introduction to Web Applications/2 - Front End Components/1 - HTML.md,75,17,1,0,merged-existing
+CBBH,2- Introduction to Web Applications/2 - Front End Components/2 - CSS.md,77,21,1,0,merged-existing
+CBBH,2- Introduction to Web Applications/2 - Front End Components/3 - Javascript.md,133,25,2,6,merged-existing
+CBBH,2- Introduction to Web Applications/3 - Front End Vulnerabilities/1 - Sensitive Data Exposure.md,66,21,1,2,migrated-existing
+CBBH,2- Introduction to Web Applications/3 - Front End Vulnerabilities/2 - HTML Injection.md,94,30,2,2,migrated-existing
+CBBH,2- Introduction to Web Applications/3 - Front End Vulnerabilities/3 - XSS.md,72,14,1,0,migrated-existing
+CBBH,2- Introduction to Web Applications/3 - Front End Vulnerabilities/4 - CSRF.md,120,11,1,0,migrated-existing
+CBBH,2- Introduction to Web Applications/4 - Back End Components/1 - Back End Servers.md,35,16,0,4,merged-existing
+CBBH,2- Introduction to Web Applications/4 - Back End Components/2 - Web Servers.md,10,8,0,0,merged-existing
+CBBH,2- Introduction to Web Applications/4 - Back End Components/3 - Databases.md,393,67,5,9,merged-existing
+CBBH,2- Introduction to Web Applications/4 - Back End Components/4 - Development Frameworks & APIs.md,278,45,2,10,merged-existing
+CBBH,2- Introduction to Web Applications/5 - Back End Vulnerabilities/1 - Common Web Vulnerabilities.md,634,43,1,4,migrated-existing
+CBBH,2- Introduction to Web Applications/5 - Back End Vulnerabilities/2 - Public Vulnerabilities.md,289,22,0,7,migrated-existing
+CBBH,3- Using Web Proxies/1 - Web Requests.md,81,33,2,3,migrated-existing
+CBBH,3- Using Web Proxies/2 - Encoding - Decoding.md,4,4,0,0,migrated-existing
+CBBH,3- Using Web Proxies/3 - Proxychains.md,102,26,4,3,migrated-existing
+CBBH,3- Using Web Proxies/4 - Intruder.md,34,30,2,0,migrated-existing
+CBBH,3- Using Web Proxies/5 - Scanner.md,16,10,0,0,migrated-existing
+CBBH,3- Using Web Proxies/6 - Skills Assesment.md,240,29,2,0,migrated-existing
+CBBH,4- Information Gathering/1 - Introduction.md,642,27,0,0,migrated-existing
+CBBH,4- Information Gathering/10 - Search Engine Discovery.md,180,17,0,0,migrated-existing
+CBBH,4- Information Gathering/11 - Web Archives.md,191,12,0,0,migrated-existing
+CBBH,4- Information Gathering/12 - Automating Recon.md,181,8,0,5,migrated-existing
+CBBH,4- Information Gathering/14 - Skills Assessment.md,157,42,3,2,migrated-existing
+CBBH,4- Information Gathering/2 - WHOIS.md,50,16,1,0,migrated-existing
+CBBH,4- Information Gathering/3 - DNS.md,291,44,2,0,migrated-existing
+CBBH,4- Information Gathering/4 - Subdomains.md,348,28,1,0,migrated-existing
+CBBH,4- Information Gathering/5 - Zone Transfers.md,293,34,2,1,migrated-existing
+CBBH,4- Information Gathering/6 - Virtual Hosts.md,230,23,2,2,migrated-existing
+CBBH,4- Information Gathering/7 - Certificate Transparency (CT) Logs.md,121,11,1,1,migrated-existing
+CBBH,4- Information Gathering/8 - Fingerprinting.md,223,44,3,0,migrated-existing
+CBBH,4- Information Gathering/9 - Web Crawling.md,336,62,4,2,migrated-existing
+CBBH,5- Ffuf/1 - Basic Fuzzing.md,56,33,5,4,migrated-existing
+CBBH,5- Ffuf/2 - Domain Fuzzing.md,61,24,3,3,migrated-existing
+CBBH,5- Ffuf/3 - Parameter.md,57,23,4,2,migrated-existing
+CBBH,5- Ffuf/4 - Skills Assesment.md,118,55,7,5,migrated-existing
+CBBH,6- Javascript Deobfuscation/1 - JS.md,133,36,5,2,migrated-existing
+CBBH,6- Javascript Deobfuscation/2 - Skills Assessment.md,125,36,4,1,migrated-existing
+CBBH,7- XSS/1 - XSS.md,72,43,2,3,migrated-existing
+CBBH,7- XSS/2 - Phishing.md,51,23,3,2,migrated-existing
+CBBH,7- XSS/3 - Session Hijacking.md,38,32,3,6,migrated-existing
+CBBH,7- XSS/4 - Skills Assessment.md,13,12,1,1,migrated-existing
+CBBH,8- SQLi/1 - SQLi.md,88,56,8,3,migrated-existing
+CBBH,8- SQLi/2 - Reading Files.md,79,36,5,0,migrated-existing
+CBBH,8- SQLi/3 - Writing Files.md,174,37,3,3,migrated-existing
+CBBH,8- SQLi/4 - Skills Assessment.md,73,41,6,0,migrated-existing
+CBBH,9- SQLmap/1 - SQLmap.md,246,76,12,11,migrated-existing
+CBBH,9- SQLmap/2 - OS Explotation.md,59,31,5,1,migrated-existing
+CBBH,9- SQLmap/3 - Skills Assessment.md,66,11,1,1,migrated-existing
+CBBH,API Attacks/1 - Broken Object Level Authorization.md,130,65,8,4,migrated-existing
+CBBH,API Attacks/10 - Unsafe Consumption of APIs.md,4,4,0,0,migrated-existing
+CBBH,API Attacks/11 - Skills Assessment.md,78,58,4,0,migrated-existing
+CBBH,API Attacks/2 - Broken Authentication.md,25,9,1,1,migrated-existing
+CBBH,API Attacks/3 - Broken Object Property Level Authorization.md,106,51,7,3,migrated-existing
+CBBH,API Attacks/4 - Unrestricted Resource Consuption.md,61,11,1,2,migrated-existing
+CBBH,API Attacks/5 - Broken Function Level Authorization.md,35,17,2,1,migrated-existing
+CBBH,API Attacks/6 - Unrestricted Access to Sensitive Business Flows.md,28,8,1,1,migrated-existing
+CBBH,API Attacks/7 - Server Side Request Forgery.md,81,43,3,0,migrated-existing
+CBBH,API Attacks/8 - Security Misconfiguration.md,18,16,1,0,migrated-existing
+CBBH,API Attacks/9 - Improper Inventory Management.md,7,6,0,0,migrated-existing
+CBBH,Attacking GraphQL/1 - Information Disclosure.md,87,15,0,2,migrated-existing
+CBBH,Attacking GraphQL/2- Insecure Direct Object Reference (IDOR).md,7,9,0,0,migrated-existing
+CBBH,BB/Bug bounty.md,16,11,1,1,migrated-existing
+CBBH,BB/Hackerone/1 - A little something to get you started.md,26,21,1,0,migrated-existing
+CBBH,BB/Hackerone/2 - Micro-CMS v1.md,31,21,0,0,migrated-existing
+CBBH,BB/Hackerone/3 - Micro-CMS v2.md,118,54,7,0,migrated-existing
+CBBH,BB/Hackerone/4 - Encrypted Pastebin.md,26,19,2,1,migrated-existing
+CBBH,BB/Hackerone/5 - Photo Gallery.md,97,17,4,1,migrated-existing
+CBBH,BB/Hackerone/6 -  Cody's First Blog.md,20,23,4,1,migrated-existing
+CBBH,BB/Hackerone/7 - Postbook.md,4,4,0,0,migrated-existing
+CBBH,BB/hackinghub/403 & 401 Bypasases.md,66,57,8,3,migrated-existing
+CBBH,BB/hackinghub/Account Takeover.md,152,108,11,5,migrated-existing
+CBBH,BB/hackinghub/Client side/CORS.md,82,13,1,1,migrated-existing
+CBBH,BB/hackinghub/Client side/CSP.md,58,47,7,6,migrated-existing
+CBBH,BB/hackinghub/Client side/CSRF.md,162,86,4,4,migrated-existing
+CBBH,BB/hackinghub/Client side/Open Redirect.md,14,7,0,0,migrated-existing
+CBBH,BB/hackinghub/Client side/RegEx.md,2,5,0,1,migrated-existing
+CBBH,BB/hackinghub/Client side/XSS/Blind.md,14,10,2,0,migrated-existing
+CBBH,BB/hackinghub/Client side/XSS/Filter evasion.md,35,34,6,0,migrated-existing
+CBBH,BB/hackinghub/Client side/XSS/Markdown.md,10,13,2,1,migrated-existing
+CBBH,BB/hackinghub/Client side/XSS/XSS.md,86,79,12,0,migrated-existing
+CBBH,BB/hackinghub/Client side/postMessage.md,163,94,6,3,migrated-existing
+CBBH,BB/hackinghub/File Uploads.md,210,87,6,6,migrated-existing
+CBBH,BB/hackinghub/Insecure Direct Object Reference (IDOR).md,24,20,0,0,migrated-existing
+CBBH,BB/hackinghub/JWT.md,70,51,5,1,migrated-existing
+CBBH,BB/hackinghub/Local File Read.md,4,6,1,1,migrated-existing
+CBBH,BB/hackinghub/Login Pages - Authentication.md,191,113,6,5,migrated-existing
+CBBH,BB/hackinghub/Open Redirect.md,62,43,5,6,migrated-existing
+CBBH,BB/hackinghub/RCE.md,116,62,9,4,migrated-existing
+CBBH,BB/hackinghub/Recon/Certificate Transparency.md,57,23,5,5,migrated-existing
+CBBH,BB/hackinghub/Recon/DNS.md,81,34,5,4,migrated-existing
+CBBH,BB/hackinghub/Recon/Google Dorking.md,13,11,2,0,migrated-existing
+CBBH,BB/hackinghub/Recon/HTTPx.md,18,5,1,0,migrated-existing
+CBBH,BB/hackinghub/Recon/Shodan.md,2,4,0,1,migrated-existing
+CBBH,BB/hackinghub/Recon/Subfinder.md,15,15,2,2,migrated-existing
+CBBH,BB/hackinghub/Recon/ffuf.md,480,135,6,7,migrated-existing
+CBBH,BB/hackinghub/Recon/gitTools.md,12,11,2,2,migrated-existing
+CBBH,BB/hackinghub/Reverse Proxy.md,16,16,1,1,migrated-existing
+CBBH,BB/hackinghub/SQL Injection.md,161,52,10,5,migrated-existing
+CBBH,BB/hackinghub/SSRF.md,206,125,18,15,migrated-existing
+CBBH,BB/hackinghub/XXE.md,223,129,12,11,migrated-existing
+CBBH,NahamStore.md,77,55,5,5,migrated-existing
+CBBH,Owasp top 10/1 - looking glass.md,10,10,1,0,migrated-existing
+CBBH,Owasp top 10/10 - baby breaking grad.md,12,8,1,0,migrated-existing
+CBBH,Owasp top 10/2 - sanitize.md,10,8,1,0,migrated-existing
+CBBH,Owasp top 10/3 - baby auth.md,14,12,1,0,migrated-existing
+CBBH,Owasp top 10/4 - baby nginxatsu.md,27,19,3,0,migrated-existing
+CBBH,Owasp top 10/5 - baby WAFfles order.md,131,64,4,0,migrated-existing
+CBBH,Owasp top 10/6 - bay todo or no todo.md,14,12,1,0,migrated-existing
+CBBH,Owasp top 10/7 - BoneCheweCon.md,4,4,0,0,migrated-existing
+CBBH,Owasp top 10/8 - Full Stack Conf.md,4,4,0,0,migrated-existing
+CBBH,Owasp top 10/9 - baby website rick.md,102,75,3,1,migrated-existing
+CBBH,Study/API Testing.md,126,52,5,4,migrated-existing
+CBBH,Study/Authetication.md,14,10,0,0,migrated-existing
+CBBH,Study/CORS.md,294,107,9,10,migrated-existing
+CBBH,Study/File upload.md,13,12,2,0,migrated-existing
+CBBH,Study/GraphQL API vulnerabilities.md,287,72,4,1,migrated-existing
+CBBH,Study/Path traversal.md,168,33,5,5,migrated-existing
+CBBH,Study/XSS.md,45,56,9,6,migrated-existing
+CBBH,Vulnyx/Bola.md,108,88,10,7,migrated-existing
+CBBH,Vulnyx/Jarjar.md,14,17,1,0,migrated-existing
+CBBH,Vulnyx/Vulnyx.md,17,13,0,0,migrated-existing
+pentestNotes,Active Directory/Enum.md,113,73,11,2,catalogued-only
+pentestNotes,Active Directory/Kerberoasting.md,254,39,5,2,catalogued-only
+pentestNotes,Active Directory/Pass the hash.md,229,75,9,2,catalogued-only
+pentestNotes,Active Directory/PrivEsc.md,49,38,5,1,catalogued-only
+pentestNotes,Android/Android emulator.md,62,40,5,2,imported-safe
+pentestNotes,Android/apk.md,30,20,3,0,imported-safe
+pentestNotes,Burpsuite/Python code.md,42,26,3,1,corrected-safe
+pentestNotes,CMS - Frameworks - Etc/ActiveMQ.md,173,44,4,1,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Adminer.md,140,63,8,2,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Adobe ColdFusion 8.md,115,40,2,4,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Bludit CMS.md,307,106,3,4,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Dolibarr.md,42,25,2,3,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/GdbServer.md,67,25,3,1,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/HttpFileServer.md,26,21,2,2,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Joomla.md,52,31,2,2,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Json web Tokens.md,38,25,2,2,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Kubernetes.md,134,51,8,7,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Laravel.md,22,15,0,2,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Magento.md,377,135,4,7,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Mailtrail.md,180,18,0,2,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Mongo.md,56,22,2,0,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Moodle.md,119,35,2,2,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/NVMS-1000.md,30,12,1,1,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/NibbleBlog.md,86,27,1,1,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/NodeJs.md,60,28,3,1,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Nostromo.md,347,91,7,4,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/PHP.md,23,13,1,1,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/PRTG Network Monitor.md,113,30,2,2,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Pandora FMS.md,33,18,2,3,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Rocket chat.md,487,73,4,6,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Strapi.md,30,12,1,2,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Tomcat.md,181,76,5,3,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Voting System.md,343,232,3,6,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/WebMin MiniServ.md,346,109,2,3,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/Wordpress.md,52,36,6,5,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/git.md,29,26,3,1,catalogued-only
+pentestNotes,CMS - Frameworks - Etc/pfsense.md,54,21,1,2,catalogued-only
+pentestNotes,Linux/Process Enumeration.md,132,37,4,1,partial-extraction
+pentestNotes,Linux/Symlinks.md,98,29,3,0,partial-extraction
+pentestNotes,Passwords Attacks/Generate password.md,72,20,2,0,catalogued-only
+pentestNotes,Passwords Attacks/Hashcat.md,79,20,1,0,catalogued-only
+pentestNotes,Passwords Attacks/Hydra.md,30,17,2,0,catalogued-only
+pentestNotes,Passwords Attacks/Password crack.md,2,4,0,1,catalogued-only
+pentestNotes,Passwords Attacks/ffuf.md,18,6,1,1,catalogued-only
+pentestNotes,PrivEsc/Linux/Abusing Curl.md,94,60,9,2,catalogued-only
+pentestNotes,PrivEsc/Linux/AutoEnums.md,4,9,0,3,catalogued-only
+pentestNotes,PrivEsc/Linux/CVEs/Baron Samedit -CVE-2021-3156.md,38,13,1,1,catalogued-only
+pentestNotes,PrivEsc/Linux/CVEs/CUPS - CVE-2012-5519.md,9,13,1,2,catalogued-only
+pentestNotes,PrivEsc/Linux/CVEs/DirtyPipe - CVE-2022-0847.md,2,4,0,1,catalogued-only
+pentestNotes,PrivEsc/Linux/CVEs/Polkit - CVE-2021-3650.md,38,17,2,1,catalogued-only
+pentestNotes,PrivEsc/Linux/CVEs/Pwnkit - CVE-2021-4034.md,17,12,1,3,catalogued-only
+pentestNotes,PrivEsc/Linux/CVEs/Sudo version - CVE-2019-14287.md,81,22,4,0,catalogued-only
+pentestNotes,PrivEsc/Linux/Capabilities.md,21,15,2,1,catalogued-only
+pentestNotes,PrivEsc/Linux/Core Dump.md,33,23,4,0,catalogued-only
+pentestNotes,PrivEsc/Linux/Decompression.md,77,45,6,0,catalogued-only
+pentestNotes,PrivEsc/Linux/Docker container.md,70,26,3,1,catalogued-only
+pentestNotes,PrivEsc/Linux/Journalctl.md,76,22,2,1,catalogued-only
+pentestNotes,PrivEsc/Linux/Kubernetes.md,331,98,9,2,catalogued-only
+pentestNotes,PrivEsc/Linux/Nginx.md,73,49,5,0,catalogued-only
+pentestNotes,PrivEsc/Linux/PHP config files.md,5,5,0,0,catalogued-only
+pentestNotes,PrivEsc/Linux/Port forwarding.md,63,39,5,3,catalogued-only
+pentestNotes,PrivEsc/Linux/Procmon - Pspy.md,50,35,4,1,catalogued-only
+pentestNotes,PrivEsc/Linux/Python path.md,171,50,7,0,catalogued-only
+pentestNotes,PrivEsc/Linux/SETENV.md,496,34,1,2,catalogued-only
+pentestNotes,PrivEsc/Linux/SSH tunneling.md,9,5,1,0,catalogued-only
+pentestNotes,PrivEsc/Linux/SSH.md,49,30,5,0,catalogued-only
+pentestNotes,PrivEsc/Linux/SUID.md,100,52,6,3,catalogued-only
+pentestNotes,PrivEsc/Linux/Screen sessions.md,372,39,4,2,catalogued-only
+pentestNotes,PrivEsc/Linux/Sudoers.md,26,14,2,0,catalogued-only
+pentestNotes,PrivEsc/Linux/lxd exploitation.md,56,35,5,2,catalogued-only
+pentestNotes,PrivEsc/Windows/AlwaysInstallElevated (msiexec-msi file).md,17,7,1,1,catalogued-only
+pentestNotes,PrivEsc/Windows/AutoEnums.md,2,6,0,1,catalogued-only
+pentestNotes,PrivEsc/Windows/Commands.md,12,12,2,0,catalogued-only
+pentestNotes,PrivEsc/Windows/Groups.md,211,48,6,4,catalogued-only
+pentestNotes,PrivEsc/Windows/MS/MS11-046.md,11,11,2,1,catalogued-only
+pentestNotes,PrivEsc/Windows/MS/MS16-032.md,63,8,1,2,catalogued-only
+pentestNotes,PrivEsc/Windows/MS/Windows Exploits.md,3,6,0,2,catalogued-only
+pentestNotes,PrivEsc/Windows/NSClient++.md,266,52,5,5,catalogued-only
+pentestNotes,PrivEsc/Windows/Password Hunting.md,40,13,1,1,catalogued-only
+pentestNotes,PrivEsc/Windows/PowerUp.md,16,20,3,3,catalogued-only
+pentestNotes,PrivEsc/Windows/PrintNightmare.md,29,24,4,3,catalogued-only
+pentestNotes,PrivEsc/Windows/Privileges.md,65,39,4,5,catalogued-only
+pentestNotes,PrivEsc/Windows/SSH Tunnel.md,10,6,1,0,catalogued-only
+pentestNotes,PrivEsc/Windows/Watson.md,27,9,0,2,catalogued-only
+pentestNotes,PrivEsc/Windows/winpeas.md,24,17,3,2,catalogued-only
+pentestNotes,Readme.md,3,5,0,0,catalogued-only
+pentestNotes,Recon.md,385,55,4,2,catalogued-only
+pentestNotes,Services/161 - SNMP.md,226,75,7,1,catalogued-only
+pentestNotes,Services/21 - FTP.md,24,18,1,1,catalogued-only
+pentestNotes,Services/22 - SSH.md,27,18,3,1,catalogued-only
+pentestNotes,Services/23 - Telnet.md,24,14,3,0,catalogued-only
+pentestNotes,Services/3306 - MySQL.md,17,13,2,0,catalogued-only
+pentestNotes,Services/389 - LDAP.md,6,6,0,0,catalogued-only
+pentestNotes,Services/443 - HTTPS.md,22,12,2,1,catalogued-only
+pentestNotes,Services/445 - SMB.md,55,42,7,2,catalogued-only
+pentestNotes,Services/5601 - Kibana.md,151,80,8,4,catalogued-only
+pentestNotes,Services/5985 - WINRM.md,25,16,2,0,catalogued-only
+pentestNotes,Services/6379 - Redis.md,201,42,5,0,catalogued-only
+pentestNotes,Services/80 - HTTP.md,328,97,15,8,catalogued-only
+pentestNotes,Services/9200 - Elasticsearch.md,28,15,1,2,catalogued-only
+pentestNotes,Shells/PHP cmd.md,9,10,1,0,catalogued-only
+pentestNotes,Shells/Reverse Shells.md,50,21,4,1,catalogued-only
+pentestNotes,Shells/TTY.md,43,34,6,0,catalogued-only
+pentestNotes,Shells/Windows.md,39,36,3,3,catalogued-only
+pentestNotes,Shells/bash script.md,9,8,1,0,catalogued-only
+pentestNotes,Web/1 - Web Requests.md,253,46,0,8,merged-safe
+pentestNotes,Web/2 - Information gathering.md,2174,208,8,3,catalogued-only
+pentestNotes,Web/API/File Upload.md,26,18,3,2,catalogued-only
+pentestNotes,Web/API/Information Disclosure.md,27,20,4,3,catalogued-only
+pentestNotes,Web/API/LFI.md,12,9,2,2,catalogued-only
+pentestNotes,Web/API/SOAP.md,59,31,1,5,catalogued-only
+pentestNotes,Web/API/SSRF.md,52,33,6,5,catalogued-only
+pentestNotes,Web/API/XSS.md,26,29,5,2,catalogued-only
+pentestNotes,Web/API/XXE.md,40,21,2,2,catalogued-only
+pentestNotes,Web/Authentication/Authentication.md,136,52,7,2,catalogued-only
+pentestNotes,Web/Authentication/Broken authentication.md,187,54,0,5,catalogued-only
+pentestNotes,Web/Authentication/Example.md,155,55,5,2,catalogued-only
+pentestNotes,Web/CRLF.md,177,36,4,0,catalogued-only
+pentestNotes,Web/CSRF/CSRF.md,131,47,2,3,catalogued-only
+pentestNotes,Web/Command Injections/Cheatsheet.md,405,86,0,0,catalogued-only
+pentestNotes,Web/Command Injections/Command injection.md,16,21,1,0,catalogued-only
+pentestNotes,Web/File Upload/Cheatsheet.md,147,43,0,9,catalogued-only
+pentestNotes,Web/File Upload/File Upload.md,267,27,1,0,catalogued-only
+pentestNotes,Web/Fuzzing.md,220,35,0,8,catalogued-only
+pentestNotes,Web/HTTP Verb Tampering/HTTP Verb Tampering.md,21,14,0,0,catalogued-only
+pentestNotes,Web/IDOR/IDOR.md,35,15,0,0,catalogued-only
+pentestNotes,Web/Javascript deobfuscation.md,85,30,0,4,imported-safe
+pentestNotes,Web/LFI/Cheatsheet.md,278,79,0,6,catalogued-only
+pentestNotes,Web/LFI/LFI.md,4,6,1,1,catalogued-only
+pentestNotes,Web/Links.md,6,12,0,5,catalogued-only
+pentestNotes,Web/Login brute forcing/Cheatsheet.md,157,34,0,0,catalogued-only
+pentestNotes,Web/Login brute forcing/Login Bypass.md,50,18,1,0,catalogued-only
+pentestNotes,Web/NoSQLi.md,14,13,1,1,catalogued-only
+pentestNotes,Web/SQLi/Blind SQLi.md,527,128,3,2,catalogued-only
+pentestNotes,Web/SQLi/Cheatsheet.md,348,32,0,1,catalogued-only
+pentestNotes,Web/SQLi/Oracle.md,282,91,10,1,catalogued-only
+pentestNotes,Web/SQLi/SQLi.md,266,102,15,3,catalogued-only
+pentestNotes,Web/SQLi/SQLmap.md,319,31,0,5,catalogued-only
+pentestNotes,Web/SQLi/Subverting Query Logic.md,150,53,6,0,catalogued-only
+pentestNotes,Web/SQLi/Time delays.md,217,75,7,2,catalogued-only
+pentestNotes,Web/SQLi/Visible error.md,33,13,3,0,catalogued-only
+pentestNotes,Web/SSRF/Example.md,283,48,0,10,catalogued-only
+pentestNotes,Web/SSRF/SSRF.md,21,17,2,2,catalogued-only
+pentestNotes,Web/SSTI/Example.md,320,53,0,1,catalogued-only
+pentestNotes,Web/SSTI/SSTI.md,65,34,3,2,catalogued-only
+pentestNotes,Web/Session security/Session security.md,19,14,3,1,catalogued-only
+pentestNotes,Web/WebDav.md,32,19,3,4,catalogued-only
+pentestNotes,Web/XSS/Cheatsheet.md,202,68,4,14,catalogued-only
+pentestNotes,Web/XSS/DOM-based.md,188,62,7,1,catalogued-only
+pentestNotes,Web/XSS/Labs.md,567,182,27,15,catalogued-only
+pentestNotes,Web/XSS/Reflected.md,10,14,3,0,catalogued-only
+pentestNotes,Web/XSS/Stored.md,4,7,1,0,catalogued-only
+pentestNotes,Web/XSS/XSS.md,53,40,6,2,catalogued-only
+pentestNotes,Web/XXE/Cheatsheet.md,59,11,0,2,catalogued-only
+pentestNotes,Web/XXE/XXE.md,24,16,1,1,catalogued-only
+pentestNotes,Wifi/WPS.md,63,38,7,1,catalogued-only
+pentestNotes,Windows/Eternal Blue.md,40,29,3,2,catalogued-only
+pentestNotes,Windows/GPP Passwords.md,112,17,2,2,catalogued-only
+pentestNotes,Windows/IIS.md,159,64,3,4,catalogued-only
+pentestNotes,Windows/Net-NTLMv2.md,15,11,2,0,catalogued-only
+pentestNotes,Windows/Responder.md,8,6,1,0,catalogued-only
+pentestNotes,Windows/SCF file.md,21,19,2,1,catalogued-only
+pentestNotes,Windows/SmbFolder.md,7,6,1,0,catalogued-only
+pentestNotes,Windows/Transfer Files.md,37,31,5,2,catalogued-only
+notes,Metasploit.md,960,100,2,0,catalogued-only
+notes,README.md,7,9,0,4,catalogued-only
+notes,SUMMARY.md,306,119,0,0,catalogued-only
+notes,active-directory/README.md,2,2,0,0,catalogued-only
+notes,active-directory/acl-enumeration-and-tactics.md,587,23,0,0,catalogued-only
+notes,active-directory/asrep-roasting.md,137,10,0,0,catalogued-only
+notes,active-directory/credentialed-enumeration.md,590,22,0,0,catalogued-only
+notes,active-directory/dcsync.md,166,10,0,0,catalogued-only
+notes,active-directory/enumerating-by-living-off-the-land.md,995,46,0,0,catalogued-only
+notes,active-directory/enumerating-security-controls.md,156,12,0,0,partial-extraction
+notes,active-directory/group-policy-enumeration-and-attacks.md,233,14,0,0,catalogued-only
+notes,active-directory/initial-enum.md,344,17,0,1,catalogued-only
+notes,active-directory/kerberoasting.md,730,36,0,0,catalogued-only
+notes,active-directory/llmr-ntb-ns-poisoning.md,182,13,0,0,catalogued-only
+notes,active-directory/miscellaneous-misconfigurations.md,196,13,0,0,catalogued-only
+notes,active-directory/nopac.md,132,10,0,1,catalogued-only
+notes,active-directory/password-spraying-and-password-policies.md,685,28,0,0,catalogued-only
+notes,active-directory/petit-potam.md,288,16,0,2,catalogued-only
+notes,active-directory/printnightmare.md,203,12,0,2,catalogued-only
+notes,active-directory/privileged-access.md,359,20,0,0,catalogued-only
+notes,active-directory/tools.md,1176,51,0,50,catalogued-only
+notes,active-directory/transfering-files.md,87,9,0,1,catalogued-only
+notes,active-directory/trust-relationships-child-parent-trusts.md,459,26,0,0,catalogued-only
+notes,active-directory/trust-relationships-cross-forest.md,218,14,0,0,catalogued-only
+notes,copy/copy1.md,2,2,0,0,catalogued-only
+notes,enumeration/110-995-pop3.md,235,21,0,0,imported-safe
+notes,enumeration/111-2049-nfs.md,217,21,1,0,catalogued-only
+notes,enumeration/139-445-smb.md,245,55,5,0,catalogued-only
+notes,enumeration/143-993-imap.md,283,27,0,2,imported-safe
+notes,enumeration/1433-mssql.md,231,50,5,1,catalogued-only
+notes,enumeration/1521-1522-1529-oracle-tns.md,289,62,6,1,catalogued-only
+notes,enumeration/161-162-snmp.md,66,19,2,0,catalogued-only
+notes,enumeration/21-ftp.md,424,35,0,0,catalogued-only
+notes,enumeration/25-smtp.md,195,36,3,1,partial-extraction
+notes,enumeration/3306-mysql.md,147,23,1,1,catalogued-only
+notes,enumeration/3389-rdp.md,12,9,1,0,catalogued-only
+notes,enumeration/53-dns.md,318,45,5,0,catalogued-only
+notes,enumeration/623-ipmi.md,54,14,1,0,catalogued-only
+notes,enumeration/80-http/80-common-applications.md,674,27,0,6,catalogued-only
+notes,enumeration/80-http/README.md,467,71,3,9,catalogued-only
+notes,enumeration/nmap/README.md,489,53,0,0,partial-extraction
+notes,enumeration/nmap/firewall-and-ids-ips-evasion.md,1095,80,5,0,catalogued-only
+notes,enumeration/nmap/nmap.md,510,57,5,1,catalogued-only
+notes,file-transfers/README.md,3,2,0,0,catalogued-only
+notes,file-transfers/file-transfers.md,155,17,0,6,catalogued-only
+notes,file-transfers/linux-file-transfers.md,83,55,8,2,catalogued-only
+notes,file-transfers/windows-file-transfers.md,456,149,21,6,catalogued-only
+notes,import.md,2,2,0,0,catalogued-only
+notes,information-gathering.md,749,120,1,24,catalogued-only
+notes,password-attacks/linux/README.md,251,81,11,3,catalogued-only
+notes,password-attacks/linux/pass-the-ticket.md,387,163,24,6,catalogued-only
+notes,password-attacks/pass-the-hash.md,233,78,9,2,catalogued-only
+notes,password-attacks/passwords-attacks.md,1708,102,1,3,catalogued-only
+notes,password-attacks/windows/README.md,24,13,2,1,catalogued-only
+notes,password-attacks/windows/attacking-ad-and-ntds.dit.md,233,59,9,0,catalogued-only
+notes,password-attacks/windows/attacking-ldass.md,268,37,5,0,catalogued-only
+notes,password-attacks/windows/attacking-sam.md,179,57,7,0,catalogued-only
+notes,password-attacks/windows/pass-the-ticket-windows.md,213,105,16,1,catalogued-only
+notes,pivoting-tunneling-and-port-forwarding/chisel.md,54,28,3,2,catalogued-only
+notes,pivoting-tunneling-and-port-forwarding/copy1.md,1818,73,0,5,catalogued-only
+notes,pivoting-tunneling-and-port-forwarding/ligolo.md,66,41,5,2,catalogued-only
+notes,privesc/linux.md,479,39,0,0,catalogued-only
+notes,privesc/windows.md,1420,130,0,2,catalogued-only
+notes,shells/README.md,141,25,1,2,catalogued-only
+notes,shells/tty.md,37,28,5,0,catalogued-only
+notes,web/command-injections.md,549,92,1,0,catalogued-only
+notes,web/file-upload.md,344,70,3,11,catalogued-only
+notes,web/lfi.md,595,79,0,6,catalogued-only
+notes,web/sqli.md,730,75,0,1,catalogued-only
+notes,web/sqlmap.md,320,29,0,5,catalogued-only
+notes,web/xss.md,149,22,0,4,catalogued-only
+notes,web/xxe.md,236,108,12,3,catalogued-only
+notes,write-ups/proving-grounds-play/README.md,50,33,0,0,catalogued-only
+notes,write-ups/proving-grounds-play/assertion101.md,130,70,8,2,lab-catalogued-only
+notes,write-ups/proving-grounds-play/dc-1.md,222,74,6,3,lab-catalogued-only
+notes,write-ups/proving-grounds-play/dc-2.md,302,106,11,3,lab-catalogued-only
+notes,write-ups/proving-grounds-play/driftingblues6.md,155,78,7,1,lab-catalogued-only
+notes,write-ups/proving-grounds-play/election1.md,245,107,8,0,lab-catalogued-only
+notes,write-ups/proving-grounds-play/funboxeasy.md,240,82,5,1,lab-catalogued-only
+notes,write-ups/proving-grounds-play/funboxeasyenum.md,161,73,7,0,lab-catalogued-only
+notes,write-ups/proving-grounds-play/infosecprep.md,328,152,7,2,held-sensitive
+notes,write-ups/proving-grounds-play/seppuku.md,435,168,10,1,held-sensitive
+notes,write-ups/proving-grounds-play/sosimple.md,1689,252,21,15,lab-catalogued-only
+notes,write-ups/proving-grounds-play/stapler.md,1166,413,30,8,lab-catalogued-only
+notes,write-ups/proving-grounds-play/sunset-midnight.md,229,111,11,4,lab-catalogued-only
+notes,write-ups/proving-grounds-play/tre.md,213,104,8,1,lab-catalogued-only
+notes,write-ups/vulnhub/README.md,2,2,0,0,catalogued-only
+notes,write-ups/vulnhub/dc-9.md,1294,316,26,7,lab-catalogued-only
+writeups,1 - Machines.md,43,36,0,1,catalogued-only
+writeups,Proving Grounds Practice/Linux/Easy/Astronaut.md,199,91,6,4,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Easy/ClamAV.md,223,52,1,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Easy/Codo.md,133,50,3,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Easy/Exfiltrated.md,274,119,5,5,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Easy/GLPI.md,340,163,15,7,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Easy/Hawat.md,40,36,2,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Easy/Hub.md,287,88,3,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Easy/RubyDome.md,113,61,7,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Easy/Twiggy.md,262,92,9,6,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Easy/Wombo.md,2,3,0,0,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Banzai.md,56,42,2,0,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Boolean.md,195,89,4,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Cockpit.md,198,81,5,0,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Crane.md,199,60,3,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Educated.md,198,128,7,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Extplorer.md,122,61,4,0,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Fail.md,71,44,3,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Hetemit.md,86,53,2,0,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Hunit.md,41,35,3,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Image.md,107,49,4,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Law.md,101,67,4,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Marketing.md,17,26,0,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Marshalled.md,131,70,3,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Nukem.md,33,23,0,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/PC.md,99,57,4,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Payday.md,142,50,3,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Pelican.md,470,158,6,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Plum.md,101,49,1,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Press.md,101,48,2,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/PyLoader.md,85,47,2,5,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Readys.md,172,91,7,6,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Snookums.md,68,50,5,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Sorcerer.md,25,17,0,0,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/Walla.md,86,49,4,0,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/Intermediate/ZenPhoto.md,35,24,1,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Astronaut.md,664,174,9,6,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Boolean.md,1075,201,10,13,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/ClamAV.md,901,198,7,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Cockpit.md,1049,251,8,14,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Codo.md,187,52,1,5,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Crane.md,217,62,3,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Educated.md,1296,314,8,15,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Exfiltrated.md,1362,364,23,12,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Extplorer.md,807,219,14,6,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Fail.md,1745,374,29,4,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/GLPI.md,1025,235,15,6,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Hawat.md,1356,355,19,15,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Hetemit.md,1181,317,19,6,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Hub.md,267,89,2,11,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Image.md,247,61,3,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Law.md,257,88,3,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Nukem.md,1139,286,15,14,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Payday.md,1816,417,17,39,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Pc.md,301,95,3,6,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Pelican.md,640,142,11,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Plum.md,329,95,5,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Press.md,259,99,3,5,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/PyLoader.md,266,78,6,5,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Readys.md,2283,526,26,35,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/RubyDome.md,437,79,5,7,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Snookums.md,1249,282,15,5,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Twiggy.md,521,125,7,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/Walla.md,1297,263,19,10,lab-catalogued-only
+writeups,Proving Grounds Practice/Linux/WriteUps/ZenPhoto.md,1235,327,17,15,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Easy/Algernon.md,349,91,2,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Easy/HelpDesk.md,241,69,2,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Easy/Internal.md,267,70,3,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Easy/Kevin.md,235,67,3,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Easy/Squid.md,211,113,9,8,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Hard/Heist.md,216,75,8,0,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Hard/Vault.md,78,67,7,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Intermediate/Access.md,358,125,5,5,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Intermediate/AuthBy.md,352,90,5,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Intermediate/Billyboss.md,95,43,3,2,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Intermediate/DVR4.md,43,32,2,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Intermediate/Hutch.md,285,74,3,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Intermediate/Jacko.md,34,31,2,4,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Intermediate/Kyoto.md,334,91,5,1,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Intermediate/Nara.md,168,77,13,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/Intermediate/Resourced.md,8,11,0,0,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Access.md,1619,405,21,16,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Algernon.md,353,93,5,4,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/AuthBy.md,2253,457,21,3,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/BillyBoss.md,860,241,15,14,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/DVR4.md,1938,473,18,14,held-sensitive
+writeups,Proving Grounds Practice/Windows/WriteUps/Heist.md,2242,561,26,13,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/HelpDesk.md,2125,358,5,4,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Hutch.md,1490,323,15,4,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Internal.md,1062,224,5,6,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Jacko.md,987,241,18,8,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Kevin.md,1538,378,8,9,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Kyoto.md,1112,170,10,4,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Nara.md,847,177,14,4,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Resourced.md,1829,420,20,4,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Squid.md,1171,278,15,18,lab-catalogued-only
+writeups,Proving Grounds Practice/Windows/WriteUps/Vault.md,1588,388,22,2,lab-catalogued-only
+writeups,README.md,6,3,0,1,catalogued-only
+web,1 - Foothold/Authentication/Authentication.md,270,99,6,0,lab-catalogued-only
+web,1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md,44,33,6,4,lab-catalogued-only
+web,1 - Foothold/HTTP Smuggling/Examples.md,18,16,0,0,lab-catalogued-only
+web,1 - Foothold/HTTP Smuggling/HTTP Smuggling.md,125,100,5,1,lab-catalogued-only
+web,1 - Foothold/HTTP Smuggling/Practitioner.md,267,114,4,0,lab-catalogued-only
+web,1 - Foothold/Host header/Apprentice.md,63,22,2,0,lab-catalogued-only
+web,1 - Foothold/Host header/Practitioner.md,72,39,1,0,lab-catalogued-only
+web,1 - Foothold/Web cache poisoning/Web cache poisoning.md,431,128,9,6,lab-catalogued-only
+web,1 - Foothold/XSS/Apprentice.md,260,93,10,1,lab-catalogued-only
+web,1 - Foothold/XSS/Practitioner.md,373,153,19,6,lab-catalogued-only
+web,2 - Privilege Escalation/API Testing/API Testing.md,129,62,4,0,lab-catalogued-only
+web,2 - Privilege Escalation/Access Control/Access Control.md,60,34,4,1,lab-catalogued-only
+web,2 - Privilege Escalation/CSRF/Cross-site request forgery.md,153,57,3,2,lab-catalogued-only
+web,2 - Privilege Escalation/GraphQL API/GraphQL API.md,252,73,7,0,lab-catalogued-only
+web,2 - Privilege Escalation/Json Web Tokens/JWT.md,307,65,3,2,lab-catalogued-only
+web,2 - Privilege Escalation/SQL-Injection/SQL Injection.md,104,42,6,5,lab-catalogued-only
+web,3 - Data Exfiltration/File Upload/File Upload.md,295,58,3,2,lab-catalogued-only
+web,3 - Data Exfiltration/OS Command Injection/OS Command Injection.md,103,62,9,1,lab-catalogued-only
+web,3 - Data Exfiltration/Path Traversal/Path Traversal.md,127,55,8,0,lab-catalogued-only
+web,Burp scanner.md,28,22,2,1,catalogued-only
+web,CBBH/File Upload.md,255,173,9,2,duplicate-record
+web,CBBH/SQL Injection.md,62,26,4,0,catalogued-only
