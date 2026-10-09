@@ -50,11 +50,3 @@ https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
 ```twig
 {{ ['id'] | filter('system') }}
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 12- Server-Side Attacks/2 - SSTI.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
