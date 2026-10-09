@@ -25,4 +25,8 @@ DNS, reconocimiento web y fuentes de información.
 - [WHOIS](Reconnaissance/whois.md)
 - [Zone Transfers](Reconnaissance/zone-transfers.md)
 
+## Apuntes
+
+- [Servicios web: identificación e inventario](web-service-discovery.md)
+
 [Inicio](../README.md)
