@@ -1,11 +1,11 @@
 # Linux
 
-Consulta local de procesos y revisión de permisos.
+Procesos, permisos y formatos de archivo.
 
-## Referencias
+## Apuntes
 
+- [Formatos de archivo y descompresión](file-formats-and-compression.md)
 - [Procesos locales y procfs](process-enumeration.md)
 - [Permisos y enlaces simbólicos](symlink-permissions.md)
-
 
 [Inicio](../README.md)
