@@ -19,11 +19,3 @@
 |`@Html.RemotePartial()`|Yes|No|Yes|
 |`Response.WriteFile()`|Yes|No|No|
 |`include`|Yes|Yes|Yes|
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 16- File Inclusion/1 - Functions.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
