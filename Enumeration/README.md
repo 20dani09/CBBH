@@ -1,6 +1,6 @@
-# Enumeration
+# Enumeración
 
-Notas de DNS, reconocimiento y fuentes de información.
+DNS, reconocimiento web y fuentes de información.
 
 ## Reconnaissance
 
@@ -24,10 +24,5 @@ Notas de DNS, reconocimiento y fuentes de información.
 - [Web Crawling](Reconnaissance/web-crawling.md)
 - [WHOIS](Reconnaissance/whois.md)
 - [Zone Transfers](Reconnaissance/zone-transfers.md)
-
-## Referencias
-
-- [Fuentes inventariadas: Enumeration](source-catalog.md)
-
 
 [Inicio](../README.md)
