@@ -89,9 +89,62 @@ Notas de cada ejercicio, máquina y caso.
 - [looking glass](OWASP-Challenges/looking-glass.md)
 - [sanitize](OWASP-Challenges/sanitize.md)
 
+## Proving-Grounds-Play
+
+- [assertion101](Proving-Grounds-Play/assertion101.md)
+- [dc-1](Proving-Grounds-Play/dc-1.md)
+- [dc-2](Proving-Grounds-Play/dc-2.md)
+- [driftingblues6](Proving-Grounds-Play/driftingblues6.md)
+- [election1](Proving-Grounds-Play/election1.md)
+- [funboxeasyenum](Proving-Grounds-Play/funboxeasyenum.md)
+- [infosecprep](Proving-Grounds-Play/infosecprep.md)
+- [seppuku](Proving-Grounds-Play/seppuku.md)
+- [sosimple](Proving-Grounds-Play/sosimple.md)
+- [stapler](Proving-Grounds-Play/stapler.md)
+- [sunset-midnight](Proving-Grounds-Play/sunset-midnight.md)
+- [tre](Proving-Grounds-Play/tre.md)
+
+## Proving-Grounds-Practice
+
+- [Access](Proving-Grounds-Practice/access.md)
+- [Algernon](Proving-Grounds-Practice/algernon.md)
+- [Astronaut](Proving-Grounds-Practice/astronaut.md)
+- [AuthBy](Proving-Grounds-Practice/authby.md)
+- [Boolean](Proving-Grounds-Practice/boolean.md)
+- [ClamAV](Proving-Grounds-Practice/clamav.md)
+- [Cockpit](Proving-Grounds-Practice/cockpit.md)
+- [Codo](Proving-Grounds-Practice/codo.md)
+- [Crane](Proving-Grounds-Practice/crane.md)
+- [Educated](Proving-Grounds-Practice/educated.md)
+- [Exfiltrated](Proving-Grounds-Practice/exfiltrated.md)
+- [Extplorer](Proving-Grounds-Practice/extplorer.md)
+- [Fail](Proving-Grounds-Practice/fail.md)
+- [GLPI](Proving-Grounds-Practice/glpi.md)
+- [HelpDesk](Proving-Grounds-Practice/helpdesk.md)
+- [Hub](Proving-Grounds-Practice/hub.md)
+- [Hutch](Proving-Grounds-Practice/hutch.md)
+- [Image](Proving-Grounds-Practice/image.md)
+- [Internal](Proving-Grounds-Practice/internal.md)
+- [Kevin](Proving-Grounds-Practice/kevin.md)
+- [Kyoto](Proving-Grounds-Practice/kyoto.md)
+- [Law](Proving-Grounds-Practice/law.md)
+- [Marshalled](Proving-Grounds-Practice/marshalled.md)
+- [PC](Proving-Grounds-Practice/pc.md)
+- [Pelican](Proving-Grounds-Practice/pelican.md)
+- [Plum](Proving-Grounds-Practice/plum.md)
+- [Press](Proving-Grounds-Practice/press.md)
+- [PyLoader](Proving-Grounds-Practice/pyloader.md)
+- [RubyDome](Proving-Grounds-Practice/rubydome.md)
+- [Squid](Proving-Grounds-Practice/squid.md)
+- [Twiggy](Proving-Grounds-Practice/twiggy.md)
+
 ## Unspecified
 
 - [NahamStore](Unspecified/nahamstore.md)
+
+## VulnHub
+
+- [dc-9](VulnHub/dc-9.md)
 
 ## Vulnyx
 
