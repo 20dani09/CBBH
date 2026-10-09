@@ -16,11 +16,3 @@ N6IPzl48AxV4+SFdQYfMpI/F2kDH5JCfLupA47pgRZVDfMtJSEJYPneoRhg9Nzvad/Q3VUD3tGmPZ2lX
 DYAUaEYTV0ggOwLfKhGXuekI7aIVVQ8C/QaWhSfxKc97ICP/V4pGOSNqcYW+mZlxWNGzxtFaUSmreapUuEyKdwSvUKx0VGN9+v3BmtyAreHnN6IPz  
 l48AxV4+SFdQYfMpI/F2kDH5JCfLupA47pgRZVDfMtJSEJYPneoRhg9Nzvad/Q3VUD3tGmPZ2lXrzIJn94g0Z2jRxA==' 16 -encoding 0
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/Hackerone/4 - Encrypted Pastebin.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
