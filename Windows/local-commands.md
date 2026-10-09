@@ -51,3 +51,11 @@ La disponibilidad de WMIC depende de la versión de Windows. La consulta `wmic p
 
 - [Codificación y hashes](file-encoding-and-hashes.md)
 - [Consultas de dominio](../Active-Directory/native-queries.md)
+
+## Filtro de conexiones
+
+| Comando | Descripción |
+| --- | --- |
+| `netstat -antb \|findstr 1080`                                                                                                                                                                                     | Windows-based command used to list TCP network connections listening on port 1080.                                                                                                                                                                                      |
+
+La tubería filtra líneas que contienen `1080`; la coincidencia no prueba por sí sola que un puerto esté escuchando.
