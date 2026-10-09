@@ -1,6 +1,6 @@
 # Zone Transfers
 
-DNS zone transfers, also known as AXFR (Asynchronous Full Transfer) requests, offer a potential goldmine of information for web reconnaissance. A zone transfer is a mechanism for replicating DNS data across servers. When a zone transfer is successful, it provides a complete copy of the DNS zone file, which contains a wealth of details about the target domain.
+DNS zone transfers, also known as AXFR requests, offer a potential goldmine of information for web reconnaissance. A zone transfer is a mechanism for replicating DNS data across servers. When a zone transfer is successful, it provides a complete copy of the DNS zone file, which contains a wealth of details about the target domain.
 
 This zone file lists all the domain's subdomains, their associated IP addresses, mail server configurations, and other DNS records. This is akin to obtaining a blueprint of the target's DNS infrastructure for a reconnaissance expert.
 
@@ -31,3 +31,7 @@ The command `dig axfr inlanefreight.htb @10.129.79.224` is asking the DNS server
 > Within the same zone record, identify the largest IP address allocated within the 10.10.200 IP range. Respond with the full IP address, eg 10.10.200.1
 
 ![Pasted image 20240925184612.png](../../assets/images/8b81ede9662f2d2aad97.png)
+
+## Referencia del protocolo
+
+[Transferencia de zonas DNS: RFC 5936](https://www.rfc-editor.org/rfc/rfc5936).
