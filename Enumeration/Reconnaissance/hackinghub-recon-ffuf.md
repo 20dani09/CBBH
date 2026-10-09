@@ -129,11 +129,3 @@ Why vhost works: Web servers can host multiple sites on one IP using the Host he
 2. Hidden admin panels: recursion with extensions
 3. Bypassing WAFs: careful rate limiting + custom headers
 4. Development endpoints: vhost fuzzing with common names
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/hackinghub/Recon/ffuf.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
