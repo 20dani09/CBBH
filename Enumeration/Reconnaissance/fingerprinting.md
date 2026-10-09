@@ -39,3 +39,14 @@ nikto -h inlanefreight.com -Tuning b
 ![Pasted image 20240926135907.png](../../assets/images/2b510234b056061a60ab.png)
 
 ![Pasted image 20240926135929.png](../../assets/images/af0bdcd591bdc21b5706.png)
+
+## Active Infrastructure Identification
+
+| **Resource/Command**                                                      | **Description**                                                                      |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| `curl -I "http://${TARGET}"`                                              | Display HTTP headers of the target webserver.                                        |
+| `whatweb -a https://www.facebook.com -v`                                  | Technology identification.                                                           |
+| `Wappalyzer`                                                              | [https://www.wappalyzer.com/](https://www.wappalyzer.com/)                           |
+| `wafw00f -v https://$TARGET`                                              | WAF Fingerprinting.                                                                  |
+| `Aquatone`                                                                | [https://github.com/michenriksen/aquatone](https://github.com/michenriksen/aquatone) |
+| `cat subdomain.list \| aquatone -out ./aquatone -screenshot-timeout 1000` | Makes screenshots of all subdomains in the subdomain.list.                           |
