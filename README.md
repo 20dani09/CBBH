@@ -14,6 +14,8 @@ Mis apuntes de seguridad web, redes, sistemas, herramientas y laboratorios. Cons
 - [Protocolos de red](Network-Pentesting/README.md)
 - [ffuf](Tools/ffuf.md) y [Gobuster](Tools/gobuster.md)
 - [Laboratorios y writeups](Labs-and-Writeups/README.md)
+- [GraphQL: introspección](Tools/graphql-introspection.md)
+- [Plataformas y servicios](Web-Security/CMS/platforms.md)
 
 ## Temas
 
