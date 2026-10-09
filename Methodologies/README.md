@@ -1,12 +1,9 @@
-# Methodologies
+# Metodologías
 
-Plantillas y criterios editoriales.
+Notas de metodología y organización del trabajo.
 
-## Referencias
+## Apuntes
 
 - [Bug bounty](bug-bounty.md)
-- [Plantilla de laboratorio](lab-template.md)
-- [Plantilla de nota técnica](note-template.md)
-
 
 [Inicio](../README.md)
