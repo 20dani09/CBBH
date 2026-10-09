@@ -7,5 +7,6 @@ Procesos, permisos y formatos de archivo.
 - [Formatos de archivo y descompresión](file-formats-and-compression.md)
 - [Procesos locales y procfs](process-enumeration.md)
 - [Permisos y enlaces simbólicos](symlink-permissions.md)
+- [Linux: procesos, versión y permisos](system-inventory.md)
 
 [Inicio](../README.md)
