@@ -11,11 +11,3 @@ Access-Control-Allow-Credentials: true
 ```
 
 On the request add Origin
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/hackinghub/Client side/CORS.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
