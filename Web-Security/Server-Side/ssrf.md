@@ -29,11 +29,3 @@ Point to our IP,
 ```bash
 nc -lvnp 80
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 12- Server-Side Attacks/1 - SSRF.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
