@@ -1,6 +1,6 @@
-# Tools
+# Herramientas
 
-Referencia de cURL, proxy local, Nmap y herramientas ya presentes.
+Referencias de comandos y configuración.
 
 ## Burpsuite
 
@@ -25,13 +25,15 @@ Referencia de cURL, proxy local, Nmap y herramientas ya presentes.
 - [OS Exploitation](SQLmap/os-explotation.md)
 - [SQLmap](SQLmap/sqlmap.md)
 
-## Referencias
+## Apuntes
 
 - [Requests a través de Burp Suite](burpsuite-python-proxy.md)
 - [cURL y peticiones HTTP](curl.md)
+- [Git: consulta del historial](git-history.md)
 - [Javascript deobfuscation](javascript-encoding.md)
+- [Servidores HTTP locales](local-http-servers.md)
+- [MongoDB: bases de datos, colecciones y BSON](mongodb.md)
 - [Nmap: referencia de opciones](nmap-options.md)
-- [Fuentes inventariadas: Tools](source-catalog.md)
-
+- [OpenSSL: consulta de una conexión TLS](openssl-tls.md)
 
 [Inicio](../README.md)
