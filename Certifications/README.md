@@ -1,14 +1,9 @@
-# Certifications
+# Certificaciones
 
-Rutas de repaso y ejercicios con procedencia.
-
-## BSCP
-
-- [Material web complementario](BSCP/README.md)
+Índices de repaso y ejercicios.
 
 ## CBBH
 
 - [CBBH](CBBH/README.md)
-
 
 [Inicio](../README.md)
