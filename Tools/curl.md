@@ -1,13 +1,13 @@
 # cURL y peticiones HTTP
 
-Referencia única para peticiones, cabeceras, autenticación de ejemplo y operaciones CRUD. Los servidores y puertos originales corresponden a ejercicios; no se ha comprobado su disponibilidad.
+Referencia única para peticiones, cabeceras, autenticación de ejemplo y operaciones CRUD. Los servidores y puertos de ejemplo corresponden a ejercicios.
 
-Correcciones editoriales: HEAD devuelve las cabeceras de una respuesta GET sin su contenido; PUT crea o reemplaza el estado del recurso. Las referencias a RFC 2616 y RFC 7231 se conservan como contexto histórico. Especificación vigente: [RFC 9110](https://www.rfc-editor.org/rfc/rfc9110.html).
+HEAD devuelve las cabeceras de una respuesta GET sin su contenido; PUT crea o reemplaza el estado del recurso. Las referencias a RFC 2616 y RFC 7231 se conservan como contexto histórico. Especificación vigente: [RFC 9110](https://www.rfc-editor.org/rfc/rfc9110.html).
 
 ## HTTP
 
 ### URL
-[Captura pendiente de revisión: Pasted image 20240920054847.png](../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 ### Flow
 
@@ -232,21 +232,3 @@ curl -X DELETE http://<SERVER_IP>:<PORT>/api.php/city/New_HTB_City
 |[`CTRL+SHIFT+I`] or [`F12`]|Show devtools|
 |[`CTRL+SHIFT+E`]|Show Network tab|
 |[`CTRL+SHIFT+K`]|Show Console tab|
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 1- Web Requests/HTTP Fundamentals/1 - HTTP.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 1- Web Requests/HTTP Fundamentals/2 - HTTPS.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 1- Web Requests/HTTP Fundamentals/3 - HTTP Requests and Responses.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 1- Web Requests/HTTP Fundamentals/4 - HTTP Headers.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 1- Web Requests/HTTP Methods/1 - HTTP Methods and Codes.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 1- Web Requests/HTTP Methods/2 - GET.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 1- Web Requests/HTTP Methods/3 - POST.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 1- Web Requests/HTTP Methods/4 - CRUD API.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| pentestNotes | Web/1 - Web Requests.md | ea46064dea8893ed6d54216151ae1bb0ef3661ba |
-
-Se han sustituido valores literales de autenticación o direcciones de correo por marcadores. Los detalles sin valores están en [el registro de redacciones](../Resources/Audit/redactions.csv).
-
-[Índice de categoría](README.md) · [Inicio](../README.md)
