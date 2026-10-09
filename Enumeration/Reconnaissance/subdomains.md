@@ -26,3 +26,19 @@ For example, the following command would attempt to brute-force subdomains of `e
 ```bash
 dnsenum --enum inlanefreight.com -f /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt -r
 ```
+
+## Referencia complementaria
+
+
+```bash
+dnsenum example.com -f subdomains.txt
+```
+
+## Active Subdomain Enumeration
+
+| **Resource/Command**                                                                                       | **Description**                                                                          |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| `HackerTarget`                                                                                             | [https://hackertarget.com/zone-transfer/](https://hackertarget.com/zone-transfer/)       |
+| `SecLists`                                                                                                 | [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) |
+| `nslookup -type=any -query=AXFR $TARGET nameserver.target.domain`                                          | Zone Transfer using Nslookup against the target domain and its nameserver.               |
+| `gobuster dns -q -r "${NS}" -d "${TARGET}" -w "${WORDLIST}" -p ./patterns.txt -o "gobuster_${TARGET}.txt"` | Bruteforcing subdomains.                                                                 |
