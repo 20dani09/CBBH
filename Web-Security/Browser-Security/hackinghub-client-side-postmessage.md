@@ -84,20 +84,10 @@
     </script>
 ```
 
-[Captura pendiente de revisión: Pasted image 20241129165809.png](../../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 ### Secure PostMessage targetOrigin
 
 ```html
 window.parent.postMessage(data, 'https://service.protected.com');
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/hackinghub/Client side/postMessage.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-Se han sustituido valores literales de autenticación o direcciones de correo por marcadores. Los detalles sin valores están en [el registro de redacciones](../../Resources/Audit/redactions.csv).
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
