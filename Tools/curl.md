@@ -232,3 +232,17 @@ curl -X DELETE http://<SERVER_IP>:<PORT>/api.php/city/New_HTB_City
 |[`CTRL+SHIFT+I`] or [`F12`]|Show devtools|
 |[`CTRL+SHIFT+E`]|Show Network tab|
 |[`CTRL+SHIFT+K`]|Show Console tab|
+
+## Selección del método HTTP
+
+`HTTP Method`
+
+- `HEAD`
+- `PUT`
+- `DELETE`
+- `OPTIONS`
+- `PATCH`
+
+|**Command**|**Description**|
+|---|---|
+|`-X OPTIONS`|Set HTTP Method with Curl|
