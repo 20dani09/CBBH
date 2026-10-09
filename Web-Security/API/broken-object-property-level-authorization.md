@@ -48,13 +48,3 @@ curl -X 'POST' 'http://94.237.63.111:30334/api/v1/customers/orders/items' -H 'ac
   "Message": "HTB{4d86794f82046e465ca29d91bdbe5bca}"
 }
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | API Attacks/3 - Broken Object Property Level Authorization.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-Se han sustituido valores literales de autenticación o direcciones de correo por marcadores. Los detalles sin valores están en [el registro de redacciones](../../Resources/Audit/redactions.csv).
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
