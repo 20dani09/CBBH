@@ -8,7 +8,7 @@ systemctl start snapd.service
 adb: android debug bridge
 ## Anbox
 
-Nota histórica: Anbox está archivado y es de solo lectura desde el 13 de febrero de 2024. Se conserva la instalación original para documentar el entorno antiguo; no se ha validado que funcione hoy. [Estado oficial del proyecto](https://github.com/anbox/anbox).
+Nota histórica: Anbox está archivado y es de solo lectura desde el 13 de febrero de 2024. Estas instrucciones documentan un entorno antiguo. [Estado oficial del proyecto](https://github.com/anbox/anbox).
 
 https://github.com/anbox/anbox
 
@@ -39,12 +39,4 @@ adb install file.apk
 adb shell settings put global http_proxy 10.10.14.29:8001
 ```
 
-[Captura pendiente de revisión: Pasted image 20240531105209.png](../Resources/Audit/media.csv)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| pentestNotes | Android/Android emulator.md | ea46064dea8893ed6d54216151ae1bb0ef3661ba |
-
-[Índice de categoría](README.md) · [Inicio](../README.md)
+![Configuración del proxy para el emulador](../assets/images/0a1dec3e704a96caa1a3.svg)
