@@ -53,11 +53,3 @@ test'union select 1,2,username,password from ilfreight.users-- -
 ```
 
 ![Pasted image 20240928130056.png](../../assets/images/f4c15c8ea0991edaabe8.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 8- SQLi/1 - SQLi.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
