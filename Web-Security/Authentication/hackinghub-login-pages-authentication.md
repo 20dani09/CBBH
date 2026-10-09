@@ -2,7 +2,7 @@
 
 ## Weak Passwords
 
-[Captura pendiente de revisión: Pasted image 20241217114441.png](../../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 ## Default Passwords
 
@@ -70,7 +70,7 @@ ffuf -u https://vdooaly3.eu1.ctfio.com/api-token-leak/api/FUZZ -w /usr/share/sec
 ## Forced Password Reset
 
 Add email field, 
-[Captura pendiente de revisión: Pasted image 20241217134424.png](../../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 https://github.com/Vozec/CVE-2023-7028
 
@@ -102,20 +102,10 @@ Brute force,
 ![Pasted image 20241217135826.png](../../assets/images/970824f95a01839383de.png)
 ## Mass Assignment
 
-[Captura pendiente de revisión: Pasted image 20241217154708.png](../../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 Add status on the register, 
 
-[Captura pendiente de revisión: Pasted image 20241217154902.png](../../Resources/Audit/media.csv)
+*Captura omitida por posibles datos sensibles.*
 
 ![Pasted image 20241217154932.png](../../assets/images/0a576b032a3187a81cda.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/hackinghub/Login Pages - Authentication.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-Se han sustituido valores literales de autenticación o direcciones de correo por marcadores. Los detalles sin valores están en [el registro de redacciones](../../Resources/Audit/redactions.csv).
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
