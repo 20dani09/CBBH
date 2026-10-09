@@ -8,12 +8,4 @@
 |`2023-200_most_used_passwords.txt`|A list of the 200 most commonly used passwords as of 2023.|Effective for targeting commonly reused passwords.|[SecLists](https://github.com/danielmiessler/SecLists/tree/master)|
 |`Default-Credentials/default-passwords.txt`|A list of default usernames and passwords commonly used in routers, software, and other devices.|Ideal for trying default credentials.|[SecLists](https://github.com/danielmiessler/SecLists/tree/master)|
 
-[Captura pendiente de revisión: Pasted image 20241004130532.png](../../Resources/Audit/media.csv)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 13- Login Brute Forcing/1 - Brute Force Attacks.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
+*Captura omitida por posibles datos sensibles.*
