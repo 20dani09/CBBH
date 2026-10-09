@@ -160,13 +160,3 @@ The back end of a web application drives all of the core web application functio
 |`Development Frameworks`|Development Frameworks are used to develop the core Web Application. Some well-known frameworks include `Laravel` (`PHP`), `ASP.NET` (`C#`), `Spring` (`Java`), `Django` (`Python`), and `Express` (`NodeJS JavaScript`).|
 
 ![Pasted image 20240924132345.png](../../assets/images/b1d637dc2d16416dbbf2.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 2- Introduction to Web Applications/1 - Introduction to Web Applications/1 - Introduction.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 2- Introduction to Web Applications/1 - Introduction to Web Applications/2 - Web Application Layout.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-| CBBH | 2- Introduction to Web Applications/1 - Introduction to Web Applications/3 - Front End vs Back End.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
