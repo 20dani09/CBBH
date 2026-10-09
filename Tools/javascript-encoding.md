@@ -28,11 +28,3 @@
 |**Command**|**Description**|
 |---|---|
 |`ctrl+u`|Show HTML source code in Firefox|
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| pentestNotes | Web/Javascript deobfuscation.md | ea46064dea8893ed6d54216151ae1bb0ef3661ba |
-
-[Índice de categoría](README.md) · [Inicio](../README.md)
