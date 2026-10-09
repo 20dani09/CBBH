@@ -1,11 +1,10 @@
-# Mobile Security
+# Seguridad móvil
 
-Entorno Android histórico y análisis local de APK.
+Android, emulación y análisis de APK.
 
-## Referencias
+## Apuntes
 
 - [Android emulator](android-emulator.md)
 - [apk](apk-analysis.md)
-
 
 [Inicio](../README.md)
