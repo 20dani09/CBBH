@@ -38,13 +38,3 @@ ffuf -w /usr/share/seclists/Fuzzing/4-digits-0000-9999.txt -u http://94.237.50.1
 ```bash
 ffuf -w ./city_wordlist.txt -u http://83.136.254.37:41526/security_question.php -X POST -H "Content-Type: application/x-www-form-urlencoded" -b "PHPSESSID=<REDACTED_SESSION>" -d "security_response=FUZZ" -fr "Incorrect response."
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 14- Broken Authentication/1 - Brute-Force Attacks.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-Se han sustituido valores literales de autenticación o direcciones de correo por marcadores. Los detalles sin valores están en [el registro de redacciones](../../Resources/Audit/redactions.csv).
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
