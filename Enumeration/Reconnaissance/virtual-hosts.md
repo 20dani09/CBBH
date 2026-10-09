@@ -19,11 +19,3 @@ gobuster vhost -u http://inlanefreight.htb:52938/ -w /usr/share/seclists/Discove
 ```
 
 ![Pasted image 20240926135013.png](../../assets/images/61b41523483cfb9e7d8a.png)
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 4- Information Gathering/6 - Virtual Hosts.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
