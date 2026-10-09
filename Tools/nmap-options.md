@@ -1,6 +1,6 @@
 # Nmap: referencia de opciones
 
-No se importan opciones de señuelos ni suplantación. -Pn omite el descubrimiento de hosts; -A activa también scripts y traceroute.
+Opciones de Nmap: descubrimiento de hosts, puertos, servicios y formatos de salida.
 
 ## NMAP
 
@@ -52,11 +52,3 @@ No se importan opciones de señuelos ni suplantación. -Pn omite el descubrimien
 | `--max-rtt-timeout 100ms`    | Sets the specified time value as maximum RTT timeout.        |
 | `--min-rate 300`             | Sets the number of packets that will be sent simultaneously. |
 | `-T <0-5>`                   | Specifies the specific timing template.                      |
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| notes | enumeration/nmap/README.md | b4c68ccbe43fe7218e8cee1a15bb7346a6c3bb89 |
-
-[Índice de categoría](README.md) · [Inicio](../README.md)
