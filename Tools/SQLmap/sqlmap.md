@@ -73,13 +73,3 @@ sqlmap -u "http://94.237.52.98:38740/case11.php?id=1" -p id --batch --dbms=mysql
 [WARNING] it appears that the character '>' is filtered by the back-end server. You are strongly advised to reru  
 n with the '--tamper=between'
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 9- SQLmap/1 - SQLmap.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-Se han sustituido valores literales de autenticación o direcciones de correo por marcadores. Los detalles sin valores están en [el registro de redacciones](../../Resources/Audit/redactions.csv).
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
