@@ -16,11 +16,3 @@ By employing advanced search operators and specialized queries known as "Google 
 |`-`|Excludes specific terms from search results.|`inurl:admin -intext:wordpress`|
 
 By creatively combining these operators and crafting targeted queries, you can uncover sensitive documents, exposed directories, login pages, and other valuable information that may aid in your reconnaissance efforts.
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | 4- Information Gathering/10 - Search Engine Discovery.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
