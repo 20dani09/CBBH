@@ -34,6 +34,7 @@ Fundamentos, vulnerabilidades y variantes.
 
 - [Authentication Bypass](Authentication/authentication-bypass.md)
 - [Brute-Force Attacks](Authentication/brute-force-attacks.md)
+- [Factores de autenticación y caducidad de sesión](Authentication/factors-and-session-timeout.md)
 - [JWT (HackingHub)](Authentication/hackinghub-jwt.md)
 - [Login Pages - Authentication (HackingHub)](Authentication/hackinghub-login-pages-authentication.md)
 - [Session Tokens](Authentication/session-tokens.md)
