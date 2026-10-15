@@ -7,4 +7,4 @@ Apuntes y referencias prácticas.
 - [Pass The Hash](pass-the-hash.md)
 - [Privesc](privesc.md)
 
-[Inicio](../../../README.md)
+[Inicio](../../README.md)
