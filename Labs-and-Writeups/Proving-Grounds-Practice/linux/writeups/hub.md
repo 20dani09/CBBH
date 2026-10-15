@@ -81,7 +81,7 @@ Steps:
     
 9. Now go back, you will find the file listed there.
     
-    `<img title="" src="images/listed.png" alt="" data-align="center">`
+    Verify that `rev.lsp` is listed in the file browser (the original screenshot is unavailable).
 
 10. Finally go the link: http://127.0.0.1:8082/rev.lsp
     
