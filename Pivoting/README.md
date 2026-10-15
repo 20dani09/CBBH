@@ -6,4 +6,4 @@ Apuntes y referencias prácticas.
 - [Copy1](copy1.md)
 - [Ligolo](ligolo.md)
 
-[Inicio](../../README.md)
+[Inicio](../README.md)
