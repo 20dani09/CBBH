@@ -52,4 +52,4 @@ Apuntes y referencias prácticas.
 - [Cheatsheet](xxe/cheatsheet.md)
 - [Xxe](xxe/xxe.md)
 
-[Inicio](../../../README.md)
+[Inicio](../../README.md)
