@@ -46,4 +46,4 @@ Apuntes y referencias prácticas.
 - [Winpeas](windows/winpeas.md)
 - [Windows](windows.md)
 
-[Inicio](../../README.md)
+[Inicio](../README.md)
