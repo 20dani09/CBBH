@@ -29,4 +29,4 @@ Apuntes y referencias prácticas.
 - [Xss](xss.md)
 - [Xxe](xxe.md)
 
-[Inicio](../../../README.md)
+[Inicio](../../README.md)
