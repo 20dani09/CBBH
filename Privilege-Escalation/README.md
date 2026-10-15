@@ -1,6 +1,38 @@
-# Escalada de privilegios Linux y Windows
+# Escalada de privilegios — Linux y Windows
 
-Apuntes y referencias prácticas.
+Notas prácticas para laboratorios y evaluaciones autorizadas. La escalada empieza **identificando el contexto**, no ejecutando exploits indiscriminadamente.
+
+```mermaid
+flowchart LR
+    A["Identidad y permisos"] --> B["Enumeración local"]
+    B --> C["Configuración y servicios"]
+    C --> D["Hipótesis verificable"]
+    D --> E["Validar acceso obtenido"]
+```
+
+## Baseline de enumeración
+
+**Linux** — identidad, grupos, permisos delegados y rutas relevantes:
+
+```bash
+id
+sudo -l
+uname -a
+getcap -r / 2>/dev/null
+```
+
+**Windows** — usuario, privilegios, grupos y configuración:
+
+```cmd
+whoami /all
+whoami /priv
+systeminfo
+```
+
+
+El objetivo de estas comprobaciones es **priorizar** las hipótesis documentadas abajo; no prueban una vulnerabilidad por sí mismas.
+
+## Linux
 
 - [Abusing Curl](linux/abusing-curl.md)
 - [Autoenums](linux/autoenums.md)
@@ -29,6 +61,9 @@ Apuntes y referencias prácticas.
 - [Sudoers](linux/sudoers.md)
 - [Suid](linux/suid.md)
 - [Linux](linux.md)
+
+## Windows
+
 - [Alwaysinstallelevated Msiexec Msi File](windows/alwaysinstallelevated-msiexec-msi-file.md)
 - [Autoenums](windows/autoenums.md)
 - [Commands](windows/commands.md)
