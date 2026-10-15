@@ -100,4 +100,4 @@ Apuntes y referencias prácticas.
 - [Squid](windows/writeups/squid.md)
 - [Vault](windows/writeups/vault.md)
 
-[Inicio](../../../README.md)
+[Inicio](../../README.md)
