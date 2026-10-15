@@ -4,4 +4,4 @@ Apuntes y referencias prácticas.
 
 - [Wps](wps.md)
 
-[Inicio](../../README.md)
+[Inicio](../README.md)
