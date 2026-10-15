@@ -23,4 +23,4 @@ Apuntes y referencias prácticas.
 - [Trust Relationships Child Parent Trusts](trust-relationships-child-parent-trusts.md)
 - [Trust Relationships Cross Forest](trust-relationships-cross-forest.md)
 
-[Inicio](../../../README.md)
+[Inicio](../../README.md)
