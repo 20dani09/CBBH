@@ -1,9 +1,14 @@
-# Apuntes de ciberseguridad
+# Red Team & Pentesting Notes
 
-Mis apuntes de seguridad web, redes, sistemas, herramientas y laboratorios. Consulta por tema o busca el comando en la referencia de su herramienta.
+Apuntes técnicos de Red Team, pentesting, Active Directory, escalada de privilegios, redes, explotación web y laboratorios. Organizados por tema para consultar técnicas, entenderlas y reutilizar comandos en entornos autorizados.
 
 ## Consulta rápida
 
+- [Active Directory: Kerberoasting](Active-Directory/Advanced/kerberoasting.md)
+- [Active Directory: AS-REP Roasting](Active-Directory/Advanced/asrep-roasting.md)
+- [Escalada de privilegios Linux](Privilege-Escalation/README.md)
+- [Pivoting: Chisel](Pivoting/chisel.md) y [Ligolo](Pivoting/ligolo.md)
+- [Proving Grounds Practice](Labs-and-Writeups/Proving-Grounds-Practice/README.md)
 - [cURL y HTTP](Tools/curl.md)
 - [Nmap: opciones y ejemplos](Tools/nmap-options.md)
 - [Requests mediante Burp](Tools/burpsuite-python-proxy.md)
