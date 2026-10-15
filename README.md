@@ -34,3 +34,11 @@ Mis apuntes de seguridad web, redes, sistemas, herramientas y laboratorios. Cons
 | [Herramientas](Tools/README.md) | Referencias de comandos y configuración. |
 | [Seguridad web](Web-Security/README.md) | Fundamentos, vulnerabilidades y variantes. |
 | [Windows](Windows/README.md) | Comandos locales y consultas del sistema. |
+
+## Más temas de Red Team
+
+| Tema | Contenido |
+| --- | --- |
+| [Privilege Escalation](Privilege-Escalation/README.md) | Linux y Windows: técnicas, comprobaciones y casos prácticos. |
+| [Pivoting](Pivoting/README.md) | Tunneling, port forwarding y movimiento por redes segmentadas. |
+| [Wireless](Wireless/README.md) | Notas de auditoría Wi-Fi. |

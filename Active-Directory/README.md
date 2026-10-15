@@ -9,3 +9,8 @@ Controles de seguridad y herramientas de revisión.
 - [Estado de controles de seguridad](security-controls.md)
 
 [Inicio](../README.md)
+
+## Referencias adicionales
+
+- [Técnicas avanzadas](Advanced/README.md)
+- [Notas de campo](Field-Notes/README.md)

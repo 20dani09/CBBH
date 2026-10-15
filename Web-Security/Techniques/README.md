@@ -1,0 +1,32 @@
+# Técnicas web
+
+Apuntes y referencias prácticas.
+
+- [Access Control](Authorization/access-control/access-control.md)
+- [Api Testing](Authorization/api-testing/api-testing.md)
+- [Cross Site Request Forgery](Authorization/csrf/cross-site-request-forgery.md)
+- [Graphql Api](Authorization/graphql-api/graphql-api.md)
+- [Jwt](Authorization/json-web-tokens/jwt.md)
+- [Sql Injection](Authorization/sql-injection/sql-injection.md)
+- [Authentication](Foothold/authentication/authentication.md)
+- [Dom Xss](Foothold/dom-based-vulnerabilities/dom-xss.md)
+- [Apprentice](Foothold/host-header/apprentice.md)
+- [Practitioner](Foothold/host-header/practitioner.md)
+- [Examples](Foothold/http-smuggling/examples.md)
+- [Http Smuggling](Foothold/http-smuggling/http-smuggling.md)
+- [Practitioner](Foothold/http-smuggling/practitioner.md)
+- [Web Cache Poisoning](Foothold/web-cache-poisoning/web-cache-poisoning.md)
+- [Apprentice](Foothold/xss/apprentice.md)
+- [Practitioner](Foothold/xss/practitioner.md)
+- [File Upload](Server-Side/file-upload/file-upload.md)
+- [Os Command Injection](Server-Side/os-command-injection/os-command-injection.md)
+- [Path Traversal](Server-Side/path-traversal/path-traversal.md)
+- [Command Injections](command-injections.md)
+- [File Upload](file-upload.md)
+- [Lfi](lfi.md)
+- [Sqli](sqli.md)
+- [Sqlmap](sqlmap.md)
+- [Xss](xss.md)
+- [Xxe](xxe.md)
+
+[Inicio](../../../README.md)

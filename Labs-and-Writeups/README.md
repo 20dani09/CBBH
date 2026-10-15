@@ -163,3 +163,7 @@ Notas de cada ejercicio, máquina y caso.
 - [XSS](Web-Study/xss.md)
 
 [Inicio](../README.md)
+
+## Referencias adicionales
+
+- [Proving Grounds Practice](Proving-Grounds-Practice/README.md)

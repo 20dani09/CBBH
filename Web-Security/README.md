@@ -133,3 +133,9 @@ Fundamentos, vulnerabilidades y variantes.
 - [XSS](XSS/xss.md)
 
 [Inicio](../README.md)
+
+## Referencias adicionales
+
+- [Técnicas web](Techniques/README.md)
+- [Notas de campo](Field-Notes/README.md)
+- [CMS — referencia](CMS/Reference/README.md)
